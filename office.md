@@ -6,9 +6,9 @@ banneralt: "banner: phases of the moon"
 
 
 ## Office Hours
-Drop-ins are welcome during my regular hours, {{site.course.instructor.office_hours}}, or you can book an appointment using the form below. Meetings will be <del>in <strong>CL 617-N</strong>: through the glass doors near the elevators, then the right-side hallway and way back</del> <strong>on Zoom, at <a href="https://pitt.zoom.us/my/benmiller314">pitt.zoom.us/my/benmiller314</a></strong>. And if none of these times work for you, email me (millerb@pitt) to see if we can arrange something else.
+Drop-ins are welcome during my regular hours, {{site.course.instructor.office_hours}}, or you can book an appointment using the form below. Meetings will be simultaneously <strong>on Zoom, at <a href="https://pitt.zoom.us/my/benmiller314">pitt.zoom.us/my/benmiller314</a></strong>, and (when classes are meeting in person) in <strong>CL 617-N</strong>: through the glass doors near the elevators, then the right-side hallway and way back. And if none of these times work for you, email me (millerb@pitt) to see if we can arrange something else.
 
-Below the signup calendar, I'm also embedding my busy/free status for office hours: <em>if it looks like I have no appointments left open, you can check here:</em> actual reserved appointment slots will show up as "busy" during the standard office-hour window. 
+Below the signup calendar, I'm also embedding my busy/free status for office hours: <em>if it looks like I have no appointments left open, you can check here:</em> actual reserved appointment slots will show up as "busy" during the standard office-hour window.
 
 ### Signup calendar
 <a id="signups" class="jump" />

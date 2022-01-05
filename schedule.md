@@ -7,7 +7,7 @@ banneralt: "banner: phases of the moon"
 
 # Class-by-Class Schedule
 
-Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1"><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), [Box](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) (next best thing), Dropbox, or flash drive.
+Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1"><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), Pitt's [Box or OneDrive](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) (next best thing), an external service like Dropbox, or flash drive.
 
 <div class="panel panel-info">
 <div class="panel-body">
@@ -27,7 +27,7 @@ Unit V | [Putting it Together](#unit-5) | (weeks 11-13)
 {: .table }
 
 <h2 id="unit-1">Unit I: What Makes Digital Media New?</h2>
-<h3><a href="{{site.github_url}}/plans/lesson-01">Lesson 1, Tuesday 1/19</a> – Introductions</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-01">Lesson 1, Tuesday 1/11</a> – Introductions</h3>
 HW for next time:
 
 * Surveys and sharing:
@@ -43,18 +43,18 @@ HW for next time:
 
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-02">Lesson 2, Thursday 1/21</a> – What Can We Do With Digital?</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-02">Lesson 2, Thursday 1/13</a> – What Can We Do With Digital?</h3>
 <!-- BEN HOMEWORK: EXCERPT AUDACITY VIDEO FROM LAST TIME, SO THEY CAN WATCH IT OVER THE WEEKEND AND YOU CAN RESCUE TIME IN LESSON 4 -->
 HW for next time:
 
 <!-- NOTE FOR NEXT TIME: we probably don't need GitHub for Poets any more: this is the only time we're really using the command line, and it just seems to lead to more confusion (and definitely anxiety) than insight. -->
-* **Watch** Git and GitHub for Poets, starting at least with
+<!-- * **Watch** Git and GitHub for Poets, starting at least with
 [the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow. (I especially recommend parts 1.5 and 1.6.)
-* **Practice** following the steps in the video
+* **Practice** following the steps in the video -->
 * **Download** any software you'll need to use Git on your own computer – most likely the [GitHub Desktop application](https://desktop.github.com).
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-03">Lesson 3, Tuesday 1/26</a> – Building a Repository</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-03">Lesson 3, Tuesday 1/18</a> – Building a Repository</h3>
 <!-- Be sure to clarify that what you want is a single folder and a single file, so you can track its evolution. Some people always seem to want to create new repos for each draft, which defeats the purpose. -->
 
 For next time:
@@ -69,7 +69,7 @@ For next time:
 
 <h2 id="unit-2">Unit II: Soundscapes and Soundwriting</h2>
 
-<h3><a href="{{site.github_url}}/plans/lesson-04">Lesson 4, Thursday 1/28</a> – Audacity; Sound On, Sound Off<!-- discuss posts. skip demo. play with audacity. generative writing toward a proposal -->
+<h3><a href="{{site.github_url}}/plans/lesson-04">Lesson 4, Thursday 1/20</a> – Audacity; Sound On, Sound Off<!-- discuss posts. skip demo. play with audacity. generative writing toward a proposal -->
 <!-- Re: playing with Audacity: instead of representative and reprehensible sampling, what if we practice looping and alignment?
 --></h3>
 
@@ -83,7 +83,7 @@ For next time:
 * **Bring** headphones so you can work in class
 <!-- Ben HW: bring in sounds to practice with -->
 
-<h3><a href="{{site.github_url}}/plans/lesson-05">Lesson 5, Tuesday 2/2</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview on Thurs --></h3>
+<h3><a href="{{site.github_url}}/plans/lesson-05">Lesson 5, Tuesday 1/25</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview on Thurs --></h3>
 
 
 For next time:
@@ -97,7 +97,7 @@ For next time:
   - a brief description of what you've included (.txt or .md)
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-06">Lesson 6, Thursday 2/4</a> –  Sound criteria and stretch goals</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-06">Lesson 6, Thursday 1/27</a> –  Sound criteria and stretch goals</h3>
 
 
 For next time:
@@ -107,7 +107,7 @@ For next time:
 * **Bring** headphones
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-07">Lesson 7, Tuesday 2/9</a> – Sound Workshop</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-07">Lesson 7, Tuesday 2/1</a> – Sound Workshop</h3>
 
 For next time:
 * **Keep working** toward your soundscape narrative, incorporating feedback from partners.
@@ -115,7 +115,7 @@ For next time:
 * Optionally, **write** a blog post of possible integrative projects for the end of term. <!--What games or branching narratives do the soundscapes put you in mind of? Or what do you know you won't have time for now, but maybe could build toward by the end of the term? --> What more might you want to explore?
 * **Bring** headphones so you can work in class
 
-<h3><a href="{{site.github_url}}/plans/lesson-08">Lesson 8, Thursday 2/11</a> – Sound Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-08">Lesson 8, Thursday 2/3</a> – Sound Studio</h3>
 
 For next time:
 
@@ -128,7 +128,7 @@ For next time:
 
 *In this unit, you will make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.*
 
-<h3><a href="{{site.github_url}}/plans/lesson-09">Lesson 9, Tuesday 2/16</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-09">Lesson 9, Tuesday 2/8</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
 
 For next time:
 
@@ -136,7 +136,7 @@ For next time:
 * **Find** an example of a rhetorical visual design
 * **Write** a blog post about your example, using the analytical language from the reading
 
-<h3><a href="{{site.github_url}}/plans/lesson-10">Lesson 10, Thursday 2/18</a> – Generating Visual Ideas</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-10">Lesson 10, Thursday 2/10</a> – Generating Visual Ideas</h3>
 
 For next time, which is not until a week from now:
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and read/watch more deeply in anything that seems like it would help you.
@@ -148,27 +148,27 @@ For next time, which is not until a week from now:
 No class Tuesday, Feb 23: self-care day!
 </div>
 
-<h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Thursday 2/25</a> – Visual Unit Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Thursday 2/15</a> – Visual Unit Studio</h3>
 <!-- Open class with guidance re: proposals -->
 For next time:
 
 * **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
 * **Compose and push** a visual rhetoric preview; workshop-ready draft due in one week.
 
-<h3><a href="{{site.github_url}}/plans/lesson-12">Lesson 12, Tuesday 3/2</a> – Visual Unit Criteria and Stretch Goals</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-12">Lesson 12, Tuesday 2/17</a> – Visual Unit Criteria and Stretch Goals</h3>
 
 For next time:
 
 * **Compose and push** a visual rhetoric draft
 
-<h3><a href="{{site.github_url}}/plans/lesson-13">Lesson 13, Thursday 3/4</a> – Visual Unit Workshop</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-13">Lesson 13, Thursday 2/22</a> – Visual Unit Workshop</h3>
 
 For next time:
 
 * **Write** a blog post with more ideas toward the final / integrative project unit. What further possibilities might you want to explore?
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
-<h3><a href="{{site.github_url}}/plans/lesson-14">Lesson 14, Tuesday 3/9</a> – Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-14">Lesson 14, Tuesday 2/24</a> – Studio</h3>
 
 For next time:
 
@@ -178,7 +178,7 @@ For next time:
 <!-- BEN HW: prepare a ppt on HTML, separation of content and display. See notes in /old-plans/2019fall/lesson-17.md, and also your Seminar in Pedagogy notebook from 2019 spring. -->
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-15">Lesson 15, Thursday 3/11</a> – Midterm Reflections <!-- and Studio --></h3>
+<h3><a href="{{site.github_url}}/plans/lesson-15">Lesson 15, Thursday 3/1</a> – Midterm Reflections <!-- and Studio --></h3>
 
 For next time:
 
@@ -191,7 +191,7 @@ For next time:
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
 
-<h3><a href="{{site.github_url}}/plans/lesson-16">Lesson 16, Tuesday 3/16</a> – Intro to Markup and Web Design</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-16">Lesson 16, Tuesday 3/3</a> – Intro to Markup and Web Design</h3>
 <!--
 Ben HW: See if you can get the recording of Developer tools in Chrome / Firefox to be under 10MB, for easier repo templating.
 -->
@@ -205,8 +205,12 @@ For next time:
 
 <!-- * *Optionally* bring headphones for sonic isolation during studio time -->
 
+<div class="alert alert-danger">
+Spring break! No classes on 3/8 or 3/10.
+</div>
 
-<h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Thursday 3/18</a> – Generative Studio, troubleshooting</h3>
+
+<h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Tuesday 3/15</a> – Generative Studio, troubleshooting</h3>
 
 <!--
 **BEN HW**: Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding.
@@ -217,8 +221,6 @@ EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own
 
 NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doesn't work like the tutorial's.
 
-
-
 -->
 
 * **Do** more of the [HTML and CSS tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
@@ -226,18 +228,18 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-18">Lesson 18, Tuesday 3/23</a> – Studio / Navigation</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-18">Lesson 18, Thursday 3/17</a> – Studio / Navigation</h3>
 
 <!--
 Make sure everyone knows how to make a navigation menu using <nav><ul><li><a> ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model.
 
 BEN HW: Make a screencast of building a CSS layout from an offline sketch -->
 
-<div class="alert alert-warning">
+<!-- <div class="alert alert-warning">
 No homework: Wednesday is a self-care day. That said, if you find CSS Diner relaxing...
-</div>
+</div> -->
 
-<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Thursday 3/25</a> – Studio / Deployment</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/22</a> – Studio / Deployment</h3>
 
 <!--
 * Make sure everyone has successfully activated GitHub Pages before they leave.
@@ -256,7 +258,7 @@ For next time:
   - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/learn/), which also has video tutorials.
 * **Compose and push** a first website preview: a beginning, focused on content and navigation.
 
-<h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Tuesday 3/30</a> – Web Unit Studio / Layout Q & A</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Thursday 3/24</a> – Web Unit Studio / Layout Q & A</h3>
 
 <!--
 * Model building a design from a hand-drawn sketch.
@@ -270,7 +272,7 @@ For next time:
   - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
 * **Compose and push** a second website preview, now adding or updating layout. A full draft of your website project is due in one week.
 
-<h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Thursday 4/1</a> – Web Unit Criteria and Stretch Goals</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Tuesday 3/29</a> – Web Unit Criteria and Stretch Goals</h3>
 
 For next time:
 
@@ -281,10 +283,10 @@ For next time:
 
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Tuesday 4/6</a> – Web Unit Workshop </h3>
+<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Thursday 3/31</a> – Web Unit Workshop </h3>
 
 <div class="alert alert-danger">
-Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Thursday morning if possible</em>, so your classmates have Thursday's studio time to revise.
+Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Tuesday morning if possible</em>, so your classmates have Tuesday's studio time to revise.
 </div>
 
 For next time:
@@ -295,28 +297,28 @@ For next time:
 
 Planning ahead:
 
-* The website project and prose reflection will be due **by 11:59pm next Tuesday (4/13),** incorporating (as usual) images from your feedback and screenshots of your work in progress.
+* The website project and prose reflection will be due **by 11:59pm next Thursday (4/7),** incorporating (as usual) images from your feedback and screenshots of your work in progress.
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Thursday 4/8</a> – Studio
+<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Tuesday 4/5</a> – Studio
 <!-- if you didn't get feedback, LET BEN KNOW! --></h3>
 
 For next time:
 
 * Continue to **save and push** toward your final-for-now website.
-* The website project and prose reflection will be due **by 11:59pm next Tuesday (4/13),** incorporating (as usual) images from your feedback and screenshots of your work in progress.
+* The website project and prose reflection will be due **by 11:59pm Thursday (4/7),** incorporating (as usual) images from your feedback and screenshots of your work in progress.
 
 <!-- * If you finish early, head over to <a href="{{site.github.issues_url}}">the issue queue</a> and read through final-unit proposals. Anything you want to collaborate on? (NB: Collaboration is not required for the final unit.) -->
 
 
-<h2 id="unit-5">Unit V: Putting it Together (Bit by Bit)<a href="https://youtu.be/rJFz-ucuTvs?t=328"><span class="hidden">*</span>*</a></h2>
+<h2 id="unit-5">Unit V: Putting it Together (Bit by Bit)<a href="https://youtu.be/rJFz-ucuTvs?t=328"><span class="hidden">*</span><sup>*</sup></a></h2>
 
 *In this final unit I'll ask you to build on what you've already made: a revision, an extension, or a combination, of the modes and media you used in earlier units. If you have a team that can collaborate effectively via online formats (via Zoom, Discord, Slack, what-have-you), that's up to you! Please do let me know if you want to be in a break-out group together during class.*
 
 <!-- <p>If you're feeling especially aspirational, might I suggest that a game or interactive story built in <a href="https://twinery.org">Twine</a> might serve that combinatory goal quite well? I'll see what I'm able to screen-record by way of introduction / guidance.</p> -->
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-24">Lesson 24, Tuesday 4/13</a> – Intro to Consolidation / Integration Unit: Charting a Course Forward</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-24">Lesson 24, Thursday 4/7</a> – Intro to Consolidation / Integration Unit: Charting a Course Forward</h3>
 
 
 For next time:
@@ -329,14 +331,21 @@ For next time:
     - Post a link to this repository on the [Issue Queue]({{site.github.issues_url}}).
     - Decide (together, if applicable) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
 
-<h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Thursday 4/15</a> – Consolidation Unit Studio and maybe sortof criteria</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Tuesday 4/12</a> – Consolidation Unit Studio and maybe sortof criteria</h3>
 
 For next time:
 * **Push** a project preview (i.e. get something started) to your repository.
 * Continue updating and following your work plan.
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push.
 
-<h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Tuesday 4/20</a> – Consolidation Unit Studio / Preparing the Final Reflective Letter </h3>
+<h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Thursday 4/14</a> – Consolidation Unit Studio / Preparing the Final Reflective Letter </h3>
+
+For next time:
+* Set yourself some deadlines: what are you trying to finish by the last class (in two days!)? Will you continue beyond that for Sunday, knowing the final portfolio is due soon?
+* **Push** a full-as-possible draft of consolidation project
+
+
+<h3><a href="{{site.github_url}}/plans/lesson-27">Lesson 27, Tuesday 4/19</a> – Consolidation Unit Studio / Preparing the Final Reflective Letter </h3>
 
 For next time:
 * Set yourself some deadlines: what are you trying to finish by the last class (in two days!)? Will you continue beyond that for Sunday, knowing the final portfolio is due soon?
@@ -344,13 +353,13 @@ For next time:
 
 
 
-<h3 id="final"><a href="{{site.github_url}}/plans/lesson-27">Lesson 27, Thursday 4/22</a> – Last day of class! Looking back and looking forward</h3>
+<h3 id="final"><a href="{{site.github_url}}/plans/lesson-28">Lesson 28, Thursday 4/21</a> – Last day of class! Looking back and looking forward</h3>
 
 <!-- Asynchronous writing toward final portfolio reflection -->
 
 For next time:
 * Finish consolidation project by Sunday, if you haven't yet
-* Work to complete your final portfolio (due in our final exam slot, which we now know is **Tuesday, April 27 at noon**)
+* Work to complete your final portfolio (due in our final exam slot, t.b.d.)
 
 
 <div class="footnote-block" style="margin-top:3em;">
