@@ -1,27 +1,39 @@
-# GitHub and Git; Intro to Sound unit
-**Texts to have read/watched:**
 
-* Git and GitHub for Poets, starting at least with
-[the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+# Digital Affordances
 
-**Work to have achieved:**
 
-* Download and install what you need to use Git on your own computer: probably the [Desktop app](https://desktop.github.com), but optionally also at [the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
+**Texts to have "read":**
+
+* Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/)
+* Sample sound narratives
+
+**Writing to turn in:**
+
+* A post to the main course [issue queue]({{site.github.issues_url}}/2), reflecting on what you noticed and wondered in your reading/playing/listening
 
 ## Plan for the day
 
-1. GitHub Episode 2: Clone Warriors <!-- Ask: based on video, what's the diff btwn a clone and a fork?
-Hmm. What should I have them clone? The Audacity assignment, but then we have to talk about it. Maybe the Five Affordances repo from last time. I can create a separate folder for images. -->
-2. Multiple views of the same files: web, command line, Finder/Explorer
-3. One more view: Atom interface <!-- Ben demo; what's made easy? -->
-4. Now it's your turn! And also, here's the first project assignment<!-- Clone soundscape repo; open in Atom; rename README and make a new one -->
+1. The Newness of New Media: Five Principles, in Brief (~15 min)
+2. Five Principles as Lenses (~15 min)
+3. The first project assignment: audio narrative <!-- Clone soundscape repo; open in Atom; rename README and make a new one -->
 5. Audacity Tour, by way of a past-semester example (10-15 min) <!-- tracks, mute/solo, resize tracks, zoom, .aup files and the _data folder -->
 6. Why we need Git Beyond GitHub
 7. HW Preview
 
+### 1. Five Principles, in Brief
 
+Can I get five people to fill us in on the five "principles of new media" from the webtext I asked you to read? i.e. One person, one term.
 
-## 1. GitHub Episode 2: Clone Warriors
+<!-- numerical representation, modularity, automation, variability,
+and transcoding -->
+
+Let's take notes here: [bit.ly/cdm{{site.course.slugterm}}-notes](http://bit.ly/cdm{{site.course.slugterm}}-notes)
+
+<!-- Notice the Credits page: the ethics around using sources don't go away when you go digital. Copying is easy, and doesn't do direct harm to the original artifact... but it could cause reputational damage or lost opportunity to the original author.
+
+Did anyone click through the links on the Credits? The original piece with the subtitle "Playing Lev Manovich" is now defunct, because it relied on Flash. That's another feature (or bug?) of digital media: ephemerality. One reason to prefer standards-based tools, rather than proprietary formats. Similarly, Su's original bio linked here is now gone: she stopped using the service. Another reason to learn how to roll your own. -->
+
+## 1. GitHub, part 3: working locally
 
 Last time, we saw how GitHub can let multiple people edit a file, integrate the changes, and keep track of the file's history. So far, so good!
 
@@ -42,7 +54,7 @@ You can also open it via command line (a.k.a. _Terminal_ on Mac, or _GitBash_ or
 <details>
 <summary>For more on the command line, click here to expand.</summary>
 <h3>The command line: behind the scenes</h3>
-<em>See also the <a href="https://youtu.be/oK8EvVeVltE">"Git and GitHub for Poets" episode 1.5, intro to the command line</a>.</em>
+<em>See also <a href="https://youtu.be/oK8EvVeVltE">"Git and GitHub for Poets" episode 1.5, intro to the command line</a>.</em>
 
 Much as a repository is just another name for a file folder you're tracking, the <em>command line</em> is just another way of seeing the files you're used to seeing in windows. (Note the lowercase 'w.') Instead of a graphical interface, everything here will be text.
 
@@ -100,12 +112,8 @@ Which brings us to...
 ## 3. One more view: the Atom interface
 
 
-### Initial questions to ask:
 
-- How is the space of the app laid out?
-- What's given the most prominent visual focus?
-- What features/tools do you have quick access to?
-  * for example: what do you get in the right-click menu?
+
 
 Suppose I would like to reorganize these files. Here's how I would...
 
@@ -142,16 +150,16 @@ with particular attention to its ability to communicate
 
 
 
-## 5. Audacity Tour, by way of a past-semester example (10-15 min) <!-- tracks, mute/solo, resize tracks, zoom, .aup files and the _data folder -->
+## 5. Audacity Tour, by way of a past-semester example (10-15 min) <!-- tracks, mute/solo, label, resize tracks, zoom -->
 
 I want to start with a behind-the-scenes view of one of the finished soundscapes I'll ask you to listen to for homework.
 
 This is Tyller Barner's "Coffeeshop Conversations," from Spring 2019. I'm very happy to talk at some point about the piece itself, but for now, let's see what it can show us about this new application, Audacity.
 
-### Initial questions to ask:
+### Initial questions to ask of any app:
 
-- How is the space of the app laid out?
-- What's given the most prominent visual focus?
+- How is the space laid out?
+- What's given the most prominent visual focus? Secondary focus?
 - What features/tools do you have quick access to?
 
 ### Now let's play
@@ -175,13 +183,16 @@ This is Tyller Barner's "Coffeeshop Conversations," from Spring 2019. I'm very h
 
 <!-- show Tyller's files -->
 
-<div class="alert alert-warning">
-<p><strong>Important:</strong> Audacity project files, with extension .aup, do not in themselves contain any sound. They are, instead, an index of the files that live in an adjacent folder: if your main file is <em>project.aup</em>, then the data folder is <em>project_data</em>.</p>
+Audacity project files, with extension .aup3, are not playable in any program other than Audacity. Strictly speaking, they're not actually sound files: they're a database *of* a large number of sound files, bundled together with the files themselves, plus information about track display sizes, whether they're muted, how much they're panned left or right, and so on.
 
-<p><strong>The .aup file and the _data folder must always live in the same containing folder, and move together.</strong> If you have one in your repository but not the other, the project will not open properly!</p>
+(In fact, until Audacity 3.x, all these files and the index of metadata used to be separate. It's a mixed bag that they're not any more: on the one hand, it's harder to mess up. On the other, it makes that unified file a lot larger.)
+
+To make the file playable, you have to *render* it by using File > Export As. You're probably fine to use .mp3 format for most purposes.
+
+<div class="alert alert-warning">
+NB: You probably <em>don't</em> want to use .wav files most of the time: they're lossless, but they're uncompressed, and therefore tend to eat up huge quantities of disk space.
 </div>
 
-NB: You should never need to manipulate the files in the \_data folder directly: just let Audacity handle them.
 
 ## 6. Why we need Git Beyond GitHub (10 min)
 
@@ -230,14 +241,7 @@ If you've downloaded [GitHub Desktop](https://desktop.github.com), you can use a
   - [Selecting and Zooming](https://www.linkedin.com/learning/learning-audacity-2/selecting-and-zooming) (6 min)
   - [Playback Controls](https://www.linkedin.com/learning/learning-audacity-2/playback-controls?resume=false&u=2252458) (4 min)
   - [Make Selections](https://www.linkedin.com/learning/learning-audacity-2/make-selections) (5 min)
-* **Listen** to the following recordings made by students in response to a similar prompt:
-<!-- update each time with examples from this class where possible -->
-  - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
-  - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177).
-  - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
-  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178). (NB: starts loud; turn volume down)
 
-* **Write** a short blog post to the appropriate thread [on the issue queue]({{site.github.issues_url}}): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
 
 <hr/>
 

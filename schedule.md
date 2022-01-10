@@ -37,33 +37,30 @@ HW for next time:
 * Written introduction to the people in the class:
   - **Join** [GitHub](https://github.com/) if you haven't yet (you can use your Pitt email to get [free private repositories](https://education.github.com/discount_requests/student_application)!),
   - **and post** an introduction to yourself on <a href="{{site.github.issues_url}}/1">the issue queue</a>.
-* Prep for next class:
-  - **Read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/). Be ready to talk about what you noticed, and what you wondered.
-  - If you don't already have one, **download / install** a plain text editor. I recommend [Atom](http://atom.io).
+* Prep software for next class:
+  - **Download and install** the [GitHub Desktop application](https://desktop.github.com)
+  - **Download and install** a plain text editor with syntax highlighting; if you don't already have a preference, I recommend [Atom](https://atom.io).
 
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-02">Lesson 2, Thursday 1/13</a> – What Can We Do With Digital?</h3>
-<!-- BEN HOMEWORK: EXCERPT AUDACITY VIDEO FROM LAST TIME, SO THEY CAN WATCH IT OVER THE WEEKEND AND YOU CAN RESCUE TIME IN LESSON 4 -->
+<h3><a href="{{site.github_url}}/plans/lesson-02">Lesson 2, Thursday 1/13</a> – Interfaces and Repositories</h3>
+
 HW for next time:
-
-<!-- NOTE FOR NEXT TIME: we probably don't need GitHub for Poets any more: this is the only time we're really using the command line, and it just seems to lead to more confusion (and definitely anxiety) than insight. -->
-<!-- * **Watch** Git and GitHub for Poets, starting at least with
-[the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow. (I especially recommend parts 1.5 and 1.6.)
-* **Practice** following the steps in the video -->
-* **Download** any software you'll need to use Git on your own computer – most likely the [GitHub Desktop application](https://desktop.github.com).
+* **Read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/). Be ready to talk about what you noticed, and what you wondered.
+* **Listen** to example sound narratives (see lesson plan for links)
+* **Write** a short blog post: what do you notice? what do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-03">Lesson 3, Tuesday 1/18</a> – Building a Repository</h3>
+
+
+<h3><a href="{{site.github_url}}/plans/lesson-03">Lesson 3, Tuesday 1/18</a> – Digital Affordances</h3>
 <!-- Be sure to clarify that what you want is a single folder and a single file, so you can track its evolution. Some people always seem to want to create new repos for each draft, which defeats the purpose. -->
 
 For next time:
 
-* **Listen** to example sound narratives (see lesson plan for links)
-* **Write** a short blog post: what do you notice? what do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
-* **Watch** <del>my Audacity demo from last semester</del> the recommended selections from the LinkedIn Learning tutorial on Audacity
 * **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor if you haven't yet, or update to the latest version if you already have it.
-* *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
+  * *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
+* **Watch** the recommended selections from the LinkedIn Learning tutorial on Audacity (see lesson plan)
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->
 
 
@@ -91,7 +88,7 @@ For next time:
 * **Skim** the audio resources on the site, and read more deeply in anything that seems like it would help you.
   - In particular, I recommend the LinkedIn Learning (formerly Lynda) series of videos on Audacity. It's about 2 hours total, but [I've marked my highlights]({{site.github_url}}/resources#lil-audacity).
 * **Push** a soundscape preview, including
-  - the layered Audacity file (.aup)
+  - the layered Audacity file (.aup3)
   - one screenshot of your work in progress (.png)
   - one exported playable sound file (.mp3)
   - a brief description of what you've included (.txt or .md)
@@ -111,7 +108,7 @@ For next time:
 
 For next time:
 * **Keep working** toward your soundscape narrative, incorporating feedback from partners.
-* If you haven't finished *giving* feedback, please do so asap, and ideally by Thursday morning.
+* If you haven't finished *giving* feedback, please do so asap, and ideally before Thursday morning.
 * Optionally, **write** a blog post of possible integrative projects for the end of term. <!--What games or branching narratives do the soundscapes put you in mind of? Or what do you know you won't have time for now, but maybe could build toward by the end of the term? --> What more might you want to explore?
 * **Bring** headphones so you can work in class
 
@@ -128,80 +125,84 @@ For next time:
 
 *In this unit, you will make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.*
 
-<h3><a href="{{site.github_url}}/plans/lesson-09">Lesson 9, Tuesday 2/8</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-09">Lesson 9, Tuesday 2/8</a> – Can You Picture It? Visual Rhetorics and Argument</h3> <!-- Introduce unit assignment; start hw reading in class, if possible -->
 
 For next time:
 
 * **Read** a quick introduction to graphic design principles
 * **Find** an example of a rhetorical visual design
-* **Write** a blog post about your example, using the analytical language from the reading
+* **Write** a post on the relevant <a href="{{site.github.issues_url}}">issue queue</a> about your example, using the analytical language from the reading
 
-<h3><a href="{{site.github_url}}/plans/lesson-10">Lesson 10, Thursday 2/10</a> – Generating Visual Ideas</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-10">Lesson 10, Thursday 2/10</a> – Generating Visual Ideas</h3> <!-- practice vocab by analyzing examples of past student projects: emphasize emphasis; design vs. intervention; audience addressed, audience invoked. end with perl-esque guidelines -->
 
-For next time, which is not until a week from now:
+For next time:
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and read/watch more deeply in anything that seems like it would help you.
-* In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." It's about *5* hours of material, but as before, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp). I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. Note that there are exercise files, should you want to follow along and make sure it works in practice.
+* In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." It's about *5* hours of material, which I'm not expecting you to view all of in one weekend (though you do you): as before, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp). I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. Note that there are exercise files, should you want to follow along and make sure it works in practice.
   - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours!
-* **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.issues_url}}">the issue queue</a>
+* **Write** a visual rhetoric proposal, including a prospective asset list and a rough sketch; post to <a href="{{site.github.issues_url}}">the issue queue</a>
+* **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
-<div class="alert alert-danger">
-No class Tuesday, Feb 23: self-care day!
-</div>
-
-<h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Thursday 2/15</a> – Visual Unit Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Tuesday 2/15</a> – Generative Studio</h3>
 <!-- Open class with guidance re: proposals -->
 For next time:
 
-* **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
 * **Compose and push** a visual rhetoric preview; workshop-ready draft due in one week.
+* (Weekend reading, should you want it / have more time now: **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game<!-- http://www.typeconnection.com/ -->)
 
-<h3><a href="{{site.github_url}}/plans/lesson-12">Lesson 12, Tuesday 2/17</a> – Visual Unit Criteria and Stretch Goals</h3>
 
-For next time:
-
-* **Compose and push** a visual rhetoric draft
-
-<h3><a href="{{site.github_url}}/plans/lesson-13">Lesson 13, Thursday 2/22</a> – Visual Unit Workshop</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-12">Lesson 12, Thursday 2/17</a> – Visual Unit Criteria and Stretch Goals</h3>
 
 For next time:
 
-* **Write** a blog post with more ideas toward the final / integrative project unit. What further possibilities might you want to explore?
+* **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
+* **Compose and push** a workshop-ready visual rhetoric draft
+
+<h3><a href="{{site.github_url}}/plans/lesson-13">Lesson 13, Tuesday 2/22</a> – Visual Unit Workshop</h3>
+
+For next time:
+
+* *Optionally*, **write** a post on the <a href="{{site.github.issues_url}}">issue queue</a> with more ideas toward the final / integrative project unit. What further possibilities might you want to explore?
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
-<h3><a href="{{site.github_url}}/plans/lesson-14">Lesson 14, Tuesday 2/24</a> – Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-14">Lesson 14, Thursday 2/24</a> – Revision Studio</h3>
 
 For next time:
 
-<!-- Ordinarily, a final draft is due one week after the workshop, which would be Thursday. But the two days between now and then are too short, and once it's due after Thursday's class, might as well have the weekend available. -->
-* To get ready for our upcoming web design unit, download and install the [Atom text editor](http://atom.io). (If you already have a syntax-highlighting text editor, that's also fine. A word processor like Microsoft Word is not.)
-* **By 11:59pm on Sunday,** complete – at least for now – your visual argument, along with a prose reflection that incorporates images from your feedback and screenshots of your GIMP project.
-<!-- BEN HW: prepare a ppt on HTML, separation of content and display. See notes in /old-plans/2019fall/lesson-17.md, and also your Seminar in Pedagogy notebook from 2019 spring. -->
-
-
-<h3><a href="{{site.github_url}}/plans/lesson-15">Lesson 15, Thursday 3/1</a> – Midterm Reflections <!-- and Studio --></h3>
-
-For next time:
-
-* **By 11:59pm on Sunday,** complete – at least for now – your visual argument, along with a prose reflection that incorporates images from your feedback and screenshots of your GIMP project.
-* EXT: If you haven't yet, spend some time getting to know your plain-text editor.
-  - Can it show two or more files side by side? Can it preview how an html file will render? Does it allow plugins or extensions to enable either of those things?
-  - If you're using Atom, you may want to check out the intro tutorials on the course [Resources page]({{site.github_url}}/resources#web-design:~:text=good%20tutorials%20on%20working%20with%20Atom).
+* **By 11:59pm on Sunday,** complete – at least for now – your visual argument
+* By classtime on Tuesday, post a prose reflection to <a href="{{site.github.issues_url}}">the issue queue</a> that incorporates images from your feedback and screenshots of your GIMP project.
+<!-- BEN HW: Choose sample student website projects to assign. Focus on work by people without prior experience – including Carolyn's tea shop -->
 
 
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
+
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
 
-<h3><a href="{{site.github_url}}/plans/lesson-16">Lesson 16, Tuesday 3/3</a> – Intro to Markup and Web Design</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-15">Lesson 15, Tuesday 3/1</a> – Midterm Reflections and Generative Writing </h3> <!-- Generative loop writing: what are the collections & categories of things you've made? Things you'd want to make? Offline sketching -->
+
+For next time:
+
+* Review sample student website projects
+* Consider the collections of work you might want to gather
+* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
+
+<h3><a href="{{site.github_url}}/plans/lesson-16">Lesson 16, Thursday 3/3</a> – Intro to Markup and Web Design</h3>
 <!--
-Ben HW: See if you can get the recording of Developer tools in Chrome / Firefox to be under 10MB, for easier repo templating.
+BEN HW:
+  * Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding. Then update the HW for after break to include this.
+  * Record and post a screencast of building a CSS layout from an offline sketch
+
 -->
 
 For next time:
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – but **at least parts 1-4** (from "Introduction" through "Hello, CSS").
+* *Optional* If you haven't yet, spend some time getting to know your plain-text editor.
+  - Can it show two or more files side by side? Can it preview how an html file will render? Does it allow plugins or extensions to enable either of those things?
+  - If you're using Atom, you may want to check out the intro tutorials on the course [Resources page]({{site.github_url}}/resources#web-design:~:text=good%20tutorials%20on%20working%20with%20Atom).
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you have time for – but **at least parts 1-4** (from "Introduction" through "Hello, CSS").
   * Heads up to fast workers: Float layouts used to be a big deal, but aren't as widely recommended any more. You can probably skip that chapter, at least for now.
-* **Show your work** by pushing your tutorial code to a repository.
-  * If it's not working the same as in the tutorial, please do check with me! I'll set aside some breakout group time on Thursday, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
+* **Show your work** by pushing your tutorial code to your project repository.
+  * Do start by copying the pages as written, before attempting to adapt to your own work: confirm that you can get them to look the same as in the tutorial.
+  * If your pages *aren't* working the same as in the tutorial, please do check with me! I'll set aside some breakout group time when we get back, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
 
 <!-- * *Optionally* bring headphones for sonic isolation during studio time -->
 
@@ -210,13 +211,10 @@ Spring break! No classes on 3/8 or 3/10.
 </div>
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Tuesday 3/15</a> – Generative Studio, troubleshooting</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Tuesday 3/15</a> – Studio / Stylesheeting </h3>
 
 <!--
-**BEN HW**: Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding.
 
-Generative loop writing
-Offline sketching
 EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own. That is, once you have the tutorial working, try swapping in your own content for the tutorial's: an about page, an image or two, a linked credits page. And if not today, then Thursday
 
 NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doesn't work like the tutorial's.
@@ -225,21 +223,28 @@ NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doe
 
 * **Do** more of the [HTML and CSS tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
-* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
+<!-- * **View** screencast on using <nav><ul><li></a> and CSS to remove bullets ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model. -->
+
+
 
 
 <h3><a href="{{site.github_url}}/plans/lesson-18">Lesson 18, Thursday 3/17</a> – Studio / Navigation</h3>
 
-<!--
-Make sure everyone knows how to make a navigation menu using <nav><ul><li><a> ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model.
+<!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>. -->
 
-BEN HW: Make a screencast of building a CSS layout from an offline sketch -->
+For next time:
+
+* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+  - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
+* Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
+  - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/learn/), which also has video tutorials.
+* **Compose and push** a first website preview: a beginning, focused on content and navigation.
 
 <!-- <div class="alert alert-warning">
 No homework: Wednesday is a self-care day. That said, if you find CSS Diner relaxing...
 </div> -->
 
-<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/22</a> – Studio / Deployment</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/22</a> –  Web Unit Criteria and Stretch Goals / Deployment</h3>
 
 <!--
 * Make sure everyone has successfully activated GitHub Pages before they leave.
@@ -251,12 +256,10 @@ No homework: Wednesday is a self-care day. That said, if you find CSS Diner rela
 -->
 
 For next time:
-
-* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
-  - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
-* Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
-  - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/learn/), which also has video tutorials.
-* **Compose and push** a first website preview: a beginning, focused on content and navigation.
+* **Continue** the [HTML &amp; CSS tutorial](https://internetingishard.com/html-and-css/), adding at least Semantic HTML (12) and Web Typography (14). If you're encountering weird layout intransigence, you may also want to try Advanced Positioning (9).
+  - Remember that the main tools for layout now in use are Grid and Flex; you can probably skip the chapter on Float except for particular use-cases (e.g. text that wraps around an image).
+  - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
+* **Compose and push** a second website preview, now adding or updating layout. A full, workshop-ready draft of your website project is due in one week.
 
 <h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Thursday 3/24</a> – Web Unit Studio / Layout Q & A</h3>
 
@@ -265,55 +268,47 @@ For next time:
 * Self-paced tutorial-ing / applications of tutorial to your own content, in breakouts
 * Q&A with Ben in main room, especially if your tutorials aren't working as expected.
 -->
-
-For next time:
-* **Continue** the [HTML &amp; CSS tutorial](https://internetingishard.com/html-and-css/), adding at least Semantic HTML (12) and Web Typography (14). If you're encountering weird layout intransigence, you may also want to try Advanced Positioning (9).
-  - Remember that the main tools for layout now in use are Grid and Flex; you can probably skip the chapter on Float except for particular use-cases (e.g. text that wraps around an image).
-  - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
-* **Compose and push** a second website preview, now adding or updating layout. A full draft of your website project is due in one week.
-
-<h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Tuesday 3/29</a> – Web Unit Criteria and Stretch Goals</h3>
-
 For next time:
 
-* **Compose and push** a full draft of your website project no later than Tuesday morning (let's say 10am Eastern).
-* When it's ready, to test that it's fully on GitHub for your workshop partners to download, **clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop.
-  - <em>(And you should then also be good to **delete that extra copy**, before you get confused as to where you're pushing from.)</em>
-* If you're doing something advanced (Jekyll, React, etc) that will require a server and not just a browser, be sure to explain in your repo's README.md file how to load your files.
+* **Compose and push** a full draft of your website project by Tuesday morning, let's say 11:59am.
+  * If you're doing something advanced (Jekyll, React, etc) that will require a server and not just a browser, be sure to **explain in your repo's README.md file how to load your files**.
+  * If you haven't already done so in class, test that your website portfolio is ready for your workshop partners to download: **try to clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop.
+    - (You should then also <em>delete that extra copy</em>, before you get confused as to where you're revising and pushing from.)
 
 
-
-<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Thursday 3/31</a> – Web Unit Workshop </h3>
+<h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Tuesday 3/29</a> – Web Unit Workshop </h3> <!-- Remind people that local file paths aren't going to work! Show them the browser extension for replacing images with their alt text / detecting accessibility problems. -->
 
 <div class="alert alert-danger">
-Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Tuesday morning if possible</em>, so your classmates have Tuesday's studio time to revise.
+Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Thursday morning if possible</em>, so your classmates have the studio time to revise with your input in mind. If you can finish by the end of our usual classtime, all the better!
+
+<!-- I'll be in the class zoom during office hours and classtime for troubleshooting, if you need me.-->
 </div>
+
+
+<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Thursday 3/31</a> – Post-workshop Studio </h3><!-- if you didn't get feedback, LET BEN KNOW! -->
 
 For next time:
 
 * Optionally, **write** one more blog post about what you'd like to do in our final / integrative unit. If you're interested in finding people to collaborate with, this is a good time to make a pitch.
   - Post this to <a href="{{site.github.issues_url}}">the issue queue</a>, as usual
-* Continue to **save and push** toward your final-for-now website.
+* Continue to **save, commit, and push** toward your final-for-now website.
 
 Planning ahead:
 
-* The website project and prose reflection will be due **by 11:59pm next Thursday (4/7),** incorporating (as usual) images from your feedback and screenshots of your work in progress.
+* The website project and prose reflection will be due **by next Thursday (4/7),** incorporating (as usual) images from your feedback and screenshots of your work in progress.
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Tuesday 4/5</a> – Studio
-<!-- if you didn't get feedback, LET BEN KNOW! --></h3>
+<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Tuesday 4/5</a> – Final Web-Unit Studio
+</h3> <!-- Already done? Head over to <a href="{{site.github.issues_url}}">the issue queue</a> and read through final-unit proposals. Anything you want to collaborate on? (NB: Collaboration is not required for the final unit.) -->
 
 For next time:
+* Unless you've confirmed an extension with me, the final (at least or now) website project will be due **by Thursday (4/7),** along with your prose reflection incorporating (as usual) images from your feedback and screenshots of your work in progress.
 
-* Continue to **save and push** toward your final-for-now website.
-* The website project and prose reflection will be due **by 11:59pm Thursday (4/7),** incorporating (as usual) images from your feedback and screenshots of your work in progress.
-
-<!-- * If you finish early, head over to <a href="{{site.github.issues_url}}">the issue queue</a> and read through final-unit proposals. Anything you want to collaborate on? (NB: Collaboration is not required for the final unit.) -->
 
 
 <h2 id="unit-5">Unit V: Putting it Together (Bit by Bit)<a href="https://youtu.be/rJFz-ucuTvs?t=328"><span class="hidden">*</span><sup>*</sup></a></h2>
 
-*In this final unit I'll ask you to build on what you've already made: a revision, an extension, or a combination, of the modes and media you used in earlier units. If you have a team that can collaborate effectively via online formats (via Zoom, Discord, Slack, what-have-you), that's up to you! Please do let me know if you want to be in a break-out group together during class.*
+*In this final unit I'll ask you to build on what you've already made: a revision, an extension, or a combination, of the modes and media you used in earlier units. If you have a team that can collaborate effectively via online formats (via Zoom, Discord, Slack, what-have-you), that's up to you! Please do let me know if you want to be in a break-out group together during class. It's a short sprint to the end of term, so scope your ambitions accordingly!*
 
 <!-- <p>If you're feeling especially aspirational, might I suggest that a game or interactive story built in <a href="https://twinery.org">Twine</a> might serve that combinatory goal quite well? I'll see what I'm able to screen-record by way of introduction / guidance.</p> -->
 

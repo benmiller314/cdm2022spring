@@ -1,46 +1,35 @@
 
-# What Can We Do With Digital?
+# Interfaces and Repositories
 
-<!-- *** DON'T FORGET TO RENAME THE FILE, BEN! *** -->
-<!--     Also: set up Zoom breakout groups  -->
-
+<!--  BEN: Set up Zoom breakout groups ahead of time! -->
 
 
 **Texts to have read:**
 
-* The [syllabus](/{{site.course.base_url}}uploads) and [grading contract](https://canvas.pitt.edu/courses/78948/modules)
-* Su, ["Playing Lev Manovich"](https://tylersu.github.io/o/). Be ready to talk about what you noticed, and what you wondered.)
+* The [syllabus](/{{site.course.base_url}}uploads) and [related modules]({{site.course.canvas_url}}/modules)
 
-**Writing to turn in:**
+**Work to have achieved:**
 
-* An open-book "quiz" on the grading contract
-* A post to the main course [issue queue]({{site.github.issues_url}}/1), introducing yourself to your classmates (and anyone else who stumbles upon it)
+* Respond to the [Tech Comfort Survey](http://bit.ly/cdm2021survey)
+* Post to the main course [issue queue]({{site.github.issues_url}}/1), introducing yourself to classmates (and whoever stumbles upon it)
+* Download and install what you need to use Git on your own computer: probably the [Desktop app](https://desktop.github.com), but optionally also at [the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
 
 
 ## Plan for the Day
 
-1. The Newness of New Media: Five Principles, in Brief (~15 min)
-2. GitHub and Git <!-- repo, commit, history, diff --> (~15 min)
-3. Five Principles as Lenses (~15 min)
+1. GitHub, part 2 (~15-20 min)
+  * what is a repository?
+  * a demo of diffs<!-- repo, commit, history, diff -->
+2. Multiple views of the same files: web, Finder/Explorer, GH Desktop
+3. One more view: Atom interface <!-- Ben demo; what's made easy? -->
 4. Shareback (~15 min)
 5. HW Preview
 
 Welcome back! I really enjoyed reading all the introductory posts and letters; if you haven't had a chance to get to know your classmates' opening posts, I encourage you to [check them out]({{site.github.issues_url}}/1)!
 
-### 1. Five Principles, in Brief
 
-Can I get five people to fill us in on the five "principles of new media" from the webtext I asked you to read? i.e. One person, one term.
 
-<!-- numerical representation, modularity, automation, variability,
-and transcoding -->
-
-Let's take notes here: [bit.ly/cdm2021spring-notes](http://bit.ly/cdm2021spring-notes)
-
-<!-- Notice the Credits page: the ethics around using sources don't go away when you go digital. Copying is easy, and doesn't do direct harm to the original artifact... but it could cause reputational damage or lost opportunity to the original author.
-
-Did anyone click through the links on the Credits? The original piece with the subtitle "Playing Lev Manovich" is now defunct, because it relied on Flash. That's another feature (or bug?) of digital media: ephemerality. One reason to prefer standards-based tools, rather than proprietary formats. Similarly, Su's original bio linked here is now gone: she stopped using the service. Another reason to learn how to roll your own. -->
-
-### 2. GitHub, part 2
+## 1. GitHub, part 2
 Last time, we saw that GitHub can host a discussion forum, so in that sense it's a community website: it makes media social.
 
 But its core functionality is meant to solve a different media problem: tracking changes to files over time.
@@ -50,16 +39,23 @@ But its core functionality is meant to solve a different media problem: tracking
   <figcaption>from <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PhD Comics</a> by Jorge Cham (2012).</figcaption>
 </figure>
 
-Renaming ever more files isn't only messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. But digital media is all numeric, at heart, so we can instead just keep track of the *differences.*
+Renaming ever more files isn't only messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. What *git* allows you to do instead is to **track the differences**, so you can keep using the the same filename.*
+
 
 <div class="alert alert-success">
-Let's quickly walk through what it looks like to track changes via the GitHub.com web interface:
+Let's check out the GitHub.com web interface, and see how it works:
 <strong><a href="https://github.com/benmiller314/text-demo#readme">https://github.com/benmiller314/text-demo</a></strong>
 </div>
 
+### Initial questions to ask of any app:
+
+- How is the space laid out?
+- What's given the most prominent visual focus? Secondary focus?
+- What features/tools do you have quick access to?
+
 <!--
-1. Create a new .txt file.
-2. Demo the importance of the extension by previewing what happens if it's .md?
+1. Create a new .txt file based on https://www.poetryfoundation.org/poems/56159/this-is-just-to-say
+2. <del>Demo the importance of the extension by previewing what happens if it's .md?</del> NAH
 3. Commit the new file directly to master.
     - Note that the commit message has two parts: a short label, and a bigger box. These are kind of like the subject line of an email and the email body. The first is what you'll see automatically when browsing the history; the second will require an additional click. And GitHub will let you leave the "body" blank, but you're required to have a "subject line."
 4. Change the text. *Ask for suggestions in the Zoom chat.*
@@ -68,36 +64,34 @@ Let's quickly walk through what it looks like to track changes via the GitHub.co
    This will become important in a minute.
 -->
 
-### 3. Five Principles as Lenses
+## 2. Your turn
 
-Time to take these abstractions and put them into practice, in two ways:
-
-* practice using GitHub
-* practice using our key terms to help us see differently
+Time to take these abstractions and put them into practice, using our key terms to help us see differently.
 
 We'll be working in groups. I've used your Tech Comfort Survey responses from Lesson 1 to build breakout rooms where at least one person has prior GitHub experience, so I hope you'll be able to help each other where needed!
 
 <div class="alert alert-success">
 Head to
-<strong><a href="https://github.com/benmiller314/cdm-digital-affordances#readme">https://github.com/benmiller314/cdm-digital-affordances</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)
+<strong><a href="https://github.com/benmiller314/cdm-gh-practice">https://github.com/benmiller314/cdm-gh-practice</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)
 
-Start by skimming through the instructions in the README file, so you know where this is headed. (It'll save you headaches later.)
-
-Then follow the steps.
+Start by skimming through the instructions in the README file, so you know where this is headed. (It'll spare you confusion later.) I'll give you the overview while we're still together:
+<ol><li>Make a copy of the repository for your group</li>
+<li>Write a story, one line per person, committing every time</li>
+<li>File a <em>pull request</em> to merge it back to my repo</li></ol>
 </div>
 
-We'll work in Breakout Rooms for about 10-15 minutes, then report back. Don't forget that you can use Zoom chat and screenshare to your advantage.
+Read through the details, then follow the steps. **We'll work in Breakout Rooms for about 10-15 minutes, then report back.** Don't forget that you can use Zoom chat and screenshare to show your groupmates what you're doing.
 
 Call me if you need me! Otherwise, I'll be floating from group to group.
 
 ## HW for next time:
 
-* **Watch** Git and GitHub for Poets, starting at least with
-[the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow.
-  - I also especially recommend [1.5 / intro to the command line](https://youtu.be/oK8EvVeVltE) and [1.6 / clone, push, pull](https://youtu.be/yXT1ElMEkW8), though the latter gets a little long-winded... But then, that's what 1.5x playback is for, am I right?
-* **Practice** following the steps in the video, using either a .txt file or a .md file: create a repository on GitHub, add some content to a file, commit, edit it, commit again, and view the history. Next class we can start with any questions that came up for you in the process.
-   - If you've used GitHub a lot, you may want to play around with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting. Do you know what happens if you embed html inside a Markdown file? Or Markdown inside an html block?
-* Download what you'll need to get git functioning **on your own computer** (i.e. not through the github.com website):
-  - I highly recommend you download the **[GitHub Desktop application](https://desktop.github.com)**, available for MacOS or Windows, which (like the command line interface) has some essential features that are unavailable on the GitHub website.
-  - *Alternatively:* you could install command-line git, probably using either GitBash (for Windows) or Homebrew (for Mac) – or see this [walkthrough of how to install git using, ironically enough, GitHub Desktop](https://www.techrepublic.com/article/how-to-install-github-desktop/#:~:text=That's%20right%2C%20even%20though%20GitHub,install%20Git%20(Figure%20B). (Linux users, I kind of assume you don't need further instructions, but hit me up if I'm wrong.)
-  - *Extra optional:* Do you already know git basics, and want a more hands-on guide through the full GitHub functionality? See the GitHub Learning Lab entry on our [Resources page]({{site.github_url}}/resources).
+* Please **read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/), which defines and illustrates five principles of new media. Be ready to talk about what you noticed, and what you wondered.
+* **Listen** to the following recordings:
+<!-- update each time with examples from this class where possible -->
+  - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
+  - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177).
+  - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
+  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178). (NB: starts loud; turn volume down)
+
+* **Write** a short blog post to the appropriate thread [on the issue queue]({{site.github.issues_url}}): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
