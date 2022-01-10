@@ -47,7 +47,7 @@ HW for next time:
 
 HW for next time:
 * **Read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/). Be ready to talk about what you noticed, and what you wondered.
-* **Listen** to example sound narratives (see lesson plan for links)
+* **Listen** to example audio narratives (see lesson plan for links)
 * **Write** a short blog post: what do you notice? what do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
 
 
@@ -58,9 +58,9 @@ HW for next time:
 
 For next time:
 
-* **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor if you haven't yet, or update to the latest version if you already have it.
+* **Download** the [Audacity 3](https://www.audacityteam.org/download/) audio editor if you haven't yet, or update to the latest version if you already have it.
   * *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
-* **Watch** the recommended selections from the LinkedIn Learning tutorial on Audacity (see lesson plan)
+* **Watch** the recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=8oOaXWdmMcc) and come in ready to play with the software (and ask any questions that come up)
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->
 
 
@@ -74,7 +74,7 @@ For next time:
 
 * **Read and listen** to the audio recording advice (Fowkes and MacAdam) if you haven't yet
 * **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons. <!-- FOR NEXT TIME: consider whether you'd want to do Perusall for this, and skip the in-class discussion. Depends a lot on how busy the rest of the HW is; in spring 2021 I don't regret not doing it that way, b/c there was already so much other stuff to do. But if there were to be less writing... -->
-* **Write** a proposal for your sound narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.issues_url}}">the Issues page</a>.
+* **Write** a proposal for your audio narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.issues_url}}">the Issues page</a>.
 <!-- * **Listen to and record** a piece of your local soundscape THIS IS GOOD, BUT I JUST DON'T HAVE TIME IN THE SPRING -->
 * **Begin** sourcing the sounds you'll need
 * **Bring** headphones so you can work in class
@@ -139,7 +139,7 @@ For next time:
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and read/watch more deeply in anything that seems like it would help you.
 * In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." It's about *5* hours of material, which I'm not expecting you to view all of in one weekend (though you do you): as before, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp). I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. Note that there are exercise files, should you want to follow along and make sure it works in practice.
   - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours!
-* **Write** a visual rhetoric proposal, including a prospective asset list and a rough sketch; post to <a href="{{site.github.issues_url}}">the issue queue</a>
+* **Write** a visual argument proposal, including a prospective asset list and a rough sketch; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
 <h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Tuesday 2/15</a> – Generative Studio</h3>
