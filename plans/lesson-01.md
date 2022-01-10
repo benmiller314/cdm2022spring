@@ -8,13 +8,15 @@
 * (at end of class) letter to Ben about your habits, expectations, and goals as a composer of digital media
 
 <div class="alert alert-info">
-<p>Even before we start, I invite you to take a minute and adjust the way your name displays in Zoom. Pitt requires that this default to <em>LastName,FirstName</em>, so we have to change it every time. But I want you to know that you can call me Ben, and that I use he/him pronouns. How would you like us to address you?</p>
-<p>To make a change, just click the three dots that appear when you hover over your own face. (Note that you can also Hide Self View if you find that distracting.)</p>
+A few quick announcements before we really start:
 </div>
 
-<p>And while we're talking Zoom, you probably noticed that this is being recorded, and it'll show up on the Panopto tab in Canvas later today: that's primarily for the benefit of folks working asynchronously, but I hope it's also helpful even for people who are here, to be able to come back and review when you want to. To make this a safe choice, I ask that you (1) please don't share the videos beyond our class community; and (2) please let me know (e.g. by private chat) if you want to pause the recording for a candid off-the-record discussion. Some things will automatically <strong>not</strong> be part of the Panopto recording: breakout groups, which we'll use a lot; the group chat; and the faces of anyone who's not speaking or who's turned their cameras off.</p>
-
-<p>If you do need to have your camera off, I prefer that there be some profile image. It doesn't have to be a picture of you -- people have used their pets, or abstract images -- but it's more personal than the blank boxes, which is good for building classroom community.</p>
+<ul><li>I invite you to take a minute and customize the way your nameplate displays in Zoom. For example, I want you to know that you can call me Ben, and that I use he/him pronouns. <strong>How would you like us to address you?</strong></li>
+<li>I do prefer to see your faces, when possible, but I respect that there are times and places when you'll need your cameras off. It does help if you have some kind of profile picture – even if it's just a pet or a painting, rather than your face! It's just hard to build community with blank boxes.</li>
+<li>You can unmute to chime in or ask a question any time! If lots of folks want to speak at once, we'll use the Raise Hand feature, under Reactions.</li>
+<li>We're not recording classes by default, and we're now expecting everyone to be synchronous with class-time, even on Zoom. If you need more flexibility, please talk to me! Or email.</li>
+<li>Because the omicron variant can spread even among vaccinated people, I'm expecting everyone to keep masks on when we go back to sharing indoor space.  That especially includes during class, but it's a good idea any time you're not home.</li>
+</ul>
 
 
 
