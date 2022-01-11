@@ -31,7 +31,10 @@ When you've done that (or after about 5 minutes), please:
 2. Write down at least one digital tool, or app, or website, that more people should know about.
 3. When you've finished both of these tasks, click the green check button. (You'll find it on the menu bar under "Reactions.")
 
-<img src="../assets/img/zoom--functions-bar-participants-2--bilkent-edu-tr.png" alt="main Zoom menu, with buttons for Invite, Participants, Share Screen, Chat, Record, and Reactions" />
+<figure>
+<img src="../assets/img/zoom-menu-bar--reactions.png" alt="main Zoom menu, with buttons for Participants and Reactions highlighted. The reactions menu is open to show more options, including check and raise hand" />
+<figcaption>The Zoom menu bar. (Chat is under "more" in this case.)
+</figure>
 
 Note that you also have a list of Participants that'll bring up a list of everyone in the call, either in a new window (if Zoom is fullscreen) or to the right of everyone's faces;  Raise Hand button should be at the bottom left of that new window.
 
