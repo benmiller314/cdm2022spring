@@ -36,7 +36,7 @@ When you've done that (or after about 5 minutes), please:
 <figcaption>The Zoom menu bar. (Chat is under "more" in this case.)</figcaption>
 </figure>
 
-Note that you also have a list of Participants that'll bring up a list of everyone in the call, either in a new window (if Zoom is fullscreen) or to the right of everyone's faces;  Raise Hand button should be at the bottom left of that new window.
+Note that you also have a list of Participants that'll bring up a list of everyone in the call, should you need it.
 
 EXT: If you've done all that and you're waiting, pick one item on each list to write more about. Why these?
 
