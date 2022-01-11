@@ -22,7 +22,7 @@ A few quick announcements before we really start:
 
 ## 1. Introduction to the course and to each other
 <div class="alert alert-success">
-I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2021survey">bit.ly/cdm2021survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so **please leave the tab open for now.** And don't worry that it says 2021! I'm using the same questions as last year.)
+I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2021survey">bit.ly/cdm2021survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so <strong>please leave the tab open for now.</strong> And don't worry that it says 2021! I'm using the same questions as last year.)
 </div>
 
 When you've done that (or after about 5 minutes), please:
