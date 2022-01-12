@@ -17,6 +17,10 @@
 
 ## Plan for the Day
 
+<div class="alert alert-warning">
+We've had a request to record today's session. Is everyone okay with that?
+</div>
+
 1. GitHub, part 2 (~15-20 min)
   * what is a repository?
   * a demo of diffs<!-- repo, commit, history, diff -->
