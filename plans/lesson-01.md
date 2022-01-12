@@ -96,5 +96,6 @@ But first, an important consideration: <em>what web handle do you want to use fo
   * **Download and install** a plain text editor with syntax highlighting; if you don't already have a preference, I recommend [Atom](https://atom.io).
     - NB: Microsoft Word is *not* good enough for this purpose. Word files are very much not plain text... as you can see if you replace the .docx with .zip and expand the result.
     - If you already use Notepad++ or SublimeText or something like that, that's fine. I may ask you to share your screen so we can look for similarities and differences. :1
+
   * **Download and install** the [GitHub Desktop application](https://desktop.github.com).
     - NB: If you super-prefer command-line git, you're welcome to use it, but we will be talking about the GH Desktop interface on Thursday.
