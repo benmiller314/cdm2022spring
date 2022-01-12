@@ -31,7 +31,7 @@ Unit V | [Putting it Together](#unit-5) | (weeks 11-13)
 HW for next time:
 
 * Surveys and sharing:
-  - **Complete** two short [modules on Canvas](https://canvas.pitt.edu/courses/78948/modules), about self- and community-care and the grading contract. This includes a short "quiz" (should take just a minute or two) and a chance to propose changes or adopt the contract.
+  - **Complete** two short [modules on Canvas]({{site.canvas_url}}/modules), about self- and community-care and the grading contract. This includes a short "quiz" (should take just a minute or two) and a chance to propose changes or adopt the contract.
   - **Read** the [rest of the syllabus]({{site.github_url}}/uploads).
   - **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2021survey) if you haven't yet done so.
 * Written introduction to the people in the class:
