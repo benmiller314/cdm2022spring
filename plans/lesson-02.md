@@ -48,7 +48,7 @@ Renaming ever more files isn't only messy to keep track of: it also eats up your
 
 <div class="alert alert-success">
 Let's check out the GitHub.com web interface, and see how it works:
-<strong><a href="https://github.com/benmiller314/text-demo#readme">https://github.com/benmiller314/text-demo</a></strong>
+<strong><a href="https://github.com/benmiller314/text-demo">https://github.com/benmiller314/text-demo</a></strong>
 </div>
 
 ### Initial questions to ask of any app:
