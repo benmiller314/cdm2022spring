@@ -13,6 +13,30 @@
 
 ## Plan for the day
 
+<!--
+
+I. Five Principles of New Media
+  1. What does this help you see about "digital" that wasn't part of the story you told last time?
+
+II. Continuing where we left off: Clone, Edit, Push, Pull
+  1. Re-open and *clone* the cdm-gh-practice repository you used last time.
+  2. Ask the standard questions of GH Desktop: what's made easy in this interface? What kinds of things are in the menu? Context menu?
+  3. Open the repo in Atom (or your preferred text editor). If you don't see it, set your editor in preferences.
+  4. Explore the Atom interface: file navigation on the left, files in the main space. Ask the standard questions: what's made easy in this interface?
+  5. Change something in your story.
+  6. Go back to GH Desktop. Commit the changes.
+  7. Pull the changes from your groupmates.
+
+III. The audio project, assigned.
+  1. Read it Together
+  2. Clone it
+  3. Open in Atom and rename the README to assignment.md
+  4. Create a new file called README and put in some filler text.
+
+IV. Assign homework (i.e. save the Audacity Tour for lesson-04)
+  
+ -->
+
 1. The Newness of New Media: Five Principles, in Brief (~15 min)
 2. Five Principles as Lenses (~15 min)
 3. The first project assignment: audio narrative <!-- Clone soundscape repo; open in Atom; rename README and make a new one -->
