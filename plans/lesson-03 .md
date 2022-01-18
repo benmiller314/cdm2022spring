@@ -25,250 +25,189 @@ II. Continuing where we left off: Clone, Edit, Push, Pull
   4. Explore the Atom interface: file navigation on the left, files in the main space. Ask the standard questions: what's made easy in this interface?
   5. Change something in your story.
   6. Go back to GH Desktop. Commit the changes.
-  7. Pull the changes from your groupmates.
+  7. Push to origin (it really wants you to!)
+  8. Pull the changes from your groupmates.
+  EXT: merge errors; reverting
 
 III. The audio project, assigned.
   1. Read it Together
   2. Clone it
   3. Open in Atom and rename the README to assignment.md
   4. Create a new file called README and put in some filler text.
+  5. Push changes.
 
 IV. Assign homework (i.e. save the Audacity Tour for lesson-04)
-  
+
  -->
 
-1. The Newness of New Media: Five Principles, in Brief (~15 min)
-2. Five Principles as Lenses (~15 min)
-3. The first project assignment: audio narrative <!-- Clone soundscape repo; open in Atom; rename README and make a new one -->
-5. Audacity Tour, by way of a past-semester example (10-15 min) <!-- tracks, mute/solo, resize tracks, zoom, .aup files and the _data folder -->
-6. Why we need Git Beyond GitHub
-7. HW Preview
+1. What's different about digital again?
+2. Continuing where we left off: clone and edit, push and pull
+3. Audio unit assignment
+4. Homework preview
 
-### 1. Five Principles, in Brief
 
-Can I get five people to fill us in on the five "principles of new media" from the webtext I asked you to read? i.e. One person, one term.
+## 1. What's different about digital, again?
+
+Can I get five people to recap the five "principles of new media" from the webtext I asked you to read? i.e. One person, one term.
 
 <!-- numerical representation, modularity, automation, variability,
 and transcoding -->
 
-Let's take notes here: [bit.ly/cdm{{site.course.slugterm}}-notes](http://bit.ly/cdm{{site.course.slugterm}}-notes)
+**Let's take notes here:** [bit.ly/cdm{{site.course.slugterm}}-notes](http://bit.ly/cdm{{site.course.slugterm}}-notes). Any volunteers to be in charge of notes for today? Usually 2-3 people works best...
 
 <!-- Notice the Credits page: the ethics around using sources don't go away when you go digital. Copying is easy, and doesn't do direct harm to the original artifact... but it could cause reputational damage or lost opportunity to the original author.
 
 Did anyone click through the links on the Credits? The original piece with the subtitle "Playing Lev Manovich" is now defunct, because it relied on Flash. That's another feature (or bug?) of digital media: ephemerality. One reason to prefer standards-based tools, rather than proprietary formats. Similarly, Su's original bio linked here is now gone: she stopped using the service. Another reason to learn how to roll your own. -->
 
-## 1. GitHub, part 3: working locally
+What do these framing concepts help you see about "digital" that wasn't part of the story you told in your group last class?
 
-Last time, we saw how GitHub can let multiple people edit a file, integrate the changes, and keep track of the file's history. So far, so good!
 
-But that was all text files. What happens when you want to work on something the web interface can't handle, like sound or images?
+## 2. Return of the GitHub: clone and edit, push and pull
+
+Last time, we saw how GitHub can let multiple people edit a file, integrate the changes, and keep track of the file's history using the GH website. But what if you want to change multiple files at once? What if you want to track history for files that aren't text, and can't be edited directly on their website?
 
 As it turns out, most of the time, you're going to want to have a *local copy* of your project that you can *pull* down from the clouds, make your changes on your own machine, and then *push* back up with the changes and history intact.
 
 In git-speak, that linked local copy is called a *clone*. There are some good instructions (including pictures) in the GitHub documentation: [https://help.github.com/articles/cloning-a-repository](https://help.github.com/articles/cloning-a-repository).
 
-Allow me to demonstrate by cloning the [Digital Affordances repo](https://github.com/benmiller314/cdm-digital-affordances) from last class.
 
-## 2. Multiple views of the same files: web, command line, Finder/Explorer
+### 2a. Clone
+Let's **practice by cloning the [CDM GH Practice repo](https://github.com/benmiller314/cdm-gh-practice) from last class – your own fork of that project**, so you're able to submit changes to it. (If you've lost your fork, you can find it again by clicking on either your profile or on the number of forks in the description block. The latter will show you all the forks of the project you're viewing, and the former will show you all the repositories you're a member of.)
 
-When you clone a repository, it shows up on your computer as a folder, because *that's all a repository is: it's a file folder.* You can open it in Finder (Mac) or Explorer (Windows), and everything's arranged just the way you'd expect.
-
-You can also open it via command line (a.k.a. _Terminal_ on Mac, or _GitBash_ or _PowerShell_ on Windows), and it's all just a different vantage point on the same location.
-
-<details>
-<summary>For more on the command line, click here to expand.</summary>
-<h3>The command line: behind the scenes</h3>
-<em>See also <a href="https://youtu.be/oK8EvVeVltE">"Git and GitHub for Poets" episode 1.5, intro to the command line</a>.</em>
-
-Much as a repository is just another name for a file folder you're tracking, the <em>command line</em> is just another way of seeing the files you're used to seeing in windows. (Note the lowercase 'w.') Instead of a graphical interface, everything here will be text.
-
-If you're not sure how to open a command line, try <a href="https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html">these instructions</a>.
-
-
-<figure role="figure">
-<img alt="terminal window showing git status command" src="../assets/img/terminal-git-status.png" />
-<figcaption>Above, a terminal window. In the top line, the text to the left of the dollar sign ($) is a "prompt," showing where you are and who you're logged in as; text to the right are commands entered. Here, <code>git status</code> yields information about the repository's state (what's new, modified, or deleted since the last commit) and gives tips about how to proceed (last line before the return of the prompt).
-</figcaption>
+<figure>
+<img src="{{site.github_url}}/assets/img/github--clone-and-find-forks.png" alt="screenshot of github website description block, highlighting Code button (to clone), Forks, and Profile" />
 </figure>
 
+When given the option, choose "Open in GitHub Desktop."
 
-<h3>To get where you're going:</h3>
-<pre><code class="bash">
-cd path/to/your/folder    # change directory
-pwd               # print working directory (i.e. where am I?)
-ls                # list directory contents
-cd ..             # go up one directory level
-cd ~              # go to home folder
-open .            # open the current directory in Finder/Explorer
-</code></pre>
+### 2b. The GitHub Desktop interface
 
-NB: As a shortcut to the folder path in step one above, you can type <code>cd</code> (note the space) and just drag-and-drop the folder from Finder/Explorer into the command line.
-NB: You can also press <code>tab</code> to autocomplete a partial file or folder name.
+I zoomed through this too quickly last time:
 
-<div class="alert alert-info">
-Change something in one view, and it changes in the other. Because it's really the same place.
-</div>
+1. How is the space laid out?
+  * What can you see? What can't you see that you expected to, if anything?
+2. What's given the most prominent visual focus? Secondary focus?
+3. What features/tools do you have quick access to?
+  * For instance, what's featured in the menu? What about the context menus (e.g. when you right-click)?
+  * Do any of those tools let you find what you were missing?
 
 
-<h3>Basic git workflow:</h3>
-<pre><code class="bash">
-git status           # see what git is tracking / what's changed
-git pull             # download changes from GitHub
-git status           # start of loop
-# here you make changes to your files
-git add %filename%   # optionally repeat
-git status
-git commit -m "your headline commit message - note the quotes" -m "your optional extra details, if you want them, just go in a second message."
-                     # repeat add/commit loop as desired
-git push             # publish your changes
-</code></pre>
+### 2c. The Atom Interface
 
-NB: Git may present you with some error messages, especially the first time you try to use it. Don't panic: <strong>read what the error message has to say!</strong> Most of the time, they'll give you some clear instructions on what to do to fix the problem.
+Let's take advantage of one of those featured options to open the repository in your preferred text editor.
+
+And then let's ask those same questions again:
+
+1. How is the space laid out?
+  * What can you see? What can't you see that you expected to, if anything?
+2. What's given the most prominent visual focus? Secondary focus?
+3. What features/tools do you have quick access to?
+  * For instance, what's featured in the menu? What about the context menus (e.g. when you right-click)?
+  * Do any of those tools let you find what you were missing?
+
+
+Let's practice:
+* adding a new file
+* changing a filename
+* splitting the screen to show two files at once
+
+Go ahead and **make a change to your story from last time, and save it.** (Not sure what to add? Maybe incorporate an example of modularity, automation, variability, or transcoding.)
+
+Where does the change happen? Who can see your changes?
+
+### 2d. Back in GH Desktop...
+
+**Write a commit message** in the bottom left. (Make sure it's meaningful.) Before you click "commit," make sure you've selected the files you want to include under this version.
+
+### GH Desktop FAQ
+<details><summary>What if I realize I made a mistake in my last commit?</summary>
+
+Go to the History tab, and right-click the last change (which will be on the top). You have options!
+
+</details>
+<details><summary>What if I already pushed my mistake to the cloud?</summary>
+
+That's trickier. Here, to undo, you're probably going to need to add. While there are ways to "alter history," they're a little riskier than just reverting.
+
+</details>
+<details><summary>If I revert an old save, why don't I go back to that point in time?</summary>
+
+Remember that each commit is a record of the **difference** between two states. So by reverting that difference, you're undoing that particular change. (This can be beneficial!)
+
+</details>
+<details><summary>So what do I do if I actually want to roll back to an old commit?</summary>
+
+The easiest option is to right-click that point in the History, then choose "create branch from this commit." You'll find yourself in a workspace identical to that point in time... but without destroying the work you've done since.
+
+</details>
+<details><summary>I tried that branch thing. You said it wouldn't destroy anything, so where are all my files?!?</summary>
+
+When you "check out" a branch, the only files you can see are the ones on that branch. The others get hidden away inside the .git folder (which I strongly urge you not to open). If you were to switch back to the branch from before, you'd be back in that timeline, and the files would change accordingly. To merge branches back together, you just need to file a pull request and actively commit to the merge. In GH Desktop, you'll find both options (switch and pull request) under the "Branch" menu.
+
 </details>
 
-<div class="alert alert-info">Note that GitHub Desktop is NOT showing you a view of your <em>files</em>, per se; it's showing you what's <em>changed</em> in your files.
-
-But GH Desktop will helpfully offer to open the repository in Finder or Explorer... or in your preferred external text editor.
-</div>
-
-Which brings us to...
-
-## 3. One more view: the Atom interface
-
-
-
-
-
-Suppose I would like to reorganize these files. Here's how I would...
-
-- create a subfolder
-- move files into the folder
-
-## 4. Now it's your turn! And also, here's the first project assignment
+## 3. Another repo to fork and clone: the Audio Narrative assignment
 
 <div class="alert alert-success">
-Head over to <strong><a href="https://github.com/benmiller314/soundscape2021spring">https://github.com/benmiller314/soundscape2021spring</a></strong>, then (1) <strong>fork</strong> the repo to take control of it, and (2) <strong>clone</strong> your fork to bring that new copy onto your hard drive.
+Head over to <strong><a href="https://github.com/benmiller314/soundscape2022spring">https://github.com/benmiller314/soundscape2022spring</a></strong>, then (1) <strong>fork</strong> the repo to take control of it, and (2) <strong>clone</strong> your fork to bring that new copy onto your hard drive.
 </div>
 
-Before we get too into the details, I want you to practice what I was just demoing:
+### 3a. First, let's read!
 
-(3) Open the repository in Atom.
-(4) Change the name of the README.md file to **assignment.md**
-(5) Create a new file in the repository, called README.md, and
-(6) Fill it with some placeholder content, like, "This is the future site of so-and-so's soundscape narrative."
+As I explained in the syllabus, your first project is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you:
 
+* to learn how to capture sound and edit it using digital tools, and
+* to explore the affordances of sound as a medium, with particular attention to its ability to communicate
+  - *immersive environment* and
+  - *narrative pacing and change*.
 
-With that done, let's read through the assignment!
+The README file has additional constraints, which I hope are generative; deadlines to give a rhythm to your production, review, and revision; and some "parachute prompts" if you feel lacking in direction and a deadline's coming up.
+
 <!--
 Go through overview, constraints, deadlines. Explain about parachute prompts.
 -->
 
-As I explained in the syllabus, your first project is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you:
+### 3b. Then, let's practice that edit / commit / push cycle!
 
-1. to learn how to capture sound and edit it using digital tools, and
-2. to explore the affordances of sound as a medium,
+(3) Open the repository in Atom.
+(4) Change the name of the README.md file to **assignment.md**
+(5) Create a new file in the repository, called README.md, and
+(6) Fill it with some placeholder content, like, "This is the future site of So-and-So's audio narrative." You can (and should!) update this later.
 
-with particular attention to its ability to communicate
-  - *immersive environment* and
-  - *narrative pacing and change*.
-
-
-
-## 5. Audacity Tour, by way of a past-semester example (10-15 min) <!-- tracks, mute/solo, label, resize tracks, zoom -->
-
-I want to start with a behind-the-scenes view of one of the finished soundscapes I'll ask you to listen to for homework.
-
-This is Tyller Barner's "Coffeeshop Conversations," from Spring 2019. I'm very happy to talk at some point about the piece itself, but for now, let's see what it can show us about this new application, Audacity.
-
-### Initial questions to ask of any app:
-
-- How is the space laid out?
-- What's given the most prominent visual focus? Secondary focus?
-- What features/tools do you have quick access to?
-
-### Now let's play
-
-<!--
-1. Literally press play.
-2. Zoom far in.
-3. Pin the cursor.
-4. Scroll up and down.
-5. Zoom all the way out in one click.
-6. View > Track Size > Collapse tracks.
-7. Try to move "Hillman Coffee" track to the bottom. Can't do it without stopping!
-8. Stop. Move the track. Hit play again. Where does it start?
-9. Try muting the background noise.
-10. Try muting the music track.
-11. Rename the music track.
-12. Revisit the questions above.
--->
-
-### Project files vs. rendered files
-
-<!-- show Tyller's files -->
-
-Audacity project files, with extension .aup3, are not playable in any program other than Audacity. Strictly speaking, they're not actually sound files: they're a database *of* a large number of sound files, bundled together with the files themselves, plus information about track display sizes, whether they're muted, how much they're panned left or right, and so on.
-
-(In fact, until Audacity 3.x, all these files and the index of metadata used to be separate. It's a mixed bag that they're not any more: on the one hand, it's harder to mess up. On the other, it makes that unified file a lot larger.)
-
-To make the file playable, you have to *render* it by using File > Export As. You're probably fine to use .mp3 format for most purposes.
-
-<div class="alert alert-warning">
-NB: You probably <em>don't</em> want to use .wav files most of the time: they're lossless, but they're uncompressed, and therefore tend to eat up huge quantities of disk space.
-</div>
-
-
-## 6. Why we need Git Beyond GitHub (10 min)
-
-The number of files in the \_data folder can get quite large – easily into the hundreds. And the GitHub web interface, as great as it is, *cannot handle that many files at once*. Trying might well break your project.
-
-So we'll need another solution.
-
-Luckily, we have one! As you'll have learned from the videos, GitHub as a (mostly web-based) file-sharing and project-management platform is built on top of another system – Git – which runs mostly on text commands.
-
-And Git can handle quite a bit more than GitHub can... and then share it seamlessly to GitHub, with all the hard work taken care of.
-
-In particular:
+Save your changes, and we can head back to GitHub Desktop. Note that, unlike github.com, GH Desktop...
 <ul>
-<li>Git lets you "stage" multiple files at once and wrap them in a single commit.</li>
-<li>Git lets you keep track of changes locally (on your own computer) before you're ready to share them with the world – and then to "push" multiple commits all at once.</li>
-<li>If you use the command line, you can also access and activate more features of Git than the GitHub defaults allow.</li>
+<li>lets you "stage" multiple files at once and wrap them in a single commit.</li>
+<li>lets you keep track of changes locally (on your own computer) before you're ready to share them with the world – and then to "push" multiple commits all at once.</li>
+<li>makes it easier to undo or amend the most recent commit</li>
 </ul>
 
-### Yet another view
-
-If you've downloaded [GitHub Desktop](https://desktop.github.com), you can use a visual interface to accomplish all of those local commands. And it'll also generously prompt you to push changes when you've finished committing them.
-
-<!-- Ben quickly demos -->
-
-<figure role="figure">
-<img alt="github desktop shows status and diff view by default" src="../assets/img/github-desktop-status.png">
-<figcaption>Above, Github Desktop. Checking the boxes at the left is akin to <code>git add</code>; uncheck to unstage individual files, as they'll all be selected by default. Commit messages are entered at the bottom left. A button to push is part of the toolbar at the top right.
-</figcaption>
-</figure>
+NB: If you use the command line, you can also access and activate even more features of Git than graphical interfaces allow. I'm going to drop this here, in case anyone finds they need it: https://ohshitgit.com/ (or the more kid-friendly https://dangitgit.com/).
 
 
 <div class="alert alert-success">
-<p>You should now be able to
+<p>If you haven't yet done so, please...
 (7) Commit the changes you made above: a new name for the old README.md file, and a new README.md with your own content. Then go ahead and (8) push back to GitHub.</p>
 
-<p>NB: This is also how I'll confirm  attendance for asynchronous participation.</p>
+<p>NB: This is how I'll expect you to turn in all major assignments and meet interim deadlines toward them. It's also how I'll confirm  attendance for asynchronous participation in today's class.</p>
 </div>
 
 
-# HW for next time:
-* **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
+## HW for next time:
+* **Download** the [Audacity 3](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
    - NB: some source sites will try to trick you into downloading unrelated software. Don't fall for it. Start on the audacityteam.org, and read the links carefully.
-   - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html), which expands the file types Audacity can handle.<!-- NB: On Zoom, it might be helpful to have an additional audio input/output device like Soundflower or whatever the Windows equivalent is-->
-* **Bring** headphones – we should have time to practice using it!
-* **Watch** some orienting videos from LinkedIn Learning:
-  - [Selecting and Zooming](https://www.linkedin.com/learning/learning-audacity-2/selecting-and-zooming) (6 min)
-  - [Playback Controls](https://www.linkedin.com/learning/learning-audacity-2/playback-controls?resume=false&u=2252458) (4 min)
-  - [Make Selections](https://www.linkedin.com/learning/learning-audacity-2/make-selections) (5 min)
+   - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html), which expands the file types Audacity can handle. Might be useful for imports from your phone, depending on your device!
+   - *Optionally* download a phone recording app. Your device may already have a decent default voice recorder that you can use; let the class know if you have suggestions (or anti-suggestions).
+<!-- * **Bring** headphones – we should have time to practice using it! -->
+* **Watch** this recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=8oOaXWdmMcc) (about 20 minutes long) and come in ready to play with the software (and ask any questions that come up)
 
 
 <hr/>
 
-* _Optional:_ This will be part of the homework for next week, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
+_Optional:_ This will be part of the homework for next week, but there's a bunch of stuff over the weekend. If you want to get a head start:
+
+- The term "asset" comes from the book _Writer/Designer_ (Ball, Sheppard, and Arola, eds). A scan of the relevant chapter is <a title="not posted to preserve the limited distribution that helps justify my fair use claim (as does my colorless copy and the limited amount copied, relative to the book)" href="{{site.canvas_url}}/assignments/849366">posted to the Perusall social annotation software on Canvas</a>; I'll ask you to read it before writing your proposal.
+
+- I'll also ask you to read the following advice on sound recording, _listening to the embedded clips_:
   - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
+
   - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
