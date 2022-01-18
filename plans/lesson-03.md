@@ -127,15 +127,15 @@ Go to the History tab, and right-click the last change (which will be on the top
 </details>
 <details><summary>What if I already pushed my mistake to the cloud?</summary>
 
-That's trickier. Here, to undo, you're probably going to need to add. While there are ways to "alter history," they're a little riskier than just reverting.
-
+That's trickier. Here, to undo, you're probably going to need to add. While there are ways to "alter history," they're a little riskier than just reverting. Instead, you'll need to "revert" the change, which results in a new commit. (In GH Desktop, you can again find this in the right-click menu of the History tab.)
 </details>
+
 <details><summary>If I revert an old save, why don't I go back to that point in time?</summary>
 
 Remember that each commit is a record of the **difference** between two states. So by reverting that difference, you're undoing that particular change. (This can be beneficial!)
 
 </details>
-<details><summary>So what do I do if I actually want to roll back to an old commit?</summary>
+<details><summary>So what do I do if I actually want to roll back all the way to a particular old commit?</summary>
 
 The easiest option is to right-click that point in the History, then choose "create branch from this commit." You'll find yourself in a workspace identical to that point in time... but without destroying the work you've done since.
 
