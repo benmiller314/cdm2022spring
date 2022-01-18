@@ -61,6 +61,8 @@ Did anyone click through the links on the Credits? The original piece with the s
 
 What do these framing concepts help you see about "digital" that wasn't part of the story you told in your group last class?
 
+I had you pair this reading with listening to several audio narratives. What does putting these things together help you notice or better understand – about either the audio narratives or about the concepts?
+
 
 ## 2. Return of the GitHub: clone and edit, push and pull
 
