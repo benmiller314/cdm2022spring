@@ -133,13 +133,13 @@ NB: I believe it'll export the whole file, across all layers, as long as nothing
 
 As you know, the project proposal is due by next class. I'd like to spend the remainder of our in-class time using writing – some listing and looping – as a way to get your ideas flowing. As I ask the following questions, pause and reach out with your feelings until you sense an answer, or more than one – and then write down whatever comes. I won't collect these, so they're private to you. But I hope you'll find them useful for getting to something shareable, moving forward.
 
-- In what places (physical, virtual, or imaginary) could you anchor your soundscape? Make a list. Anything you're forgetting?
+- In the process of writing with sound, you're going to spend a big chunk of time listening and relistening and looping, so you want to pick a place you're likely to enjoy hanging out in. What _places_ (physical, virtual, or imaginary) come to mind as energizing for you to unpack and reassemble? In other words: within what _soundscapes_ might you anchor your narrative? **Make a list.** Anything you're forgetting?
 
 - Choosing one item from your list you could work with for now, ask yourself: What kinds of stories happen there, and which of them could you reasonably tell within a few minutes?
 
 - How can you represent that environment sonically?
-
-- What sounds are relatively stable, or sustained, and what is incidental?
+  * For example: What sounds are relatively stable, or sustained?
+  * What incidental, or foreground, sounds do you associate with that place?
 
 - What structures or sequences could help a listening audience follow the story?
 
