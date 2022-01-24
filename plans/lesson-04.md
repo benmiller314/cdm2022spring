@@ -103,7 +103,7 @@ For this activity, headphones will help you isolate your Audacity playback from 
 If/when you want to share, you can set the Audacity playback to "Zoom Audio Device," which you can do from the toolbar, as shown below. If you don't see that option, you may need to use the Transport menu to Rescan Audio Devices.
 
 <figure>
-<img src="{{site.course.base_path}}/assets/img/audacity--output-device-3.png" alt="Selecting the output device from the toolbar. The output device defaults to "Built-in Output." />
+<img src="/{{site.course.base_path}}assets/img/audacity--output-device-3.png" alt="Selecting the output device from the toolbar. The output device defaults to "Built-in Output." />
 <figcaption>By default, the output device taskbar sits just above the main track window, marked with the icon of a speaker. If you haven't changed it, it probably reads "Built-in Output."</figcaption>
 </figure>
 
