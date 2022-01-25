@@ -82,6 +82,13 @@ And here are some great questions that came up in Perusall that I want to be sur
 
 </details>
 
+<details><summary>Who exactly are asset lists for?</summary>
+This came in late enough that I don't have a full write-up. What do you all think?
+</details>
+
+<details><summary>How does GitHub stack up to actual cloud storage services? Should we have any mindfulness about how many commits of larger (non-text) files we make?</summary>
+This came in late enough that I don't have a full write-up, but two short answers: (1) this is why we need [git-lfs](https://git-lfs.github.com/); (2) this is one reason to keep your full sources in a folder that you .gitignore</details>
+
 
 Has anyone tried out any of the sites linked to from our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? Any recommendations, warnings, or other advice for your classmates?
 
