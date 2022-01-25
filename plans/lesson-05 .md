@@ -126,6 +126,10 @@ To help with goal-setting and reflection (and, again, so I can figure out where 
 
 <h2 id="hw">Homework for next time:</h2>
 
+<div class="alert alert-warning">
+<p>Barring unforeseen circumstances, we're back in person on Thursday! I'll see you in CL 435 at the usual time.</p> <p><strong>Please wear a high-quality mask that fits securely over your nose and mouth:</strong> the omicron variant can spread even among vaccinated people, though the booster shots are highly effective at limiting the severity of the disease. If the only masks you have are simple cloth, I hear that <a href="https://universitycommunications-marketing.cmail19.com/t/ViewEmail/j/A7548ADA9B95A9582540EF23F30FEDED/142A688589CDE594C06B463AA70A4F2C?alternativeLink=False">N95 or equivalent respirators will be available at the concierge entrances to University buildings for those who want them.</a> You can also double-mask with cloth to improve both the fit and the filtration.</p>
+</div>
+
 <ul>
 <li>Look over the audio resources on the site, and dig into anything that seems like it would help you.<ul>
   <li><a href="{{site.github_url}}/resources#free-and-licensed-images-sounds-and-other-assets">Free and licensed sounds</a></li>
