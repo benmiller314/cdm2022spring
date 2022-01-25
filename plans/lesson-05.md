@@ -45,9 +45,6 @@ Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-mee
 * Would you (again, each of you in the breakout room) want to incorporate human voices in your audio narratives? How or how much, and why (or why not)?
 
 * EXT: Read through the link at the top of Fowkes' piece: [Top 10 Simple Field Recording Tips](https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/). Any surprises that others in the class should know about?
-<!-- <div class="alert alert-warning">
-ALT: If you're async for this lesson, please add 2-3 comments to the shared doc with questions, clarifications, or links to / quotes from relevant passages from the reading (or elsewhere). Bonus if the quotes/links are to a reading that was optional.
-</div> -->
 
 
 ## 2. Q & A (10-15 min)
