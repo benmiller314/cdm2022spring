@@ -84,7 +84,7 @@ This came in late enough that I don't have a full write-up. What do you all thin
 </details>
 
 <details><summary>How does GitHub stack up to actual cloud storage services? Should we have any mindfulness about how many commits of larger (non-text) files we make?</summary>
-This came in late enough that I don't have a full write-up, but two short answers: (1) this is why we need [git-lfs](https://git-lfs.github.com/); (2) this is one reason to keep your full sources in a folder that you .gitignore</details>
+This came in late enough that I don't have a full write-up, but two short answers: (1) this is why we need <a href="https://git-lfs.github.com/">git-lfs</a>, which I've already set up on the soundscape repository; (2) this is one reason to keep your full sources in a folder that you <a href="https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files">.gitignore</a></details>
 
 
 Has anyone tried out any of the sites linked to from our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? Any recommendations, warnings, or other advice for your classmates?
