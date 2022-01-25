@@ -1,7 +1,7 @@
 
 # Sound Ethics, Sound Recording, Sound Studio
 
-**Texts to have read / listened to:** _Writer/Designer_ on ["Working with Multimodal Assets and Sources"](https://canvas.pitt.edu/courses/78948/files?preview=4624363) (Ball, Sheppard, Arola); Stuart Fowkes on [field recording](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/); Alison MacAdam on [breathing life into audio scenes](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes); and optionally some overviews of [CC licenses](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) and [Fair Use](https://fairuse.stanford.edu/overview/fair-use).
+**Texts to have read / listened to:** _Writer/Designer_ on ["Working with Multimodal Assets and Sources"](https://app.perusall.com/courses/2224-engcmp-0610-sec1070-composing-digital-media/_/dashboard/assignments/EWFJ8WNcdaCAusYgM) (Ball, Sheppard, Arola); Stuart Fowkes on [field recording](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/); Alison MacAdam on [breathing life into audio scenes](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes); and optionally some overviews of [CC licenses](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) and [Fair Use](https://fairuse.stanford.edu/overview/fair-use).
 
 **Work to have achieved:** a proposal for the audio narrative, posted to the [issue queue]({{site.github.issues_url}}/3)
 
