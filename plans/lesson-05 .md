@@ -45,20 +45,19 @@ Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-mee
 * Would you (again, each of you in the breakout room) want to incorporate human voices in your audio narratives? How or how much, and why (or why not)?
 
 * EXT: Read through the link at the top of Fowkes' piece: [Top 10 Simple Field Recording Tips](https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/). Any surprises that others in the class should know about?
-<!--
-<div class="alert alert-warning">
+<!-- <div class="alert alert-warning">
 ALT: If you're async for this lesson, please add 2-3 comments to the shared doc with questions, clarifications, or links to / quotes from relevant passages from the reading (or elsewhere). Bonus if the quotes/links are to a reading that was optional.
 </div> -->
 
 
 ## 2. Q & A (10-15 min)
 
-Let's talk through any questions or tensions that came up. I especially want to make sure we're all on the same page about those True/Falses – some of which weren't quite as clear-cut as that framing might suggest...
+Let's talk through **any questions or tensions** that came up. I especially want to make sure we're all on the same page about those fuzzier "True/False" questions.
 
 And here are some great questions that came up in Perusall that I want to be sure to answer publicly:
 
 <details><summary>What exactly does "credibility" mean in the context of our soundscape projects, which are more narrative than scholarly? <!-- Evan --></summary>
-<p>It's less a matter of accuracy in this case than of appropriateness and ethos more broadly: Does your use of the asset take genre expectations into account? Have you cited where it came from and your license for using it (which could be that it's a fair use, or that you created it), so listeners know you're being ethical in your sourcing? Relatedly, if you're using CC-licensed material that includes an attribution (BY) clause, have you named your source in the audio narrative itself? If you're using something with a sharealike (SA) clause, have you applied the same license to your own work? Have any identifiable voices given their consent to being recorded, and have you documented that consent somewhere? </p>
+<p>It's less a matter of accuracy, in this case, than of appropriateness and ethos more broadly: Does your use of the asset take genre expectations into account? Have you cited where it came from and your license for using it (which could be that it's a fair use, or that you created it), so listeners know you're being ethical in your sourcing? Relatedly, if you're using CC-licensed material that includes an attribution (BY) clause, have you named your source in the audio narrative itself? If you're using something with a sharealike (SA) clause, have you applied the same license to your own work? Have any identifiable voices given their consent to being recorded, and have you documented that consent somewhere? All of those actions help determine whether you seem trustworthy in your use of source material. </p>
 </details>
 
 <details><summary>Do we need to request permission from a copyright owner for sounds, such as crowd noises, we may find on the internet for our project? <!-- Jenna --></summary>
@@ -75,7 +74,7 @@ And here are some great questions that came up in Perusall that I want to be sur
 
 <details><summary>Do we have to obtain a CC license? <!--Amanda--></summary>
 
-<p>Not necessarily! You have to decide whether you want others to be able to reuse and remix your work without asking you, or if you'd rather they got in touch so you could decide to offer or withhold permission. Remember that if you do nothing, your work is automatically under your own copyright!</p>
+<p>Not necessarily! You get to decide, based on whether you want others to be able to reuse and remix your work without asking you, or if you'd rather they got in touch so you could decide to offer or withhold permission. Remember that if you do nothing, your work is automatically under your own copyright!</p>
 
 <p>And even if you do want to be permissive by default, you'd usually still have the freedom to decide what level of permission to give: e.g. whether it could be used for commercial purposes or not, if your work had to be left intact to be used or if it could be modified, etc. There's a free tool at <a href="https://creativecommons.org/choose/">creativecommons.org/choose/</a> to help you weigh those licenses... and there are other open licenses, besides CC.</p>
 
@@ -88,7 +87,8 @@ Has anyone tried out any of the sites linked to from our plentiful <a href="{{si
 
 Note that there are sections for both free/licensed sounds and music, and also (separately) for audio-unit-specific advice and examples.
 
-## 3. Homework preview (5 min)
+<h3 id="hw-preview">3. Homework preview (5 min)</h3>
+<a href="#hw">Jump down</a>
 
 ## 4. General advice based on proposals
 
@@ -99,11 +99,11 @@ Lots of great ideas in those proposals. My small bits of broadly applicable advi
 </details>
 
 <details><summary>Consider Getting it in Writing</summary>
-  One benefit to drafting a project in prose is that your script doubles as a transcript – which improves both accessibility and discoverability. (One downside is that it's sometimes easier to <em>do</em> or <em>say</em> than it is to <em>write</em>.) Still: something to keep in the back of your mind.
+  One benefit to drafting a project in prose is that your script doubles as a transcript – which improves both accessibility and discoverability. It also means you get clean version history as you revise your script. (One downside is that it's sometimes easier to <em>do</em> or <em>say</em> than it is to <em>write</em>.) Still: something to keep in the back of your mind, especially if you're working on something fictional.
 </details>
 
 <details><summary>Roll Tape</summary>
-  If you're proposing something where you're not sure what you'll find, consider a journalistic approach: record more than you think you'll need; narrate what you're doing as you're doing it; then add a post-hoc voiceover that makes sense of (tells the story of) what you ultimately found.
+  On the flip side, if you're proposing something where you're not sure what you'll find, consider a journalistic approach: record more than you think you'll need; narrate what you're doing as you're doing it; then add a post-hoc voiceover that makes sense of (tells the story of) what you ultimately found.
 </details>
 
 
@@ -112,7 +112,7 @@ Lots of great ideas in those proposals. My small bits of broadly applicable advi
 <strong>Do whatever work you need to get <em>something</em> toward your project posted to your GitHub repository by Thursday:</strong> find audio sources you have permission to use, extract assets from them, record test voiceover with your phone or computer, start moving things around in Audacity, practice some more with GitHub Desktop (or command line git).
 
 <div class="alert alert-warning">
-Remember, <strong>don't use the GitHub <em>website</em> for Audacity files!</strong> It can't handle the _data folder, and you <em>must</em> include the _data folder for your project to play back. Commit the .aup all at once with the _data, then push from GH Desktop (or the command line).
+Warning: <strong>don't use the GitHub <em>website</em> for Audacity files!</strong> They quickly get too large for the site to handle. Instead, commit locally, then push, from GH Desktop (or the command line). I've set up the repo to use Git-LFS (Large File Storage), which should bypass that concern... but the website interface doesn't know how to do that.
 </div>
 
 The goal for now is to get a feel for how you work with audio, not to have a finished product. On Thursday, we'll use your experience to refine our shared baseline criteria and brainstorm some aspirational goals.
@@ -124,7 +124,8 @@ To help with goal-setting and reflection (and, again, so I can figure out where 
 **Call me in if you need help** with Audacity, Git/GitHub, or determining the license on an audio source!
 
 
-# Homework for next time:
+<h2 id="hw">Homework for next time:</h2>
+
 <ul>
 <li>Look over the audio resources on the site, and dig into anything that seems like it would help you.<ul>
   <li><a href="{{site.github_url}}/resources#free-and-licensed-images-sounds-and-other-assets">Free and licensed sounds</a></li>
@@ -136,8 +137,9 @@ To help with goal-setting and reflection (and, again, so I can figure out where 
   <li> A layered <strong>Audacity project file (.aup3)</strong>, showing the arrangement of your sounds so far (need not be a complete soundscape or narrative yet).</li>
   <li> At least one static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a></strong> (.png or .jpg) of your Audacity file in progress. (You'll use this in your final reflection, for comparison later to subsequent drafts). Note that link: you shouldn't need your camera for this.</li>
   <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
-  <li> An updated list of assets (either directly in README.md or in a separate assets.md / credits.md file), indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165).</li>
-  <li>Finally, <strong>export a playable mp3 file</strong>, just in case something goes awry with your Audacity project file.</li>
+  <li> An **updated list of assets** (either directly in README.md or in a separate assets.md / credits.md file), indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – along with your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165). Remember: thanks to version control, you don't need to rename this file. : )</li>
+  <li>Finally, <strong>export a playable mp3 file</strong>, both as a snapshot and just in case something goes awry with your Audacity project file.</li>
   </ul>
 </li>
 </ul>
+<a href="hw-preview">Jump back</a>
