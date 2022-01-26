@@ -20,8 +20,10 @@
 ## 0. Ignoring large files / files you don't have permission to share
 
 Hi, all! I recorded a short video on how to exclude source files from git/GitHub's tracking but still keep them in your folder for convenience. It should be viewable here:
-
+<figure>
 <iframe src="https://pitt.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=31e2c692-2e85-45e7-adca-acc4013553cc&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<figcaption>Using .gitignore in GitHub Desktop (video)</figcaption>
+</figure>
 
 One thing you might want to add to your .gitignore? That .aup3 of Coffee Shop Conversations.
 
