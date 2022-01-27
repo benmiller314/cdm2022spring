@@ -10,22 +10,21 @@
 
 **Plan for the Day**:
 
-0. Announcement: video on .gitignore
+0. Announcement: new screencasts
+  * Ignoring large files / files you don't have permission to share
+  * Submitting work via GitHub Desktop
 1. Reflective writing (5 + 5 min)
 2. Gathering criteria and inspirations (~30 min)
 3. Studio and microconferences (~30 min)
 4. HW Preview (5 min)
 
 
-## 0. Ignoring large files / files you don't have permission to share
+## 0. New screencasts
 
-Hi, all! I recorded a short video on how to exclude source files from git/GitHub's tracking but still keep them in your folder for convenience. It should be viewable here:
-<figure>
-<iframe src="https://pitt.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=31e2c692-2e85-45e7-adca-acc4013553cc&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-<figcaption>Using .gitignore in GitHub Desktop (video)</figcaption>
-</figure>
+Hi, all! I recorded a couple short videos in response to questions I got by email. The first is on how to exclude source files from git/GitHub's tracking but still keep them in your folder for convenience. The second is on using GitHub Desktop to commit and push files; it's especially relevant today, because the example I give is how to submit your Audio Narrative Preview. If you're feeling stuck on that, be sure to check it out at the start of studio time today!
 
-One thing you might want to add to your .gitignore? That .aup3 of Coffee Shop Conversations.
+You can find both videos below, in the "Studio and microconferences" section, but I've also archived them for future reference on Canvas, where they'll be listed under "Panopto Video."
+
 
 ## 1a. Reflective writing on your own project (5 min)
 <div class="alert alert-success">
@@ -97,13 +96,27 @@ EXT: If you finish early, move on to the next section.
 
 ## 3. Studio While I Synthesize (25 min)
 
-I'll work solo to write up a clean list that reflects your consensus in the comments, while you all **work solo** (with groupmates on-hand for questions or other feedback) **on your projects and any needed tutorials.**
+I'll work solo to write up a clean list that reflects your consensus in the comments, while you all **work solo** (with groupmates on-hand for questions or other feedback) **on your projects and any needed tutorials.** My own tutorial screencasts are below.
 
 <div class="alert alert-success">Like last time, please set yourself some <a href="http://bit.ly/cdm2022spring-notes">studio goals in the doc</a>; at the end of class, I'll ask you to write a brief exit note on what you were able to achieve / what your next steps are.</div>
 
 Don't forget to **save and commit as you go**!
 
 And please do call me over if you have any questions your group can't help you with.
+
+### Hopefully helpful screencasts
+
+
+<figure>
+<figcaption>Using .gitignore in GitHub Desktop (video)</figcaption>
+<iframe src="https://pitt.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=31e2c692-2e85-45e7-adca-acc4013553cc&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+</figure>
+
+<figure>
+<figcaption>Submitting a project preview: Save, Export, Commit, Push</figcaption>
+<iframe src="https://pitt.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=eb1ab95d-5f91-4081-8602-ae2a0115f1db&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+</figure>
+
 
 
 ## 5. Confirming criteria (8-10 min)
