@@ -10,9 +10,10 @@
 
 **Plan for the Day**:
 
-0. Announcement: new screencasts
+* Announcement: new screencasts
   * Ignoring large files / files you don't have permission to share
   * Submitting work via GitHub Desktop
+
 1. Reflective writing (5 + 5 min)
 2. Gathering criteria and inspirations (~30 min)
 3. Studio and microconferences (~30 min)
