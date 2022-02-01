@@ -92,7 +92,7 @@ If you're absent from class but not too sick to participate asynchronously, plea
 </div>
 
 ## EXT: Studio
-If any time remains, go ahead and get started on those revisions! If you have a chance to let me know in the [shared notes doc](bit.ly/cdm2022spring-notes) what you're working on or what you're wondering, all the better. :¬)
+If any time remains, go ahead and get started on those revisions! If you have a chance to let me know in the [shared notes doc](https://bit.ly/cdm2022spring-notes) what you're working on or what you're wondering, all the better. :¬)
 
 
 ## 3. Evaluation reminder: our criteria (5 min)
