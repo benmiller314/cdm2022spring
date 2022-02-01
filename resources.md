@@ -51,6 +51,9 @@ Table of contents:
 <dt><a href="http://www.studentaffairs.pitt.edu/cc/">Counseling Services</a></dt>
 <dd>Pitt also offers free counseling for students who are experiencing personal or emotional difficulties. The Counseling Center, located on the 2nd Floor Nordenberg Hall, offers Psychological Services and Sexual Assault Services (412-648-7930) (8:30 am-5:00 pm, Monday-Friday) or (412-648-7856) (after 5 pm, Monday-Friday or on weekends).</dd>
 
+<dt><a href="https://upstreetpgh.org/">UpStreet mental health services</a></dt>
+<dd>Not actually a Pitt service, but a Pittsburgh one, and still potentially good to know about: UpStreet offers free, no-appointment-needed counseling with licensed mental health professionals via webchat -- and it's designed for people aged 12-22. They also have free readings on coping with stress and other wellness topics; conversely, they also offer paid appointments for more extensive one-on-one therapy. </dd>
+
 </dl>
 
 
