@@ -35,7 +35,7 @@ To make that work, I'm going to insist that you provide this feedback in three s
 
 ### Trading clones
 
-You'll **download three repositories, as specified below,** and write your feedback for the authors _on GitHub_.
+You'll **download three audio narratives, as specified below,** and write your feedback for the authors _on GitHub_.
 
 In past semesters, I asked everyone to fit comments on index cards; that should give you a sense of how much writing I'm expecting here. (Ie, it should be relatively focused.) But it's a little more environmentally friendly to write digitally instead.
 
@@ -134,11 +134,11 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 Any surprises there, before we move on?
 
 ## 4. Evaluation revisited (10 min)
-Based on your viewing, if you'd like to propose changes to the baseline criteria, or add new aspirational goals to consider, please comment on the [google doc](http://bit.ly/cdm2021spring-notes#heading=h.tq2fxvj4mi89)!
+Based on your viewing, if you'd like to propose changes to the baseline criteria, or add new aspirational goals for others to consider, please comment on the [google doc](http://bit.ly/cdm2022spring-notes#heading=h.mpnl446o2ec2)!
 
 
 # Homework for Next Time
-* **Next class will be a soundwriters' studio**: I'll be on Zoom during class time (2:50-4:05), as usual, but I'll mostly open the breakout groups and keep track of 25-minute intervals. I'll stay in the main room to field questions or just for check-ins.
-- A final-for-now draft is due at the end of Sunday, to give you time to write a reflection by class-time on Tuesday; see the [audio narrative prompt](https://github.com/benmiller314/soundscape2021spring) for further details.
+* **Next class will be a soundwriters' studio**: a chance to implement your plans in light of the feedback from workshop.
+  - A final-for-now draft is due at the end of Sunday, to give you time to write a reflection by class-time on Tuesday; see the [audio narrative prompt](https://github.com/benmiller314/soundscape2022spring) for further details.
 * Even as we zoom in toward the unit finale, I want to keep one eye open toward the bigger picture. Think about projects you'd like to try for at the end of term: e.g. What further possibilities of sound might you want to explore, perhaps in connection with other people, or with other media?
-  - You can post this to the [Issue Queue]({{site.github.issues_url}}); there is no minimum length requirement.
+  - You can post these musings to the [Issue Queue]({{site.github.issues_url}}); there is no minimum length requirement.
