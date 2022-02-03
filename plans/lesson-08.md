@@ -122,6 +122,19 @@ Many of you are doing smart work to differentiate foreground sounds from backgro
 
 ## Okay, now go to!
 
+### Set a goal
+What do you want to work on today? Add it to [bit.ly/cdm2022sping-notes](bit.ly/cdm2022sping-notes).
+
+NB: If you're working asynchronously, set a timer for one hour.
+
+### Exit note
+When your time is up, return to the google doc and say how far you got / set new goals for the weekend.
+
+<div class="alert alert-success">
+Don't forget to save and commit as you go!
+</div>
+
+
 <div style="height:100px; height:10vh;">
 <!-- This div left intentionally blank, for spacing -->
 </div>
