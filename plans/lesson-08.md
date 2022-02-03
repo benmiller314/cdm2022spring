@@ -4,9 +4,8 @@
 **Work to have done**:
 
 * Any remaining feedback from last class's workshop
- projects]({{site.github.issues_url}})
 * Work in pursuit of a final audio narrative
-* Optionally, a short [blog post about possible group
+* Optionally, a short [blog post about possible futue audio projects]({{site.github.issues_url}})
 
 **Plan for the day**:
 
@@ -107,7 +106,7 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 <details>
 <summary><em>Consider how you're giving credit.</em></summary>
 
-<p>If you're using sounds someone else recorded, be sure to include enough information to recover where it came from. (See <em>Writer/Designer</em> page 162, and the <a href="https://creativecommons.org/use-remix/get-permission/">Creative Commons' own recommendations</a>.)</p>
+<p>If you're using sounds someone else recorded, be sure to include enough information to recover where it came from. (See <em>Writer/Designer</em> page 162, and the <a href="https://wiki.creativecommons.org/wiki/Best_practices_for_attribution">Creative Commons' own recommendations</a>.)</p>
 
 <p>If you're using source material with a Creative Commons license, <em>you do need to specify *which* license it uses</em>: CC-BY, CC-BY-NC, etc. This is especially important for Share-Alike licenses (CC-BY-SA, etc), because they force you to use the same license and can therefore be in conflict with each other. You can add this information at the end of the audio file, like in Coffee Cart Conversations, or you can use that space after your narrative ends to point listeners toward a text file in your repository.</p>
 
@@ -129,7 +128,7 @@ Many of you are doing smart work to differentiate foreground sounds from backgro
 
 ## Homework for next time
 
-* Aiming for 11:59pm on Sunday, but definitely by Tuesday, **complete – at least for now – your audio narrative.** Your repository (on GitHub or in a Box folder shared to me) should include:
+* Aiming for 11:59pm on Sunday, but definitely by Tuesday, **complete – at least for now – your audio narrative.** Your repository (on GitHub, ideally, or in a Box/OneDrive folder shared to me) should include:
    - Your most up-to-date layered Audacity project file (.aup3)
    - A flattened, playable export (.mp3)
    - A series, now, of screenshots showing your Audacity project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
