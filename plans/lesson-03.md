@@ -183,7 +183,7 @@ Save your changes, and we can head back to GitHub Desktop. Note that, unlike git
 <li>makes it easier to undo or amend the most recent commit</li>
 </ul>
 
-NB: If you use the command line, you can also access and activate even more features of Git than graphical interfaces allow. I'm going to drop this here, in case anyone finds they need it: https://ohshitgit.com/ (or the more kid-friendly https://dangitgit.com/).
+NB: If you use the command line, you can also access and activate even more features of Git than graphical interfaces allow. I'm going to drop this here, in case anyone finds they need it: [https://ohshitgit.com/](https://ohshitgit.com/) (or the more kid-friendly [https://dangitgit.com/](https://dangitgit.com/)).
 
 
 <div class="alert alert-success">
