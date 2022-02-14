@@ -242,7 +242,12 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 
 <dt>Visual Design Lessons</dt>
 <dd>There are lots of tutorials out there. One I've been enjoying is a series of blog posts by designer Julie Thompson on teaching middle-schoolers about principles of graphic design. You can read <a href="https://www.thetypetree.com/blog/category/graphic-design-lessons">the whole series</a> (from bottom to top), or jump to lessons on <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>, ways to create visual <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>, or <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a> – even in static images. The exercises are designed for a non-digital space, but the lessons easily apply in digital realms.</dd>
+
+<dt>Font advice</dt>
+<dd>There's a lot of this about! I'm still looking for the ideal balance of information and succinctness without being too overwhelming or didactic; let me know if you have any recommendations. For now, I'm putting forward <a href="https://venngage.com/blog/how-to-choose-fonts/">How to Choose Fonts For Your Designs (With Examples)</a> as a good-enough solution that includes some useful categories toward the end (playful, professional, etc), reducing your search space to a more manageable volume than the ever-growing lists at, say, Font Squirrel, while still giving you a range of possibilities to choose from.</dd> 
 </dl>
+
+
 
 ### Web Design
 In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons)... in addition, of course, to the web frameworks themselves.
