@@ -2,7 +2,7 @@
 # Visual Unit Studio 1
 
 **Work to have achieved**:
-* Review the [resources page]({{site.github_url}}/resources) and unit assignment [goals and options](https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#project-2-visual-argument--rhetorical-collage)
+* Review the [resources page]({{site.github_url}}/resources) and unit assignment [goals and options](https://github.com/benmiller314/visual-argument-2021spring#project-2-visual-argument--rhetorical-collage)
 * Read/watch anything that seems like it would help you, especially the LinkedIn Learning tutorials [on GIMP]({{site.github_url}}/resources#lil-gimp) (or maybe [Photoshop]({{site.github_url}}/resources#lil-ps))
 * Write a [visual rhetoric proposal]({{site.github.issues_url}})
 
@@ -21,7 +21,7 @@
 Start by making two lists: _what I've learned about using GIMP_, and _what I want to know_ about it. (Substitute Photoshop if that's what you're using.) This step can be private writing, but you'll use it as a basis for public writing in a moment.
 
 ### 1b. Sharing (3-5 min)
-Next, head over to our [shared notes doc](http://bit.ly/cdm2022spring-notes#heading=h.3vlg3iopdt5p), and **share a question or two that you'd really like answered soon**: in particular, I'm curious to know if there's anything that's _holding you back_ in visual editing. Are you stuck somewhere with GIMP, even after viewing the tutorials for homework? Do you want help clarifying something about visual hierarchy?
+Next, head over to our [shared notes doc](http://bit.ly/cdm2021spring-notes#heading=h.szkowsfjfpxd), and **share a question or two that you'd really like answered soon**: in particular, I'm curious to know if there's anything that's _holding you back_ in visual editing. Are you stuck somewhere with GIMP, even after viewing the tutorials for homework? Do you want help clarifying something about visual hierarchy?
 
 ### 1c. Crowdsourcing (5 min)
 Finally, skim through the questions in the doc, and weigh in:
@@ -42,7 +42,7 @@ To help you think about possible goals, I want to [preview the homework](#homewo
 
 As in the past, I'm going to put these words of advice here for you to peruse at your own speed. If you don't get to them today, come back over the weekend.
 
-<details><summary>Tips & reminders on navigating GIMP</summary>
+<details><summary>Tips on navigating GIMP</summary>
 <ul>
  <li>GIMP's toolbox is kinda crowded, but the tools are also helpfully indexed by category in the menu bar, under Tools. If you prefer to see all the tools in the sidebar, rather than have them nested, you can change that setting in  Preferences, under Interface > Toolbox: toggle the Use Tool Groups checkbox.</li>
  <li>Every tool also has a keyboard shortcut, and it will save you time to memorize those for your go-to instruments.</li>
@@ -53,7 +53,7 @@ As in the past, I'm going to put these words of advice here for you to peruse at
 
 <details><summary>Remember our strategies for drawing attention</summary>
 
-You can use them to signal your hierarchy through scale, value, color, proximity, and style: see the <a href="http://bit.ly/cdm2022spring-notes#heading=h.f1986sucy1m5">notes from last week</a> on "Keywords toward a Visual Rhetoric."
+, which you can use to signal your hierarchy through scale, value, color, proximity, and style: see the <a href="http://bit.ly/cdm2021spring-notes#heading=h.z55p3g78u32k">notes from last week</a> on "Keywords toward a Visual Rhetoric."
 
 <p>According to <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">Thompson</a> (our reading from last week), <strong>you can reliably convey only about three levels of dominance</strong>; after that, it starts to get mushy. At some point as you work on your proposed visual argument / rhetorical collage, therefore, you might want to reflect in writing:
 <ul>
@@ -63,7 +63,7 @@ You can use them to signal your hierarchy through scale, value, color, proximity
 </p>
 </details>
 
-<details><summary>Don't forget to document permissions</summary>
+<details><summary>Don't forget permissions</summary>
 <p>As I hope you saw on the <a href="{{site.github_url}}/resources#visuals">site resources page</a>, there are lots of tools to help you <em>find images you're explicitly allowed to use</em>, whether with Creative Commons or other permissive licenses.</p>
 
 <p>You can also use copyrighted images <em>if you can make a case for it being a Fair Use.</em> That is, in either a credits file or your reflection (or both), you can argue that the balance of the four factors is in your favor:
@@ -84,10 +84,10 @@ Some preview of the project will be due before next class, just to make sure you
 Therefore, the rest of today's class is all about working on your individual projects! Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.
 
 <div class="alert alert-success">
-<p>As usual, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm2022spring-notes#heading=h.myn5fnv0tyi">shared notes doc</a>, both for accountability and so I can look for ways to help.</p>
+<p>As usual, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm2021spring-notes#heading=h.z55p3g78u32k">shared notes doc</a>, both for accountability and so I can look for ways to help.</p>
 </div>
 
-You can keep your own time, or coordinate to chat with partners. In the latter case, each time the break bell rings, ask each other:
+Pomodoros are optional today, but encouraged; you can keep your own time, or coordinate to chat with partners. In the latter case, each time the break bell rings, ask each other:
 
 * What do you feel good about?
 * What challenges came up?
