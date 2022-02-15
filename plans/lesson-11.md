@@ -48,6 +48,8 @@ As in the past, I'm going to put these words of advice here for you to peruse at
  <li>Every tool also has a keyboard shortcut, and it will save you time to memorize those for your go-to instruments.</li>
  <li>Something not behaving as it should? First check that you're in the right layer. If you are, check that the layer is big enough; you might need to use Layer > Layer to Image Size. (Or give yourself more room overall with Image > Canvas Size.) If even <em>that's</em> not working, check the tool settings area (usually below the tools, but they're movable).</li>
  <li>Remember that there are often extra tips for the tool you're using under the editing window, in a tiny font; try holding shift, alt, control, command, etc while you click or drag to see what it says/does. Most of the time, these are temporary adjustments to the tool settings that you can also change more long-term in the tool settings area.</li>
+ <li>You can rename your layers! In fact, I highly recommend it: filenames from sites like unsplash or flickr aren't known for emphasizing their content.</li>
+ <li>Did you know you can group layers so they move (and scale, and hide) together? Click the folder icon in the layers toolbox to create a new group, then drag or drop layers into it.</li>
  </ul>
 </details>
 
@@ -64,7 +66,7 @@ You can use them to signal your hierarchy through scale, value, color, proximity
 </details>
 
 <details><summary>Don't forget to document permissions</summary>
-<p>As I hope you saw on the <a href="{{site.github_url}}/resources#visuals">site resources page</a>, there are lots of tools to help you <em>find images you're explicitly allowed to use</em>, whether with Creative Commons or other permissive licenses.</p>
+<p>As I hope you saw on the <a href="{{site.github_url}}/resources#visuals">site resources page</a>, there are lots of tools to help you <em>find images you're explicitly allowed to use</em>, whether with Creative Commons or other permissive licenses. Don't forget about <a href="https://search.creativecommons.org">https://search.creativecommons.org</a> and the Usage Rights options under Google's Image search (click the Tools link just above your search results).</p>
 
 <p>You can also use copyrighted images <em>if you can make a case for it being a Fair Use.</em> That is, in either a credits file or your reflection (or both), you can argue that the balance of the four factors is in your favor:
 <ul>
