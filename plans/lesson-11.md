@@ -99,7 +99,7 @@ You can keep your own time, or coordinate to chat with partners. In the latter c
 
 
 <!--
-<div class="alert alert-warning"><p>To get credit for asynchronous participation, <strong>add your working goals to the <a href="http://bit.ly/cdm2021spring-notes#heading=h.z55p3g78u32k">google doc</a> when you start your session</strong>, set your timer, and when the bell rings, <em>add a brief reply</em> to your initial note with a status update. (This can be very brief.) Run through this cycle at least twice.</p>
+<div class="alert alert-warning"><p>To get credit for asynchronous participation, <strong>add your working goals to the <a href="http://bit.ly/cdm2022spring-notes#heading=h.z55p3g78u32k">google doc</a> when you start your session</strong>, set your timer, and when the bell rings, <em>add a brief reply</em> to your initial note with a status update. (This can be very brief.) Run through this cycle at least twice.</p>
 
 <p>NB: To make it easier for me to find your additions to the doc, please use either Comments or Suggestion Mode.</p>
 </div> -->
@@ -109,12 +109,12 @@ You can keep your own time, or coordinate to chat with partners. In the latter c
 
 Just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular GIMP skill? Which ones? Decide something about your project (what was it)? Raise a question in a new way that you'd like some help with?
 
-Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2021spring-notes#heading=h.z55p3g78u32k">the doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
+Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2022spring-notes#heading=h.myn5fnv0tyi">the doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
 
 
 ## Homework for next time
 <!-- Do I want to put this reading on Perusall next time?  -->
-* **Read** about fonts, if you haven't yet, at [https://venngage.com/blog/how-to-choose-fonts/](https://venngage.com/blog/how-to-choose-fonts/).
+* **Read** about fonts. I've added Midori Nediger's blog post, ["How to Choose Fonts For Your Designs (With Examples)"](https://app.perusall.com/courses/2224-engcmp-0610-sec1070-composing-digital-media/_/dashboard/documents/document-NkBghemBYT5WLtkzs) to Perusall, on Canvas, so you can annotate it with anything surprising or important, ask questions, reply to each other, etc.
    - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
 
 
