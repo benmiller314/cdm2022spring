@@ -114,11 +114,12 @@ Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2022sp
 
 ## Homework for next time
 <!-- Do I want to put this reading on Perusall next time?  -->
-* **Read** about fonts. I've added Midori Nediger's blog post, ["How to Choose Fonts For Your Designs (With Examples)"](https://app.perusall.com/courses/2224-engcmp-0610-sec1070-composing-digital-media/how-to-choose-fonts-for-designs-examples-venngage) to Perusall, on Canvas, so you can annotate it with anything surprising or important, ask questions, reply to each other, etc.
+* **Read** about fonts; you can do this now or over the weekend, depending on when you have time. I've added Midori Nediger's blog post, ["How to Choose Fonts For Your Designs (With Examples)"](https://app.perusall.com/courses/2224-engcmp-0610-sec1070-composing-digital-media/how-to-choose-fonts-for-designs-examples-venngage) to Perusall, on Canvas, so you can annotate it with anything surprising or important, ask questions, reply to each other, etc.
    - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
 
 
-* Compose a **Visual Argument Preview**: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
+* For Thursday, compose a **Visual Argument Preview**: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
+
 * To submit, please **Push to your repository** the following:
    <ul>
    <li> A layered <strong>GIMP project file (.xcf)</strong>, showing the arrangement of your images and text so far (need not be a complete argument or collage yet).</li>
