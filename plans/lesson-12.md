@@ -80,6 +80,9 @@ NB: If you're joining us asynchronously, please do add your goals and reflection
 
 EXT: If you're feeling stuck in studio, check to see if you can answer questions in the doc; otherwise, use any remaining time to work on your projects and view any needed tutorials.
 
+## 6. Exit note
+Before you leave, please go back into the google doc and reply to your stated intention from earlier: how far did you get on your goal? What's your new task list heading into the weekend?s
+
 
 ## For next time:
 * **Work** to bring in a _full draft_: a solid attempt at a complete visual argument, ideally meeting baseline criteria. Rough edges are still welcome.
