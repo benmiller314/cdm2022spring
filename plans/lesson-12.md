@@ -7,11 +7,12 @@
 * Work on your visual arguments, and push a _[rhetorical collage preview](https://github.com/benmiller314/visual-argument-2022spring#deadlines-and-products)_ to GitHub: .xcf (or .psd) file, GIMP (or Photoshop) screenshot, and text description, plus updated list of assets/credits. Exported .png of the collage-in-progress.
 
 **Plan for the Day**:
-1. Reflective writing (5 min)
-2. Refresher on visual arguments we've liked (5 min)
-3. Gathering criteria (30-40 min)
-4. Studio (25-35 min)
-5. EXT: Talking fonts
+1. Help me make sure your files are interoperable
+2. Reflective writing (5 min)
+3. Refresher on visual arguments we've liked (5 min)
+4. Gathering criteria (30-40 min)
+5. Studio: set goals, then set out (25-35 min)
+6. Exit note
 
 ## 1. Help me make sure your files are interoperable
 
@@ -22,13 +23,13 @@ On Tuesday, you'll be downloading and responding to each other's drafts. For tha
 In your own space – you won't have to share this unless you want to – do a little writing about your visual argument in progress. What's exciting about it? What's challenging about it? What are you unsure of?
 </div>
 
-## 2. Refresher on visual arguments we've liked (5 min)
+## 3. Refresher on visual arguments we've liked (5 min)
 Shift now in your writing to think about the [blog posts on rhetorical collages in the wild]({{site.github.issues_url}}/6) – or, if you haven't read through them in a while, look at them quickly now with an eye toward _what you're drawn to_ in these images: **what seems to make a visual design work well, especially for making some intervention in the world or the viewer? Jot down some notes.**
 
-## 3. Gathering criteria (45 min)
+## 4. Gathering criteria (45 min)
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit.
 
-### 3a. Preamble (5 min)
+### 4a. Preamble (5 min)
 There are several reasons I like this collaborative process:
 
 * It helps keep my own expectations in the realm of what's possible, especially but not only in world altered by COVID, and so sets you up for success.
@@ -39,7 +40,7 @@ So I do hope you'll talk within your groups about what's doable, what's worth do
 
 Given the goals of the unit, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not just in terms of quantity, but in terms of quality?
 
-### 3b. Review, comment, and suggest (10 min)
+### 4b. Review, comment, and suggest (10 min)
 Like last time, I've posted criteria from previous semesters in our [shared google doc](http://bit.ly/cdm2022spring-notes#heading=h.nw8ak0e20moc) as a starting point.
 
 <div class="alert alert-success">
@@ -51,7 +52,7 @@ As you reach consensus, <strong>add comments</strong> or <strong>use the "sugges
 EXT: If you finish early, move on to the next section.
 
 
-### 3c. Respond to each other (10-15 min)
+### 4c. Respond to each other (10-15 min)
 Read through the other groups' notes, adding *collegial* replies to their comments in the margins to **upvote**, **ask questions**, or **propose modifications**.
 
 Make sure to loop back to your own comments to see if you've picked up anything to respond to.
@@ -64,7 +65,7 @@ We won't finalize them until after workshop later in the week.
 
 EXT: If you finish early, move on to the next section.
 
-## 4. Studio While I Synthesize (25 min)
+## 5. Studio While I Synthesize (25 min)
 
 I'll work solo to write up a clean list that reflects your consensus in the comments, while you all work solo (with groupmates on-hand for questions or other feedback) on your projects and any needed tutorials.
 
