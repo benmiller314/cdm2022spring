@@ -12,7 +12,8 @@
 4. Evaluation revisited (10 min)
 5. HW Preview
 
-<!--<div class="alert alert-danger" role="alert">
+<!--
+<div class="alert alert-danger" role="alert">
 <details><summary><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
   <span class="sr-only">Heads up:</span> Important note about file types and non-GIMP users</summary>
 <p>Several of you had asked about the possibility of working with Photoshop or Illustrator, which I said was fine as long as it matched your career goals. However, that does throw a potential wrench into workshop plans, I've just realized: everyone needs to be able to open each other's files.</p>
@@ -28,7 +29,8 @@ As a failsafe, everyone should make sure your repos <strong>include an exported 
 
 <p>Thanks, and sorry about the lateness of this realization!</p>
 </details>
-</div> -->
+</div> 
+-->
 
 
 ## 1. Workflow Reminder: Describe -> Evaluate -> Suggest (5 min)
@@ -53,9 +55,9 @@ To help maximize what you learn both in receiving _and in giving_ feedback, plea
 
 
 ## 2. Evaluation reminder: our criteria (5 min)
-Last class, we reached a strong consensus on shared goals and constraints in [our notes doc](http://bit.ly/{{site.course.slugterm}}-notes#heading=h.g4l54sdnfu3n). Huzzah! <!--Let's just look at these together briefly, to make sure there are no surprises.
+Last class, we reached a strong consensus on shared goals and constraints in [our notes doc](http://bit.ly/{{site.course.slugterm}}-notes#heading=h.g4l54sdnfu3n). Huzzah! <!-- Let's just look at these together briefly, to make sure there are no surprises.
 
-Can we go alphabetically through the Participants window, reading aloud, one bullet each? (Ask questions, if you have them, as we go.)-->
+Can we go alphabetically through the Participants window, reading aloud, one bullet each? (Ask questions, if you have them, as we go.) -->
 
 **Baseline criteria**
 For a minimum grade of B, all projects for this unit must:
@@ -98,7 +100,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 ### Detailed instructions for workshop
 
 1. Go to your first partner's repo on GitHub, and use the green "Code" button. If you have lots of disk space and a chance to prep **before class, you can clone** (e.g. with the "Open with GitHub Desktop" option); then, in class, you can just pull any new changes. **Otherwise, download the individual project file** to save bandwidth.
-  - To download, click the filename (not the commit message) and right-click the Download button. <figure><img src="assets/img/github--download-one-file.png" alt="individual file on github.com"/></figure>
+  - To download, click the filename (not the commit message) and right-click the Download button. <figure><img src="../assets/img/github--download-one-file.png" alt="individual file on github.com"/></figure>
   - NB: If you have more than one .xcf (or .psd) file, clarify in your README which one partners should use!
 
 
