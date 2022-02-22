@@ -162,7 +162,7 @@ If you want to share any insights, I'd love to hear them! Since we likely don't 
 
 
 ## EXT: Studio
-Use what class time remains to make a revision plan – or even begin the revision now. As in past lessons, it would help me get a sense of how things are going (since I can't check in face to face) if you could [write your studio goals in the shared doc](https://bit.ly/cdm{{site.course.slugterm}}-notes). Thanks!
+Use what class time remains to make a revision plan – or even begin the revision now. As in past lessons, it would help me get a sense of how things are going <!-- (since I can't check in face to face) --> if you could [write your studio goals in the shared doc](https://bit.ly/cdm{{site.course.slugterm}}-notes). Thanks!
 
 
 
