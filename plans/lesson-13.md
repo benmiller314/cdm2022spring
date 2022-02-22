@@ -29,7 +29,7 @@ As a failsafe, everyone should make sure your repos <strong>include an exported 
 
 <p>Thanks, and sorry about the lateness of this realization!</p>
 </details>
-</div> 
+</div>
 -->
 
 
@@ -55,9 +55,9 @@ To help maximize what you learn both in receiving _and in giving_ feedback, plea
 
 
 ## 2. Evaluation reminder: our criteria (5 min)
-Last class, we reached a strong consensus on shared goals and constraints in [our notes doc](http://bit.ly/{{site.course.slugterm}}-notes#heading=h.g4l54sdnfu3n). Huzzah! <!-- Let's just look at these together briefly, to make sure there are no surprises.
+Last class, we reached a strong consensus on shared goals and constraints in [our notes doc](http://bit.ly/{{site.course.slugterm}}-notes#heading=h.g4l54sdnfu3n). Huzzah! <!-- Let's just look at these together briefly, to make sure there are no surprises. -->
 
-Can we go alphabetically through the Participants window, reading aloud, one bullet each? (Ask questions, if you have them, as we go.) -->
+<!-- Can we go alphabetically through the Participants window, reading aloud, one bullet each? (Ask questions, if you have them, as we go.) -->
 
 **Baseline criteria**
 For a minimum grade of B, all projects for this unit must:
