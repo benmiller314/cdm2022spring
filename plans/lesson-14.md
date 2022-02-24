@@ -22,7 +22,7 @@ I'll make pomodoro timers optional but encouraged again: I can't be in every roo
 
 
 ## Guiding thoughts for Studio (5-15 min)
-Some seeds of revision possibilities I want to plant, based on seeing the latest drafts (as of Monday afternoon):
+Some seeds of revision possibilities I want to plant, based on seeing the latest drafts (as of last night):
 
 
 <details> <!-- text vs background -->
