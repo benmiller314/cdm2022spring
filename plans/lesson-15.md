@@ -1,21 +1,23 @@
 
-# Midterm Reflections
+# Midterm Reflections and Generative Writing
 
-**Work to have done**: progress toward a Visual Argument / Rhetorical Collage; optional discussion on the [issue queue]({{site.github.issues_url}}) about potential projects for the final project unit (consolidation/integration)
+**Work to have done**: finish, at least for now, a Visual Argument / Rhetorical Collage and reflect on it
 
 **Plan for the day**:
 
-1. Thinking on the page (10-15 min)
-2. Share and discuss (40-50 min)
-3. EXT: Reintroduction to Atom
+1. Looking back to look forward (10-15 min)
+2. Share and discuss (10-15 min)
+3. Web-design unit overview and assignment (10 min)
+4. Generative writing toward a proposal (10+ min)
+5. Offline sketching (10 min)
 
 
 
-## 1. Thinking on the page
+## 1. Looking back to look forward
 
-We begin with writing, as a way of priming the pump of conversation, but also, really, as a way of letting your thoughts surface: writing can be a way of telling yourself what you think. It can lead to surprises, if you let it.
+We begin with writing, as a way of priming the pump of conversation, but also, really, as a way of letting your thoughts surface: writing can be a way of telling yourself what you think. It can lead to surprises, if you let it. Try to think on the page.
 
-I'll give you a series of openings; **start with the prompt that speaks the most to you right now, and then move on to others** as you finish answering. Write your response somewhere you'll be able to refer back to it. _Sharing the writing itself will be optional, but I do hope everyone will share *some* thoughts aloud today_, using your notes to jump off from.
+I'll give you a series of openings; **start with the prompt that speaks the most to you right now, and then move on to others** as you finish answering. Write your response somewhere you'll be able to refer back to it. _Sharing the writing itself will be optional, but I do hope you'll share *some* thoughts aloud today_, using your notes to jump off from.
 
 We'll take about 10 minutes here.
 
@@ -43,54 +45,87 @@ EXT 1: If you have a solid metaphor or simile from question 4 above, something t
 
 EXT 2: Reflect on your goals for the course: given your goals and expectations when you began this class, what have you begun to learn? Combined with what you now know about our projects and scheduling patterns, what would you give yourself as a goal for the rest of the term?
 
-
+<!--
 <div class="alert alert-warning">To get credit for asynchronous participation,
 <ul>
 <li>Set yourself a 10 minute timer and do the writing above. Then – because GitHub's issue queues are not equipped for streaming media, alas – </li>
 <li> <strong>Head into <a href="https://canvas.pitt.edu/courses/78948/assignments/527213">Canvas</a> to record a quick Flipgrid video</strong> about one piece of what the writing got you thinking about. <ul><li>Aim for more than 30 seconds, but less than 3 minutes, to simulate what we did in class.</li><li>Feel free to watch the class recording first, so you have the option of responding to what someone said there!</li><li>Any such videos will appear in the <a href="https://canvas.pitt.edu/courses/78948/assignments">Assignments section</a> under "Async video/sound contributions."</li></ul></li>
 </ul></div>
+ -->
 
-
-## 2. Share and discuss reflections + questions (30-40 min)
+## 2. Share and discuss reflections + questions (10-15 min)
 
 Any volunteers to share?
 
 Anyone have a different response?
 
-Again, I'd really like to get everyone's voices in the room today. (Or, if you're responding asynchronously, soon.)
+<!-- Again, I'd really like to get everyone's voices in the room today.  -->
+I want to make sure we leave plenty of time for generative writing toward the new unit, so I'll cut us off by 1:30 or so. (Apologies! If we have time later, we can come back.) Any outstanding questions, or questions you'd prefer remain anonymous, please post to the [shared google doc](http://bit.ly/cdm2022spring-notes).
 
 
-Any outstanding questions, or questions you'd prefer remain anonymous, please post to the [shared google doc](http://bit.ly/cdm2021spring-notes).
+## 3. Web-design unit overview and assignment
+
+As I explained in the syllabus, your third project is to **build a portfolio website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** In assigning this, I have two main goals for you:
+
+1. to learn how to manage a composite project made up of multiple interlinking files, and
+2. to explore the affordances of the web design stack as a medium, and especially its ability to _flexibly render content for multiple audiences or reading priorities_.
+
+<div class="alert alert-success">
+  To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/website-portfolio-2022spring#project-3-website-portfolio">github.com/benmiller314/website-portfolio-2022spring</a></strong>.
+</div>
+
+Let's read through this together.
+
+## 4. Generative writing toward a proposal (10-15 min)
+
+Take a few minutes to think in writing about the websites you might want to make. I'll read a series of questions aloud. Repeat them silently to yourself, and when you feel yourself answering, make a list.
+
+These lists will remain private, unless you choose to share. I won't ask for them.
+
+1. What have you been working on, in or out of this class, that you'd like to show the world? What have you made, or done, or pursued?
+    - Or: if you'd rather the site not focus on _you_, what groups, things, or events might you represent?
+2. Is there anything else you might add to the list? A wider context for one of the projects already there, or a related next step?
+3. Is there anything you're forgetting? Something you were recently talking about, or planning for? Add it to the list.
+    - If you haven't yet included your work for this class, be sure to add it now.
+
+Take a moment now to read back over your lists. **How might you _group_ or _divide_ these items? What clusters do they form?** Mark these in some way.
+
+Is there one cluster that stands out, that says, _me, pick me_? Choose one group to work with, at least for today, and name it in some way. Then copy the name into a clean page.
+
+With that chosen subject, write again:
+
+4. What terms or images come to mind when you think of this subject? ... Think about actions... things... descriptors.
+5. I'm going to interrupt you now and ask you to set aside the list, just for now, and ask: **What's the heart of this?** What's the essential component for this cluster of things? What ties them together? <br/><br/>See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
+
+## 5. Offline sketching (10 min)
+<div class="alert alert-success">
+<p>And now, draw. Given what's essential, given your knowledge of how websites work, and given the principles of designing for attention we learned last unit, <strong>make a few quick sketches of your possible website's landing page.</strong></p>
+
+<p>Consider: How will it look on a phone? On a laptop? What might you add to the layout for a full-sized desktop monitor?</p>
+</div>
+
+Not sure what that should look like? Here are [33 examples](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/) (but no one is asking you to be as elaborate as the most elaborate of these)
+
+<div class="alert alert-info">
+NB: If you're feeling stuck after the loop writing above, you can turn to one of the <a href="https://github.com/benmiller314/website-portfolio-2022spring#parachute-prompts">parachute prompts</a>.
+</div>
 
 
+* EXT: Will "inner" pages look the same as the landing page? Sketch out the possible differences. Consider the possibility that someone jumps directly to an inner page (e.g. from Google). What would they need to feel oriented? To get to other pages on the site? (What would you suggest they view next? How might you lead them there?)
+* EXT: Finished one drawing? Make another, using a different system of visually organizing your information.
 
-## EXT: Reminder / reintroduction to Atom (10-15 min)
-
-If time allows, we can start looking more closely at some of the affordances of Atom for multi-file project management. We've actually already done a little of the "what do you notice?" "what's made easy?" questions, [back in the day](lesson-03), so we don't have to get too deep into those.
-
-But I do want to share some of my favorite features, the things I use all the time that make it easier (but which aren't immediately obvious):
-
-- Split panes
-- Markdown preview (which also includes the idea of extending Atom with packages)
-- Close current tag (same)
 
 
 # For next time:
 
-* Aiming for 11:59pm on Sunday, **complete – at least for now – your visual argument / rhetorical collage.** Your repository, once again, should include...
-  - Your most up-to-date layered project file (.xcf for GIMP, .psd for Photoshop)
-  - An exported flat image (.png or .jpeg), for speedy previewing or as a backup should something go wrong with the project file
-  - A series, now, of screenshots showing your GIMP project in progress
-  - An updated ASSETS.md (or credits.md, or put it at the bottom of your README.md) file reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC-BY, or rationales for claiming fair use)
-  - An updated README.md file introducing your collage to a new audience. **Give your piece a title!** Make it something to live beyond this assignment, if you can. :¬)
+* Review sample student website projects:
+  - [Fatema Quaid](https://fatemaquaid987.github.io/website/index.html), by Fatema Quaid
+  - [Hi, I'm Caela](https://cmgo412.github.io/website-portfolio-2021spring/), by Caela Go
+  - [Loose Leaf](https://cap-alt-delete.github.io/website-portfolio-2021spring/), by Lynn Priestley
+  - [The Rwandan Genocide: 100 Days of Silence](https://shreyababu.github.io/website-portfolio-2020fall), by Shreya Babu
+* Consider the collections of work you might want to gather
+* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
-<div class="alert alert-info">NB: If GH or git-lfs is giving you problems, you may well need to create a fresh repository. In that case, just be sure to link to it prominently in the README.md file of the repo you forked from my assignment.</div>
-
-* By Tuesday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your GIMP project. As explained in the [prompt for the assignment](https://github.com/benmiller314/visual-argument-2021spring#deadlines-and-products), this should include:
-   - At least 500 words
-   - Your own assessment of how you met the [baseline criteria](http://bit.ly/cdm2021spring-notes#heading=h.ka3w89gepyus) and goals for the unit, as well as any aspirational goals as appropriate
-   - At least one screenshot or blockquote of feedback you used (and please say how)
-   - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets: e.g., can you show a before/after? can you focus the screenshot on something you're proud of?)
 
 
 * EXT: If you haven't yet, spend some time getting to know your plain-text editor.
