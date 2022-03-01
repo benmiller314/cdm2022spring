@@ -71,7 +71,7 @@ As I explained in the syllabus, your third project is to **build a portfolio web
 2. to explore the affordances of the web design stack as a medium, and especially its ability to _flexibly render content for multiple audiences or reading priorities_.
 
 <div class="alert alert-success">
-  To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/website-portfolio-2022spring#project-3-website-portfolio">github.com/benmiller314/website-portfolio-2022spring</a></strong>.
+  To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/webs2022spring#project-3-website-portfolio">github.com/benmiller314/webs2022spring</a></strong>.
 </div>
 
 Let's read through this together.
@@ -107,7 +107,7 @@ With that chosen subject, write again:
 Not sure what that should look like? Here are [33 examples](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/) (but no one is asking you to be as elaborate as the most elaborate of these)
 
 <div class="alert alert-info">
-NB: If you're feeling stuck after the loop writing above, you can turn to one of the <a href="https://github.com/benmiller314/website-portfolio-2022spring#parachute-prompts">parachute prompts</a>.
+NB: If you're feeling stuck after the loop writing above, you can turn to one of the <a href="https://github.com/benmiller314/webs2022spring#parachute-prompts">parachute prompts</a>.
 </div>
 
 
