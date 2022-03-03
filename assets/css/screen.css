@@ -233,6 +233,10 @@ details[open] {
 	          box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
 }
 
+/* But don't do this inside a colored alert */
+.alert summary {
+    background-color: inherit;
+}
 
 /* Add more visual separation between consecutive
    dictionary list items (e.g. on resources page) */
