@@ -92,7 +92,7 @@ The same is true in HTML, but it looks a little different:
       <th>what we’re marking</th>
       <th>Markdown syntax</th>
       <th>HTML syntax</th>
-      <th>What you see<sup>*</sup></th>
+      <th>What you get<sup title="By default. In practice, you can use CSS to change &lt;em&gt; to red text, or a different font, etc, instead of italics – and so on for any element.">*</sup></th>
     </tr>
   </thead>
   <tbody>
@@ -117,8 +117,8 @@ The same is true in HTML, but it looks a little different:
 <p>You can think of them as being like <a href="https://xkcd.com/859/">parentheses</a>: In general, <strong>every HTML tag you open, you should close.</strong> (You can nest a complete pair of tags inside another pair (like these parentheses), but you can't close the outer pair before closing the inner pair – at least, not without causing problems.)</p>
 </div>
 
-<div class="alert alert-white">
-Pro tip: Atom can automatically close the most recently opened tag. See Packages &gt; Bracket Matcher &gt; Close Current Tag, where you should also find a keyboard shortcut. (Way more convenient, I find.) I like to use this also as a form of proofreading: it reassures me that any tags still open are what I expect is still open.</div>
+<aside class="alert alert-white">
+Pro tip: Atom can automatically close the most recently opened tag. See Packages &gt; Bracket Matcher &gt; Close Current Tag, where you should also find a keyboard shortcut like <code>Cmd+Option+.</code>. (The shortcut's way more convenient, I find.) I like to use this also as a form of proofreading: it reassures me that any tags still open are what I expect is still open.</aside>
 
 One nice thing about having the tags themselves marked by angle brackets is that you can add information to them:
 
