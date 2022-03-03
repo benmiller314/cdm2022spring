@@ -12,6 +12,15 @@
 5. HW for next time
 
 
+<aside>
+<p>A quick note about your proposals: First, I'm excited to see how many great ideas you have! If you haven't yet posted and want to talk to me, please email or come to office hours. And don't forget about those parachute prompt options...</p>
+
+<p>Second: I want to warn you about the risks of scope creep. If you're still learning HTML and CSS, <em>you probably want to limit how much new material you need to actively compose and create.</em> Instead, <strong>plan around a minimum deliverable product</strong>, with stretch goals on top of that. For example, could you create a mockup with Lorem Ipsum (placeholder) text and images, and then work on replacing it if time allows? Could you try writing a review of just one restaurant / astrological sign / clothing item at first, but build space for where more will go?</p>
+
+</aside>
+
+
+
 ## 1. Introduction to markup and style
 
 ### Begin in the garden
