@@ -190,7 +190,6 @@ For next time:
 BEN HW:
   * Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding. Then update the HW for after break to include this.
   * Record and post a screencast of building a CSS layout from an offline sketch
-
 -->
 
 For next time:
