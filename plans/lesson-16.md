@@ -217,6 +217,13 @@ The first chapter of the tutorial ("Introduction") mostly covers what we just ta
 
 
 ### Key Atom features that will make your life easier
+<!-- NOTES FROM 2022 SPRING:
+* Demo with the webs assignment repo, not your lesson plan. *Show* the tutorials folder and its subfolders.
+* Right-click the sidebar to create a new file/folder
+* Right-click the sidebar to Show in Finder, double-click to open in your web browser. (How did you not have this?!)
+* SKIP THE REST – newbies don't need to know about the shortcuts yet, oldbies (oldbies??) don't need to be told – and you've been talking for 45 minutes already. 
+
+ -->
 * Split Left / Split Right (right-click any filename)
   - View your HTML and CSS files at the same time! Or any two files. Or three, or six if you want to split top/bottom, too. It's the best.
 * Close current tag (under Packages > Bracket Matcher)
