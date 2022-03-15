@@ -98,7 +98,7 @@ Let me know if you have any challenges or questions after reading my answer key!
 
 ## 3. Studio / Practice (45-60 min) <!-- for a 1:00 start, you have to get here by 1:25, ending by 3:35 -->
 
-<div class="alert alert-success">See below for options, then please go to <a href="https://bit.ly/cdm2022spring-notes">bit.ly/cdm2022spring-notes</a> and let me know what you're working on; this helps me figure out where I can be most helpful.</div>
+<div class="alert alert-success">See below for options, then please go to <a href="https://bit.ly/cdm2022spring-notes#heading=h.hiw73w6fl2zt">bit.ly/cdm2022spring-notes</a> and let me know what you're working on; this helps me figure out where I can be most helpful.</div>
 
 1. **If your tutorial pages aren't looking like the examples, tell me now, so I can help you get there!** You'll get a lot more out of the later tutorials if you've got these first ones solidly under your belt.
 
@@ -106,16 +106,16 @@ Let me know if you have any challenges or questions after reading my answer key!
 
 3. If you're feeling good about all that, start translating your website sketches – especially your website *content* – into HTML and then CSS. Begin by adapting the tutorials, once you know you've got them working, to include your own materials.
   - Use the _docs_ folder for files you'll eventually want to publish on the web.
-  - Call the file for your landing/home page **index.html**. You can always change the `&lt;title&gt;`.
+  - Call the file for your landing/home page **index.html**. You can always change the `<title>`.
 
 4. Above all, call me over for help as needed.
 
-EXT: If you've already done the above, and you're good on what a CSS class is, and how to add it to an HTML element, read up on [CSS frameworks](../resources#frameworks) on our course Resources page. They're basically a bunch of pre-created CSS classes you can use to design your own layout from scratch: a little like Lego for web design. (I use the Bootstrap framework on this site.)
+EXT: If you've already done the above, and you're good on what a CSS class is, and how to add it to an HTML element, read up on [CSS frameworks]({{site.github_url}}/resources#frameworks) on our course Resources page. They're basically a bunch of pre-created CSS classes you can use to design your own layout from scratch: a little like Lego for web design. (I use the Bootstrap framework on this site.)
 
 
 ## Homework for Next Time
 
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
-  - Remember that I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule) to see which parts I expect you to read and do, and what's beyond baseline. You can probably skip Floats.
+  - Remember that I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule#unit-4) to see which parts I expect you to read and do, and what's beyond baseline. You can probably skip Floats.
 * Please do, though **read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
 * As you're able to get the tutorials working, you can start adapting the files there to include your own content; save those more personal files in the _docs_ folder.
