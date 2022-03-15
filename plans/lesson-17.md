@@ -1,5 +1,5 @@
 
-# Core Concepts of HTML & CSS + Generative Studio
+# Core Concepts of HTML & CSS + Studio
 
 **Work to have done**:
 * As much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS"); _push your tutorial code to GH_
