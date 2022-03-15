@@ -7,16 +7,15 @@
 **Plan for the day**:
 
 1. Key Concepts and Practical Takeaways (20-30 min)
-2. Loop writing (10 min)
-3. Offline sketching (10 min) – you'll want paper again. Lined paper is fine (and in fact, may help with layout)
-4. Studio (25 min)
+2. Intro to studio
+3. Studio (25 min)
 
 ## 1. Key Concepts and Practical Takeaways (20-30 min) <!-- so for a 1:00 start, aim to be done by 3:25 -->
 
 In groups at your tables, work through the following questions, and be ready to discuss with the whole class if time allows. Some you should be able to go through rather quickly, while others may require more discussion. (For example, some of the True/False questions are actually a little subtler than that framing suggests: e.g. *mostly* true, except when ____.)
 
 <div class="alert alert-success">
-<strong>Please take turns within your group</strong> reading questions and proposing answers, so that everyone in the group bears responsibility. Also, to help me keep track of where everyone's up to, <strong>please take notes in the <a href="http://bit.ly/cdm2022spring-notes">shared google doc</a></strong>.
+<strong>Please take turns within your group</strong> reading questions and proposing answers, so that everyone in the group bears responsibility. <!--Also, to help me keep track of where everyone's up to, <strong>please take notes in the <a href="http://bit.ly/cdm2022spring-notes">shared google doc</a></strong> -->.
 </div>
 
 **Speedy teams, note the EXTs** at the end. Conversely, feel free to **skip the EXTs in the middle if you're running behind** – we want to make sure you have enough writing time in the second part of class.
