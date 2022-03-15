@@ -123,7 +123,7 @@ Ask yourself:
   <p>This one's related to what I said above, but applies especially when you're starting to think about appearances. <em>Visuals are volatile; structure should be steady.</em> It can be very tempting to just accept your browser's default styles as a given, e.g. to jump from a large <code>&lt;h1&gt;</code> page title to an <code>&lt;h5&gt;</code> subtitle because the latter "looks about right." But this would mis-represent the actual structure of the document – and would seriously confuse screen-reader software trying to present the page to a blind visitor. Instead, use your browser's Inspector to take note of the CSS rules defining that <code>&lt;h5&gt;</code>, and apply them to <code>&lt;h2&gt;</code> in your stylesheet.</p><!-- This makes a good jump-point into the inspector... -->
 </details>
 
-<details>
+<details> <!-- CONSIDER: SHOULD WE DO THIS ALL TOGETHER? -->
 <summary>Stuck for what to do, CSS-wise? Start with some basic spacing</summary>
 
 <p>Work your way through <a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a>, and borrow some of the most essential rules... e.g. <ul><li>set a maximum width for text</li><li>add padding on main content and headers</li><li>change font-family away from the default "Times"</li></ul></p>

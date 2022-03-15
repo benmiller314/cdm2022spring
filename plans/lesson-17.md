@@ -97,18 +97,20 @@ Let me know if you have any challenges or questions after reading my answer key!
 
 
 ## 3. Studio / Practice (45-60 min) <!-- for a 1:00 start, you have to get here by 1:25, ending by 3:35 -->
-The assignment for Thursday includes another two chapters in the tutorial and a game to play (or a blog post to read) about more advanced CSS selectors.
 
-* If you haven't yet done so, why not start those homework assignments?
+<div class="alert alert-success">See below for options, then please go to <a href="https://bit.ly/cdm2022spring-notes">bit.ly/cdm2022spring-notes</a> and let me know what you're working on; this helps me figure out where I can be most helpful.</div>
 
-* Above all, call me over for help as needed. **If your html pages aren't looking like the examples in the tutorial, tell me now, so I can help you get there!** You'll get a lot more out of the later tutorials if you've got these first ones under your belt.
+1. **If your tutorial pages aren't looking like the examples, tell me now, so I can help you get there!** You'll get a lot more out of the later tutorials if you've got these first ones solidly under your belt.
 
-* If you're feeling good about all that, start translating your website sketches – especially your website *content* – into HTML and then CSS. Begin by adapting the tutorials, once you know you've got them working, to include your own materials.
+2. The assignment for Thursday includes another two chapters in the tutorial and a game to play (or a blog post to read) about more advanced CSS selectors. If you haven't yet done so, why not start those homework assignments?
+
+3. If you're feeling good about all that, start translating your website sketches – especially your website *content* – into HTML and then CSS. Begin by adapting the tutorials, once you know you've got them working, to include your own materials.
   - Use the _docs_ folder for files you'll eventually want to publish on the web.
   - Call the file for your landing/home page **index.html**. You can always change the `&lt;title&gt;`.
 
+4. Above all, call me over for help as needed.
 
-EXT: If you've already done the above, and you're good on what a CSS class is, and how to add it to an HTML element, read up on [CSS frameworks](../resources#frameworks) on our course Resources page. They're basically a bunch of pre-created CSS classes you can use to design your own layout from scratch: a little like Lego for web design.
+EXT: If you've already done the above, and you're good on what a CSS class is, and how to add it to an HTML element, read up on [CSS frameworks](../resources#frameworks) on our course Resources page. They're basically a bunch of pre-created CSS classes you can use to design your own layout from scratch: a little like Lego for web design. (I use the Bootstrap framework on this site.)
 
 
 ## Homework for Next Time
