@@ -9,8 +9,8 @@
 
 
 **Plan for the day**:
-1. Genre conventions for navigation
-1. General advice on moving from proposal to product <!-- Don't open all of these! Just read the headlines, and get into the inspector demo. -->
+1. Threshold Concepts: what you all need to know
+2. Ideas for studio <!-- Don't open all of these! Just read the headlines, and get into the inspector demo. -->
 <!-- 2. Brief intro to the browser inspector (Firefox, Chrome) -->
 3. Set goals and go forth!
 4. Update your goals
@@ -109,7 +109,7 @@ Chrome and Firefox (especially Firefox) have great built-in developer tools to "
 </div>
 
 
-## 2. General advice on moving from proposal to product
+## 2. Ideas for studio
 
 In a moment, I'm going to invite you to set goals for studio time. If you haven't yet sorted out your navigation, that's a great place to start!
 
