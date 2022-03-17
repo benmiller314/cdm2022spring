@@ -117,24 +117,23 @@ Here are some other things to consider as you move forward:
 
 <details><summary>Your homepage should probably be called something like index.html</summary>
 
-I'm going to recommend that everyone use GitHub Pages to publish your sites unless you have a good reason not to. (And you might; but talk to me about it.) In that system, you store your files in a GitHub repository (in a branch called "gh-pages," like this site, or a subdirectory called "docs" – look in your own repos!), and GH knows where to look to find your stuff. <em>By default, it'll show your README.md file as the home page, unless it finds a file called index.html or index.md</em>.
+<p>I'm going to recommend that everyone use GitHub Pages to publish your sites unless you have a good reason not to. (And you might; but talk to me about it.) In that system, you store your files in a GitHub repository (in a branch called "gh-pages," like this site, or a subdirectory called "docs" – look in your own repos!), and GH knows where to look to find your stuff. <em>By default, it'll show your README.md file as the home page, unless it finds a file called index.html or index.md</em>.</p>
 
-Therefore, rather than call your landing page myproject.html, landing.html, or home.html, you're better off using the index.html name. You can always change the <code>&lt;title&gt;</code> to give it a more accurate name in the browser tab. : )
+<p>Therefore, rather than call your landing page myproject.html, landing.html, or home.html, you're better off using the index.html name. You can always change the <code>&lt;title&gt;</code> to give it a more accurate name in the browser tab. : )</p>
 </details>
 
 <details><summary>Strive for semanticity.</summary>
-
+<p>
 Ask yourself:
 <ul>
   <li>Can you tell what's going on just by reading the HTML file?</li>
-  <li>Do your header levels (<code>&lt;h1&gt;, &lt;h2&gt;</code>, etc) correspond to your intended hierarchy? Try not to jump levels.</li>
+  <li>Do your header levels (<code>&lt;h1&gt;, &lt;h2&gt;</code>, etc) correspond to your intended hierarchy? Don't skip levels.</li>
   <li>Does the HTML hard-code any display (e.g. <code>&lt;center&gt;</code>, <code>&lt;b&gt;</code>) that should be in the CSS? (Older tutorials will suggest this, but it's not a great idea.)</li>
-</ul>
+</ul></p>
 </details>  
 
 <details>
-  <summary>Let appearances reflect the structure, not vice-versa</summary>
-  <p>This one's related to what I said above, but applies especially when you're starting to think about appearances. <em>Visuals are volatile; structure should be steady.</em> It can be very tempting to just accept your browser's default styles as a given, e.g. to jump from a large <code>&lt;h1&gt;</code> page title to an <code>&lt;h5&gt;</code> subtitle because the latter "looks about right." But this would mis-represent the actual structure of the document – and would seriously confuse screen-reader software trying to present the page to a blind visitor. Instead, use your browser's Inspector to take note of the CSS rules defining that <code>&lt;h5&gt;</code>, and apply them to <code>&lt;h2&gt;</code> in your stylesheet.</p><!-- This makes a good jump-point into the inspector... -->
+  <summary>Let appearances reflect the structure, not vice-versa</summary>  <p>This one's related to what I said above, but applies especially when you're starting to think about appearances. <em>Visuals are volatile; structure should be steady.</em> It can be very tempting to just accept your browser's default styles as a given, e.g. to jump from a large <code>&lt;h1&gt;</code> page title to an <code>&lt;h5&gt;</code> subtitle because the latter "looks about right." But this would mis-represent the actual structure of the document – and would seriously confuse screen-reader software trying to present the page to a blind visitor. Instead, use your browser's Inspector to take note of the CSS rules defining that <code>&lt;h5&gt;</code>, and apply them to <code>&lt;h2&gt;</code> in your stylesheet.</p><!-- This makes a good jump-point into the inspector... -->
 </details>
 
 <details> <!-- CONSIDER: SHOULD WE DO THIS ALL TOGETHER? -->
