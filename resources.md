@@ -263,7 +263,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 <dl>
 <dt><a href="https://internetingishard.com/html-and-css/">Interneting is Hard (but it doesn't have to be)</a></dt>
-<dt><a href="https://web.archive.org/web/20201105195453/https://www.internetingishard.com/html-and-css/">(WebArchive version)</a></dt>
+<dt><a href="https://web.archive.org/web/20180704003252/https://www.internetingishard.com/html-and-css/">(WebArchive version)</a></dt>
 <dd>Your one-stop shop for learning basic web architecture from the ground up, with clear explanations and cute illustrations. I'll assign chapters from this over several homeworks. </dd>
 
 <dt><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></dt>
