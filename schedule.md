@@ -335,7 +335,7 @@ For next time:
 <h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Thursday 4/14</a> – Consolidation Unit Studio / Preparing the Final Reflective Letter </h3>
 
 For next time:
-* Set yourself some deadlines: what are you trying to finish by the last class (in two days!)? Will you continue beyond that for Sunday, knowing the final portfolio is due soon?
+* Set yourself some deadlines: what are you trying to finish by the last class (in one week!)? Will you continue beyond that for Sunday, knowing the final portfolio is due soon?
 * **Push** a full-as-possible draft of consolidation project
 
 
