@@ -39,6 +39,12 @@ Shift now in your writing to think about the websites you navigate every day.
 
 Jot down some notes.
 
+EXT: Finished and waiting for others? Start working on two lists:
+make two quick lists (just about a minute each):
+1. Questions I have about layout (or responsive design)
+2. Things I've learned about layout (or responsive design)
+
+
 ## 3. Gathering criteria (20-30 min)
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit.
 
@@ -50,14 +56,14 @@ You're used to this process by now, yes?
 Criteria from previous semesters are posted in our [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.js1g72glbwwf) as a starting point.
 
 <div class="alert alert-success">
-<p>In groups, take 10ish minutes to talk amongst yourselves about what's working, what's missing, and what you'd like to move or modify.</p>
+<p>In groups at your tables, take 10ish minutes to talk amongst yourselves about what's working, what's missing, and what you'd like to move or modify.</p>
 
-<p>As you reach consensus, <strong>add comments</strong> or <strong>use the "suggestions" feature</strong> (click the pencil icon in the top right) to propose modifications or additions. Or ask questions, if you have them! If you prefer, you can also just upvote.</p>
+<p>As you reach consensus in your group, <strong>add comments</strong> or <strong>use the "suggestions" feature</strong> (click the pencil icon in the top right) to propose modifications or additions. Or ask questions, if you have them! If you prefer, you can also just upvote.</p>
 </div>
 
-Remember that _aspirational criteria are not required, but baseline criteria are_. Given the goals of the unit, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not merely in terms of quantity, but in terms of quality or challenge level? <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting – but not required for everyone.
+Remember that **aspirational criteria are not required, but baseline criteria are**. Given the goals of the unit, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not merely in terms of quantity, but in terms of quality or challenge level? _I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same._ Think about what would be new and potentially exciting... but not required for everyone.
 
-EXT: If your group feels finished, skip ahead: read through other groups' notes, respond to their questions on yours, or start discussing thoughts and questions on how to achieve your preferred aspirational goals.
+EXT: If your group feels finished, skip ahead: read through other groups' notes, respond to their questions on yours, or start discussing thoughts and questions on how to achieve your personal preferred aspirational goals.
 
 ### 3b. Comment and Discuss in the Doc (15-20 min)
 As you finish up, read through the other groups' notes,  *collegial* replies to their comments in the margins to **upvote**, **ask questions**, or **propose modifications**.
@@ -119,7 +125,7 @@ Don't forget to save periodically as you go:
  </ul>
 </div>
 
-<aside<!--class="alert alert-info"-->>
+<aside><!--class="alert alert-info"-->
 <p>NB: If you ever need to go "back in time" on your project, git lets you do so! Follow the steps at <a href="https://dangitgit.com/">dangitgit.com</a> to reset your point in the project history, take a few screenshots (or, for earlier projects, export a flattened .png or .mp3), and then repeat the process <em>without making any new commits</em> to return to the present. It's pretty nifty!</p>
 </aside>
 
