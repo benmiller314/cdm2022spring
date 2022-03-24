@@ -35,6 +35,20 @@ In the EXT readings on CSS Grid, from over the weekend, I'd mentioned [Grid By E
 
 I'll be in her [Grid by Example 11: Defining Grid Areas](https://codepen.io/rachelandrew/pen/oXKgoQ?editors=1100), which is a CodePen.
 
+<!-- Points to hit:
+
+* We can easily stretch the header or the sidebar
+* grid-template-columns: repeat(3, 120px);
+* grid-template-columns: 120px 1fr;
+* We can make the Content area its own grid (though NB that it's helpful to exclude the title of the section, so we'd need a wrapper)
+* grid-template-columns: repeat(autofit, 120px)
+  grid-template-rows: minmax(120px, max-content)
+
+-->
+
+
+### FAQ on layout
+
 <details><summary>When to use Grid, and when Flexbox?</summary>
 
 <p>Generally speaking, if you only have one dimension (one row, or one column), Flexbox is your friend. To put that another way: use <a href="https://ishadeed.com/article/grid-layout-flexbox-components/">Grid for layout, Flexbox for components</a>. (That link goes to a nice explanation, with examples, of when you'd want to use which.) Some things really are harder with Grid!</p>
@@ -105,7 +119,7 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 ## Homework for next time
 
 * Work to push a **full draft to GitHub by 10:00am Eastern Time on Tuesday**: a solid attempt at a complete website, ideally meeting baseline criteria. Rough edges are still welcome.
-  - Don't forget to update your *source credits and permissions* / license to use them. You can include these right on the website, or link from the website to a file (credits.md, or even README.md) in your repo. 
+  - Don't forget to update your *source credits and permissions* / license to use them. You can include these right on the website, or link from the website to a file (credits.md, or even README.md) in your repo.
 
 * If you're pretty sure by Monday dinnertime that you won't be ready to turn in a draft, please let me know asap so that I can responsibly rearrange peer-review groups.
   - That said, remember that pretty much any start, however rough, will count here. Even <a href="http://loremipsum.io">placeholder content</a> with navigation lets us see the parts you're thinking about, and maybe we can help you move forward from there.
