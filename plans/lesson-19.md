@@ -53,7 +53,7 @@ Remember to *talk to each other about what you value!*
 ### 3a. Review, comment, and suggest (10 min)
 You're used to this process by now, yes?
 
-Criteria from previous semesters are posted in our [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.js1g72glbwwf) as a starting point.
+Criteria from previous semesters are posted in our [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.js1g72glbwwf) as a starting point.
 
 <div class="alert alert-success">
 <p>In groups at your tables, take 10ish minutes to talk amongst yourselves about what's working, what's missing, and what you'd like to move or modify.</p>
@@ -125,7 +125,7 @@ Don't forget to save periodically as you go:
  </ul>
 </div>
 
-<aside><!--class="alert alert-info"-->
+<aside>
 <p>NB: If you ever need to go "back in time" on your project, git lets you do so! Follow the steps at <a href="https://dangitgit.com/">dangitgit.com</a> to reset your point in the project history, take a few screenshots (or, for earlier projects, export a flattened .png or .mp3), and then repeat the process <em>without making any new commits</em> to return to the present. It's pretty nifty!</p>
 </aside>
 

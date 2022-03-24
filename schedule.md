@@ -243,7 +243,7 @@ For next time:
 No homework: Wednesday is a self-care day. That said, if you find CSS Diner relaxing...
 </div> -->
 
-<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/22</a> –  Web Unit Criteria and Stretch Goals / Deployment</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Tuesday 3/22</a> –  Web Unit Criteria and Stretch Goals / Layout</h3>
 
 <!--
 * Make sure everyone has successfully activated GitHub Pages before they leave.

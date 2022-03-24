@@ -192,7 +192,7 @@ Ask yourself:
 
 ## 3. Go forth!
 
-In the [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes), **set a goal for today**: what do you need to do to level up on HTML, CSS, and resource gathering to move toward your specific project? Note that a Website Preview is due a week from today.
+ In the [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes), **set a goal for today**: what do you need to do to level up on HTML, CSS, and resource gathering to move toward your specific project? Note that a Website Preview is due a week from today.
 
 <div class="alert alert-info">
 If you haven't yet, please do expand and read my notes above. Also remember that you have many <a href="{{site.github_url}}/resources#web-design">Resources</a> on our website; for today, might I especially point out the <strong>design advantages of <a href="https://loremipsum.io">placeholder text</a> and/or <a href="https://loremipsum.io/21-of-the-best-placeholder-image-generators/">images</a></strong>?
