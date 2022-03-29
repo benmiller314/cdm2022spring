@@ -16,7 +16,7 @@ Table of contents:
 * [Free and Licensed Images, Sounds, and Other Assets](#free-and-licensed-images-sounds-and-other-assets)
    - [Sounds and Music](#sounds-and-music)
    - [Visuals](#visuals)
-   - [Web Frameworks](#web-frameworks)
+   - [Web Frameworks](#web-frameworks-and-libraries)
 * [Advice and Examples](#advice-and-examples)
    - [Audio Editing / Soundwriting](#audio)
    - [Visual Rhetoric and Design](#visual)
@@ -95,7 +95,7 @@ Table of contents:
 In this section:
 - [Sounds and Music](#sounds-and-music)
 - [Visuals](#visuals)
-- [Web Frameworks](#web-frameworks)
+- [Web Frameworks](#web-frameworks-and-libraries)
 
 <dl>
 <dt><a href="https://search.creativecommons.org">search.creativecommons.org</a></dt>
@@ -170,7 +170,7 @@ In this section:
 <dd>
 <p>Jekyll is actually a program in the Ruby language, but it functions as a tool for incorporating templates and variables into your web pages – so you can, for example, write the navigation once, and automatically have it pulled into every other html page you write. Especially useful for sites where you'll keep adding new pages, like blogs. (Or lesson plans! To see the code I use for this website, see the corresponding GitHub repo; there's a link in the footer.)</p>
 
-<p>Most importantly, it's also pre-installed on GitHub Pages, so you can easily deploy it for your web project. The first link above will take you to a step-by-step set-up for getting Jekyll running locally; if you do this in your website--username repository, you'll be good to add/commit/push and have your Jekyll-enabled code work online!</p>
+<p>Most importantly, it's also pre-installed on GitHub Pages, so you can easily deploy it for your web project. The first link below will take you to a step-by-step set-up for getting Jekyll running locally; if you do this in your website--username repository, you'll be good to add/commit/push and have your Jekyll-enabled code work online!</p>
 
 <p>You can find setup instructions at the following links:
 <ul><li><a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Jekyll step-by-step</a></li>

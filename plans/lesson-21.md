@@ -31,10 +31,10 @@ NB: If one of your partners has not yet posted a draft, contact them to ask abou
 Special note for those reviewing Paul's portfolio: please checkout the branch <a href="https://github.com/paullewis2013/Portfolio/tree/engcmpCDM_overhaul">engcmpCDM_overhaul</a>. Check in with me if you're not sure what that means or how to do it.
 </div>
 
-* <a href='https://github.com/paullewis2013/Portfolio'>Paul</a>, <a href='https://github.com/evankozierok/webs2022spring'>Evan</a>, <a href='https://github.com/KatelynKunzmann/webs2022spring'>Katelyn K</a>, <a href='https://github.com/19jinjinwu/webs2022spring'>Jin Jin</a>,
-* <a href='https://github.com/isabellebautista/webs2022spring'>Isabelle</a>, <a href='https://github.com/andres-trujillo7/webs2022spring.git'>Andres</a>, <a href='https://github.com/ellagrant/webs2022spring'>Ella</a>, <a href='https://github.com/aej37/webs2022spring'>Amanda</a>, <a href='https://github.com/kfm24/webs2022spring'>Kaitlyn Miller</a>,
-* <a href='https://github.com/glittaua/webs2022spring'>Gabe</a>, <a href='https://github.com/Mapatterson379/webs2022spring'>Makenzi</a>, <a href='https://github.com/mknuth5/webs2022spring'>Marty</a>, <a href='https://github.com/ellsimm/webs2022spring'>Ellie</a>, <a href='https://github.com/alocampo/webs2022spring'>Alex</a>,
-* <a href='https://github.com/jennakupferschmid/webs2022spring'>Jenna</a>, <a href='https://github.com/kaitlynmchugh/webs2022spring'>Kaitlyn McHugh</a>, <a href='https://github.com/elisewebb6/webs2022spring'>Elise</a>, <a href='https://github.com/jsw64/webs2022spring'>James</a>,
+* <a href='https://github.com/paullewis2013/Portfolio'>Paul</a>, <a href='https://github.com/evankozierok/webs2022spring'>Evan</a>, <a href='https://github.com/KatelynKunzmann/webs2022spring'>Katelyn K</a>, <a href='https://github.com/19jinjinwu/webs2022spring'>Jin Jin</a>
+* <a href='https://github.com/isabellebautista/webs2022spring'>Isabelle</a>, <a href='https://github.com/andres-trujillo7/webs2022spring.git'>Andres</a>, <a href='https://github.com/ellagrant/webs2022spring'>Ella</a>, <a href='https://github.com/aej37/webs2022spring'>Amanda</a>, <a href='https://github.com/kfm24/webs2022spring'>Kaitlyn Miller</a>
+* <a href='https://github.com/glittaua/webs2022spring'>Gabe</a>, <a href='https://github.com/Mapatterson379/webs2022spring'>Makenzi</a>, <a href='https://github.com/mknuth5/webs2022spring'>Marty</a>, <a href='https://github.com/ellsimm/webs2022spring'>Ellie</a>, <a href='https://github.com/alocampo/webs2022spring'>Alex</a>
+* <a href='https://github.com/jennakupferschmid/webs2022spring'>Jenna</a>, <a href='https://github.com/kaitlynmchugh/webs2022spring'>Kaitlyn McHugh</a>, <a href='https://github.com/elisewebb6/webs2022spring'>Elise</a>, <a href='https://github.com/jsw64/webs2022spring'>James</a>
 
 
 Go ahead and click through to your partners' repos, and either clone or **download the zip file** by clicking on the green <img class="d-inline-block" src="../assets/img/github-code-btn.png" alt="code" /> button. The latter will be a faster download than cloning, with just the latest snapshot. (But if you want to see revision history, the zip means you'd have to do it on the web.)
@@ -113,7 +113,7 @@ For a minimum grade of B, all projects for this unit must…
 <ul><li>Use Flexbox or Grid (or Float) layouts</li>
 <li>Use advanced navigation, e.g. drop-down menu, tabs, or sticky nav bar</li>
 <li>Condense your CSS stylesheet to the best of your ability</li>
-<li>Use Jekyll (built into GitHub Pages; see <a href="https://benmiller314.github.io/cdm2022spring/resources#web-frameworks">Resources</a> page) to minimize repetition in your HTML through templates and variables</li>
+<li>Use Jekyll (built into GitHub Pages; see <a href="https://benmiller314.github.io/cdm2022spring/resources#:~:text=write%20the%20navigation%20once%2C%20and%20automatically%20have%20it%20pulled%20into%20every%20other%20html%20page%20you%20write">Resources</a> page) to minimize repetition in your HTML through templates and variables</li>
 <li>Use a web framework to build your website (angular, react, etc. but also bootstrap, skeleton, etc, depending on your level)</li>
 <li>Use a JavaScript library (jQuery, etc)</li>
 <li>Use JavaScript at all, if that's new to you</li>
