@@ -159,14 +159,14 @@ It should have a brief description of the project, and may I also suggest an act
 As you finish taking in the advice of your peers (and going over my suggestions above), I'd like to know **what questions you have that I might be able to help with** – especially if it's about something you've seen in assigned readings or revision suggestions, but you're not sure how to implement.
 
 <div class="alert alert-success">
-Head into <a href="http://bit.ly/cdm2021spring-notes">the google doc</a> and write down what you're thinking about. It can be anonymous!</div>
+Head into <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">the google doc</a> and write down what you're thinking about. It can be anonymous!</div>
 
 I'll work through these in the Q&A room, and record my responses when they're ready, to post on Canvas. But if you're posting a question you'd like direct help with, please come on in! I'll start with those live questions.
 
 ## Studio Time!
 
 ### Set an intention
-As usual, before you start, <a href="http://bit.ly/cdm2021spring-notes">go to the next section of the google doc</a> and write a quick line about what you hope to accomplish with your remaining time. e.g. Will you...
+As usual, before you start, <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">go to the next section of the google doc</a> and write a quick line about what you hope to accomplish with your remaining time. e.g. Will you...
   <ul>
     <li>Work on responsive layout?</li>
     <li>Work on replacing placeholder content with real content?</li>
