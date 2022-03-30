@@ -62,15 +62,6 @@ In addition, after reading through the drafts and comments, I hope you can...
 </details>
 
 <details>
-<summary>Remember to proofread for tag nesting.</summary>
-
-<p>I said in the last bullet that <code>&lt;body&gt;</code> should be at the top of the page, but I also know it's often confusing for newcomers to html: many of you are naturally inclined to put your navigation up above the body tag, sometimes in the head and sometimes even above the html tag. I get it: in many contexts, the "body of the page" doesn't include things like headings and menus. And many browsers will be flexible enough to figure out what you mean.</p>
-
-<p>But properly speaking, the <em>entire</em> rendered content of the page should fall between <code>&lt;body&gt;</code> and <code>&lt;/body&gt;</code>, and <code>&lt;/html&gt;</code> should be the last line in the file with any content. (A blank line after that is fine.)</p>
-
-</details>
-
-<details>
 <summary>Have alt text for all your images.</summary>
 <p>Text-alternatives, which you add to images using <code>&lt;img alt="text description here" src="path/to/source.jpg"&gt;</code>, are a required element in validated html. They're also really helpful, and not only to blind users: they make the html file more readable on its own, and thus more semantic, and they help you troubleshoot layout when image paths are broken by showing you where each image is trying to appear.</p>
 
@@ -79,7 +70,7 @@ In addition, after reading through the drafts and comments, I hope you can...
 
 
 <details>
-<summary>Level up your HTML semantics.</summary>
+<summary>Level up your HTML.</summary>
 
 <p>I see this in two ways: div soup, and hard-coded spacing.</p>
 
@@ -118,20 +109,32 @@ You can also <a href="https://css-tricks.com/almanac/properties/l/list-style">ch
 <div class="alert alert-info"><em>NB: If an image is under copyright, you can still use it if you can make a good case that it's a Fair Use.</em>  See the homework reading after <a href="lesson-04">Lesson 4</a> to review the Four Factors you need to consider.</div>
 </details>
 
-<!-- <details>
+<!-- index.html
+<details>
 <summary>Call your homepage index.html (or index.md)</summary>
 By default, this is what a web browser will display when you just type in the URL of your website: it is, in other words, the default filename for your home page. If your home page currently has another filename, <a href="https://www.lifewire.com/index-html-page-3466505">you probably want to change it to index.html</a>. You can always keep your more interesting name as the &lt;title&gt;!
 </details> -->
 
 
-<!-- <details>
+<!-- Consider titles
+<details>
 <summary>Consider titles.</summary>
 
 A title can provide a context, a clue, a genre, a commentary; it can add an extra layer to viewer expectations. In previous units, you were titling your entire project; for a website, every page has its own <code>&lt;title&gt;</code> element in the <code>&lt;head&gt;</code>, which will show up in the browser's tab. These titles <em>could</em> be the same for all your pages, but they could also vary. What text do you want on top of the window, to show users where they are?
 </details> -->
 
+<!-- Proofread for tag nesting
+<details>
+<summary>Remember to proofread for tag nesting.</summary>
 
+<p>I said in the last bullet that <code>&lt;body&gt;</code> should be at the top of the page, but I also know it's often confusing for newcomers to html: many of you are naturally inclined to put your navigation up above the body tag, sometimes in the head and sometimes even above the html tag. I get it: in many contexts, the "body of the page" doesn't include things like headings and menus. And many browsers will be flexible enough to figure out what you mean.</p>
 
+<p>But properly speaking, the <em>entire</em> rendered content of the page should fall between <code>&lt;body&gt;</code> and <code>&lt;/body&gt;</code>, and <code>&lt;/html&gt;</code> should be the last line in the file with any content. (A blank line after that is fine.)</p>
+
+</details>
+-->
+
+<!-- Lowest linecount challenge
 <details>
 <summary>When you're ready for polish, take the lowest line-count challenge.</summary>
 
@@ -147,13 +150,14 @@ A title can provide a context, a clue, a genre, a commentary; it can add an extr
   <li>Some containers are important for positioning, e.g. centering with a flexbox.</li>
   <li>Others, though, are unnecessary clutter: if you can "unwrap" the element and apply CSS rules directly to it, with no loss in function, go ahead and unwrap it. You can usually move classes from an outer element straight onto the inner one. See my <a href="https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9171fa85-be27-437d-99b9-acfa00f44a4f">demo video from last week</a> for an example.</li>
 </ul></p>
-</details>
+</details> -->
 
 
+<!-- Update your README
 <details>
 <summary>Remember to update your README.</summary>
 It should have a brief description of the project, and may I also suggest an active link to your live website, if you have one?
-</details>
+</details> -->
 
 ## Gathering questions
 
