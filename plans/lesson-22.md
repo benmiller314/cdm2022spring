@@ -78,7 +78,8 @@ In addition, after reading through the drafts and comments, I hope you can...
 </details>
 
 
-<details><summary>Level up your HTML semantics.</summary>
+<details>
+<summary>Level up your HTML semantics.</summary>
 
 <p>I see this in two ways: div soup, and hard-coded spacing.</p>
 
@@ -101,9 +102,9 @@ You can also <a href="https://css-tricks.com/almanac/properties/l/list-style">ch
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-</figure> -->
+</figure>
 
-</details>
+</details> -->
 
 <details>
 <summary>Remember to credit your sources somewhere on the site.</summary>
