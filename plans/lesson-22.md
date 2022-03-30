@@ -55,7 +55,7 @@ In addition, after reading through the drafts and comments, I hope you can...
       font-size: 4em;
     }
 
-</code></pre>
+</code></pre></p>
 
 <p>That last rule selects <code>h1</code> elements only if they're inside a <code>&lt;body class="home"&gt;</code>. You add the class at the top of the file, and voila! A per-page style within the same sitewide stylesheet.</p>
 
