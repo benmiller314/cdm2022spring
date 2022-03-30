@@ -162,6 +162,6 @@ But this is not just a way of ensuring that you get feedback from three partners
 I said above that peer reviews are due ideally by Thursday morning; even if that's not possible, please be sure to have them completed no later than Thursday at 12:45pm, so your partners have them for in-class studio.
 </div>
 
-## EXT: Thinking ahead
+## EXT / Homework: Thinking ahead
 * As I did at the same point in the audio and visual units, I'm inviting you to think forward into the final unit, when you'll work to consolidate or build on what you've learned – possibly in partnership with your peers. See <a href="{{site.github.issues_url}}">the issue queue</a> for more details.
 * There is no minimum length for this post, but I am interested to see if folks are still thinking about collaborating on an animation project or podcast...
