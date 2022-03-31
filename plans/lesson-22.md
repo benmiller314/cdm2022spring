@@ -5,20 +5,15 @@
 
 **Plan for the day**:
 
-* Back to the feedback
 * Planting seeds
 * Gathering questions
 * Studio time!
-  - Wet an intention
+  - Check for new feedback
+  - Set an intention
   - Work time
   - Exit note
 
 
-## Back to the feedback
-
-I had set the deadline for asynchronous workshop fairly close to the start of class, so as of my writing this, a lot of notes were still missing. Please **open up your website repo, head into the history, and see if you have any unread comments there.**
-
-Hopefully everyone has by now received at least 2 (ideally 3) comments from members of your workshop groups! **If you have not, please let me know**, so I can make sure you've got a diverse set of perspectives on your work in progress.
 
 ## Planting seeds
 
@@ -169,6 +164,12 @@ Head into <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">the google d
 I'll work through these in the Q&A room, and record my responses when they're ready, to post on Canvas. But if you're posting a question you'd like direct help with, please come on in! I'll start with those live questions.
 
 ## Studio Time!
+### Check for new feedback
+
+I had set the deadline for asynchronous workshop fairly close to the start of class, so as of my writing this, a lot of notes were still missing. Please **open up your website repo, head into the history, and see if you have any unread comments there.**
+
+Hopefully everyone has by now received at least 2 (ideally 3) comments from members of your workshop groups! **If you have not, please let me know**, so I can make sure you've got a diverse set of perspectives on your work in progress.
+
 
 ### Set an intention
 As usual, before you start, <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">go to the next section of the google doc</a> and write a quick line about what you hope to accomplish with your remaining time. e.g. Will you...
@@ -192,6 +193,7 @@ Don't forget to save periodically as you go:
 
 ### Work Time
 Please ask questions as they come up. Otherwise, I'll try to work through the questions from the doc.
+
 
 ### Exit Note
 Before you leave, just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular CSS skill? Decide something about your project? Raise a question in a new way that you'd like some help with?
