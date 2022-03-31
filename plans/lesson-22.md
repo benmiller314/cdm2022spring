@@ -161,7 +161,8 @@ As you finish taking in the advice of your peers (and going over my suggestions 
 <div class="alert alert-success">
 Head into <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">the google doc</a> and write down what you're thinking about. It can be anonymous!</div>
 
-I'll work through these in the Q&A room, and record my responses when they're ready, to post on Canvas. But if you're posting a question you'd like direct help with, please come on in! I'll start with those live questions.
+I'll float and respond to in-person questions, as usual, but when I have some down time I'll also come back to these questions in the gdoc and write up responses.
+
 
 ## Studio Time!
 ### Check for new feedback
