@@ -67,13 +67,17 @@ In addition, after reading through the drafts and comments, I hope you can...
 <details>
 <summary>Level up your HTML.</summary>
 
-<p>I see this in two ways: div soup, and hard-coded spacing.</p>
+<p>I see this in three ways: div soup, hard-coded spacing, and skipped header levels.</p>
 
 <p>"Div soup" is when you have divs inside divs inside divs, and they all start to flow and meld and it's hard to see what role each thing is actually playing. To help with that, <em>see whether you can replace some with a more semantic tag</em>: Is that div with one line of text acting like an <code>&lt;h2&gt;</code>? Are those divs wrapping up each of several articles of clothing with its photo, name, and price acting like <code>&lt;article&gt;</code>s? Is the whole display of items really a <code>&lt;section&gt;</code>?</p>
 
 <p>When I say "hard-coded spacing," I mean spacing that uses  <code>&lt;br/&gt;</code>. That tag is not really for spacing, but rather for creating <em>manual but meaningful line breaks</em>. Think poetry, or maybe a two-part heading where you want to enforce a particular phrasing (e.g. a line break after a colon). A real <code>&lt;br/&gt;</code> should itself be part of your content, a piece of punctuation as much as a comma or period. <em>Instead of hard-coding space after your paragraphs or headers, give them some <code>margin-bottom</code>!</em> A margin of 1em or slightly more (depending on your <code>line-height</code>) should do the trick.</p>
 
-<!-- put a gif here of adding and removing margin -->
+<!-- put a gif here of adding and removing margin? -->
+
+
+<p>Finally, your <code>h1</code>, <code>h2</code>, and <code>h3</code> headings should follow a nested sequence that respects their numbers: the top-level heading on any given page should be an <code>h1</code>, and you shouldn't have any <code>h3</code>'s unless you first proceed through <code>h2</code>. If you like the look of a smaller header, but that would "require" you to skip a level, instead use your browser's inspector to find the current CSS – font size, color, spacing, etc – and copy/paste that into a new rule for the heading level you're actually up to. (See above for tips on limiting the scope of these changes through classes and descendent selectors.)</p>
+
 </details>
 
 <!-- <details><summary>Level up your ordered lists.</summary>
