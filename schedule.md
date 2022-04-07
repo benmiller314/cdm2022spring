@@ -318,7 +318,7 @@ For next time:
 For next time:
 * *Preparing for the final portfolio:*
   * **Read** Paul Ford's short "Letter of Recommendation: Bug Fixes" from <em><a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">The New York Times Magazine</a></em> (June 11, 2019). ([Pitt Library link](http://pitt.idm.oclc.org/login?url=https://search-proquest-com.pitt.idm.oclc.org/docview/2237787684))
-  * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
+  * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans; maybe even review your studio goals and exit notes. What things have you done this semester?
 * *Preparing one final project or revision:*
   * Work through the questions in the EXT, if you didn't yet, to develop an informal project pitch you can post to the shared google doc.
 

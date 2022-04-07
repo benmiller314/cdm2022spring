@@ -234,7 +234,7 @@ If you'd like me to set up breakout rooms to talk as a group, let me know! I'm h
 
 * *Preparing for the final portfolio:*
   * **Read** Paul Ford's short "Letter of Recommendation: Bug Fixes" from <em><a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">The New York Times Magazine</a></em> (June 11, 2019). ([Pitt Library link](http://pitt.idm.oclc.org/login?url=https://search-proquest-com.pitt.idm.oclc.org/docview/2237787684))
-  * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects. Skim through the lesson plans. What things have you done this semester?
+  * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans; maybe even review your studio goals and exit notes. What things have you done this semester?
   <!-- * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. NB: THIS MAKES MORE SENSE AS THE FINAL HOMEWORK ASSIGNMENT-->
 
 * *Preparing one final project or revision:*
