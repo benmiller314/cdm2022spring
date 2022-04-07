@@ -192,14 +192,19 @@ That first generative loop writing took you through the skills and projects you 
 
 Consider the following roles:
 
-| role | description |
-| ---- | ----------- |
-| project manager | organize schedule, keep everyone on task |
-| visual designer | plan layout and execute visual hierarchy |
-| experience designer | plan interactivity, spatiality, sequence |
-| programmer | get into the weeds of code |
-| researcher | find materials and assets, quickly grasp tutorials |
-| copy writer | produce public-ready prose |
+<table class="table table-hover">
+  <thead>
+    <tr><th scope="col">role</th><th scope="col">description</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>project manager</td><td>organize schedule, keep everyone on task</td></tr>
+    <tr><td>visual designer</td><td>plan layout and execute visual hierarchy</td></tr>
+    <tr><td>experience designer</td><td>plan interactivity, spatiality, sequence</td></tr>
+    <tr><td>programmer</td><td>get into the weeds of code</td></tr>
+    <tr><td>researcher</td><td>find materials and assets, quickly grasp tutorials</td></tr>
+    <tr><td>copy writer</td><td>produce public-ready prose</td></tr>
+  </tbody>
+</table>
 
 <div class="alert alert-success">
 Take some notes:
