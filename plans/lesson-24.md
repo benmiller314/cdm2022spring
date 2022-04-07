@@ -11,7 +11,7 @@
 2. Final Portfolio Preview and Consolidation Unit Goals (10-15 min)
 3. Generative Writing: What skills to practice? (15 min) <!-- Perl guidelines -->
 4. Roles and Reflection (15 min) <!-- where are you? where can you level up? where do you want assistance? -->
-5. EXT: Studio time
+5. EXT: Studio time / generating project pitches
 
 
 ## 1. Creative writing as a tool for critical thinking (15-20 min)
@@ -234,7 +234,7 @@ If you'd like me to set up breakout rooms to talk as a group, let me know! I'm h
 # Homework for next time
 
 <div class="alert alert-info">
-<p><strong>If you haven't yet finished your website project and reflection, start there.</strong> You could even save the Ford reading for afterward, in that case, as it's mainly intended to set up your final reflection, on the whole course.</p>
+<p><strong>If you haven't yet finished your website project and reflection, start there.</strong> You could even save the Ford reading for afterward, in that case, as it's mainly intended to set up your final reflection (on the whole course), with project inspiration as a side benefit.</p>
 </div>
 
 * *Preparing for the final portfolio:*
