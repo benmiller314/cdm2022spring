@@ -319,11 +319,8 @@ For next time:
 * *Preparing for the final portfolio:*
   * **Read** Paul Ford's short "Letter of Recommendation: Bug Fixes" from <em><a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">The New York Times Magazine</a></em> (June 11, 2019). ([Pitt Library link](http://pitt.idm.oclc.org/login?url=https://search-proquest-com.pitt.idm.oclc.org/docview/2237787684))
   * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
-  * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you.
 * *Preparing one final project or revision:*
-  * Make a new repository<a href="#ftn2" id="ftnref2"><sup>[2]</sup></a> (GH, Box, or Drive) containing a task list for your project – along with proposed roles for your team members, if you have a team of more than one.
-    - Post a link to this repository on the [Issue Queue]({{site.github.issues_url}}).
-    - Decide (together, if applicable) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
+  * Work through the questions in the EXT, if you didn't yet, to develop an informal project pitch you can post to the shared google doc.
 
 <h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Tuesday 4/12</a> – Consolidation Unit Studio and maybe sortof criteria</h3>
 
@@ -344,6 +341,7 @@ For next time:
 For next time:
 * Set yourself some deadlines: what are you trying to finish by the last class (in two days!)? Will you continue beyond that for Sunday, knowing the final portfolio is due soon?
 * **Push** a full-as-possible draft of consolidation project
+* **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll share these in the last class.
 
 
 
@@ -353,7 +351,7 @@ For next time:
 
 For next time:
 * Finish consolidation project by Sunday, if you haven't yet
-* Work to complete your final portfolio (due in our final exam slot, t.b.d.)
+* Work to complete your final portfolio (due in our final exam slot, which is Thursday, April 28th at 2pm)
 
 
 <div class="footnote-block" style="margin-top:3em;">
