@@ -345,6 +345,14 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>I'm still in the market for good tutorials on working with Atom, but <a href="https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_">this one from Level Up</a> looks pretty decent; essential episodes include <a href="https://www.youtube.com/watch?v=ZnzLPIhMJnw&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=4">#3 The Atom Interface with Tips and Tricks</a> and <a href="https://www.youtube.com/watch?v=IgSW1umKrVs&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=7">#6 Project Management In Atom</a>.</p>
 
 </dd>
+
+<dt>How to hide your website from search engines</dt>
+<dd><p>You can make your website accessible to the world by using GitHub Pages, which is great for sharing personal or professional sites with friends, family, and potential employers. But if you've made a website for a business that doesn't actually exist, you might not want the link to spread too widely, lest someone try to buy something you can't yet sell them.</p>
+
+<p>In that case, you'll want to create a file called <strong>robots.txt</strong> to tell all the webcrawlers (from Google and Yahoo, not from Marvel) to leave your site out of their indexes. See <a href="https://moz.com/learn/seo/robotstxt#:~:text=Blocking%20all%20web%20crawlers%20from%20all%20content">moz.com/learn/seo/robotstxt</a> for more information.</p>
+</dd>
+
+
 </dt></dt>
 </dl>
 
