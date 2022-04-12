@@ -307,7 +307,7 @@ For next time:
 
 <h2 id="unit-5">Unit V: Putting it Together (Bit by Bit)<a href="https://youtu.be/rJFz-ucuTvs?t=328"><span class="hidden">*</span><sup>*</sup></a></h2>
 
-*In this final unit I'll ask you to build on what you've already made: a revision, an extension, or a combination, of the modes and media you used in earlier units. If you have a team that can collaborate effectively via online formats (via Zoom, Discord, Slack, what-have-you), that's up to you! Please do let me know if you want to be in a break-out group together during class. It's a short sprint to the end of term, so scope your ambitions accordingly!*
+*In this final unit I'll ask you to build on what you've already made: a revision, an extension, or a combination, of the modes and media you used in earlier units. If you have a team that can collaborate effectively, that's up to you! Please do let me know if you want to be in a break-out group together during any remaining online classes. It's a short sprint to the end of term, so scope your ambitions accordingly!*
 
 <!-- <p>If you're feeling especially aspirational, might I suggest that a game or interactive story built in <a href="https://twinery.org">Twine</a> might serve that combinatory goal quite well? I'll see what I'm able to screen-record by way of introduction / guidance.</p> -->
 
