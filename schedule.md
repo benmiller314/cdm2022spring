@@ -322,7 +322,7 @@ For next time:
 * *Preparing one final project or revision:*
   * Work through the questions in the EXT, if you didn't yet, to develop an informal project pitch you can post to the shared google doc.
 
-<h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Tuesday 4/12</a> – Consolidation Unit Studio and maybe sortof criteria</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Tuesday 4/12</a> – Consolidation Unit Pitch Market and Studio</h3>
 
 For next time:
 * **Push** a project preview (i.e. get something started) to your repository.

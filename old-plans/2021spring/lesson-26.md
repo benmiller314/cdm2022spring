@@ -1,6 +1,6 @@
 # Consolidation Unit Studio / Guidance for the Final Reflective Letter
 
-**Work to have done**: <!-- respond to an updated version of the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey); -->Read Paul Ford [on the pleasures of reading git commit histories](https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html); maybe read back through your old notes (in the [google doc](http://bit.ly/cdm2021spring-notes); begin preparing for your final portfolio and a consolidation project to include in it; .
+**Work to have done**: <!-- respond to an updated version of the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey); -->Read Paul Ford [on the pleasures of reading git commit histories](https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html); maybe read back through your old notes (in the [google doc](http://bit.ly/cdm2021spring-notes); begin preparing for your final portfolio and a consolidation project to include in it.
 
 **Plan for the day**:
 
