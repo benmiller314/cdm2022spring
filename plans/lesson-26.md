@@ -44,21 +44,21 @@ The questions below are meant to help you develop your thoughts toward that firs
 <details open><summary>Guiding questions for the end-of-term reflection</summary>
 
 <ol class="lalpha">
-<li><p>What advice or ideas have been most helpful to your thinking about composing, about digital environments or tools, about mediation? In other words, what do you most want to remember for future digital composition? </p>
+<li><p>What <strong>advice or ideas</strong> have been most helpful to your thinking about composing, about digital environments or tools, about mediation? In other words, what do you most want to remember for future digital composition? </p>
 
 <p>These may come from comments on your own projects, discussions of your classmates' work, office hour or class-time conversations, or assigned readings. </p>
 </li>
 
-<li><p>When you look back at the unit goals and overall course outcomes, where do you feel you’ve been most successful? The most challenged? If something’s held you back, how might you get around that barrier? (Or would you change the goal for yourself?) </p>
+<li><p>When you look back at the <strong>unit goals and overall course outcomes</strong>, where do you feel you’ve been most successful? The most challenged? If something’s held you back, how might you get around that barrier? (Or would you change the goal for yourself?) </p>
 
 <p>Note that this is another way of asking a common end-of-term question: what do you see as the strengths of the work you've done for this course, and what are the areas in which you feel you’ve most improved? </p>
 
 <p>Make specific references to projects or revisions.</p>
 </li>
 
-<li><p>What, if anything, surprised you during the course? Now that you’ve seen how it all pans out, are there any suggestions you’d make for a revision in the course structure or assignments? (I update my syllabi every time, so your feedback is truly welcome!)</p></li>
+<li><p>What, if anything, <strong>surprised</strong> you during the course? Now that you’ve seen how it all pans out, are there any suggestions you’d make for a revision in the course structure or assignments? (I update my syllabi every time, so your feedback is truly welcome!)</p></li>
 
-<li><p>Moving forward, what are your plans for continuing to develop your digital media skills? Will you continue working on any of these projects, in other classes or outside class?</p></li>
+<li><p>Moving forward, what are your <strong>plans</strong> for continuing to develop your digital media skills? Will you continue working on any of these projects, in other classes or outside class?</p></li>
 </ol>
 
 <p>NB: If at any point you’re tempted to say "all of it" (or “none,” though I hope that’s not true), that’s a fine start, but then prioritize: name something specific and concrete, even if it's just one example, so it's written somewhere you’ll be able to find it later.</p>
