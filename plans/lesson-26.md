@@ -6,7 +6,7 @@
 
 1. Reminder about portfolio contents; guiding questions for final reflection
 2. Studio (45-60 min)
-3. HW: Carry On! + Tech Survey Redux
+3. HW: Carry On!
 
 ## Reminder and Guiding Questions
 As we have for each individual unit, for the final portfolio I’m asking you to write reflectively about the course and your work in it, crystalizing what you’ve learned – and how you will go on learning – about composing digital media.
