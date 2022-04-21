@@ -94,6 +94,10 @@ Some people have historically asked  questions that maybe you have floating arou
 [Link to soundscape repository](https://github.com/username/repo)
 </code></pre>
 </details>
+<details><summary>Why do I need to link to the project <strong>and</strong> link to the repository? Aren't those the same?</summary>
+<p>The project link should take us to the final, rendered version: the "flat" export, or the home page of the website. This is to avoid any potential confusion in your file structure, where it might be unclear which version is really the final one. So click through to the actual file in your repo, and then grab <em>that</em>URL.</p>
+<p>That said, I also want to have easy access to the repository as a whole, so I can look at things like the README, credits, commit history, etc.</p>
+</details>
 <details><summary>When you say, "link to a specific point in the revision history..."</summary>
 <p><strong>When I ask you to link to a specific point in the revision history</strong>, i.e. for an earlier draft, you can follow the same setup as above. That is, you can use the structure <code class="language-plaintext highlighter-rouge">[anchor](URL)</code>.</p>
 <p>But instead of getting the URL of the repo as a whole, <em>click through to the commit history, like you did for workshop, and grab the URL of the commit</em> that represents that past moment you want to compare to the present.</p>
