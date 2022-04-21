@@ -52,7 +52,7 @@ In brief: please do fill these out, but <strong>please do your best to be fair, 
 <div class="alert alert-success">
 If you haven't yet filled out your survey, please do so now. You should have a link to the survey on Canvas, or in your Pitt email.</div>
 
-EXT 1: I know some of you may already have filled out the end-of-semester version of the <a href="http://bit.ly/cdm-tech-comfort-redux">Tech Comfort Survey</a>, but if you haven't, I hope you'll consider doing so now.
+EXT 1: I know some of you may already have filled out the end-of-semester version of the <a href="https://bit.ly/tech-comfort-redux">Tech Comfort Survey</a>, but if you haven't, I hope you'll consider doing so now.
 
 EXT 2: If you've done the Survey and the OMET to your satisfaction and you're waiting for your classmates to finish, you can use this time for solo work on your portfolio / revisions or your final reflection.
 
