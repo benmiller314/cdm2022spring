@@ -7,6 +7,8 @@ banneralt: "banner: phases of the moon"
 
 # Class-by-Class Schedule
 
+*[Jump to latest lesson plan](#current)*
+
 Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1"><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), Pitt's [Box or OneDrive](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) (next best thing), an external service like Dropbox, or flash drive.
 
 <div class="panel panel-info">
@@ -344,7 +346,7 @@ For next time:
 * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll share these in the last class.
 
 
-
+<a id="current"/>
 <h3 id="final"><a href="{{site.github_url}}/plans/lesson-28">Lesson 28, Thursday 4/21</a> – Last day of class! Looking back and looking forward</h3>
 
 <!-- Asynchronous writing toward final portfolio reflection -->
