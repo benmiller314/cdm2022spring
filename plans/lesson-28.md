@@ -109,11 +109,17 @@ Anything else you're wondering?
 
 As usual, please...
 
-1. Write your goals [in the google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes)
+1. Write your goals [in the google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.1tqhsvrbsrr2)
 2. Expect to leave an exit note to report on progress and re-set goals for moving forward.
 3. Save an extra couple of minutes at the end of class, to bring us back together, for closure.
 
 For Zoomers, I'll once again set breakout rooms for maximum flexibility, and otherwise hang out in the main room unless people need one-on-one time (when we can go to an extra room set aside for that purpose).
+
+Just for fun: Final stats for the shared google doc, as of last night (and probably longer now!)
+* 12,678 words
+* ~46 pages
+* 30,143 revisions
+
 
 ### Exit note
 
