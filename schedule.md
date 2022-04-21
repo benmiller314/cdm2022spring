@@ -363,3 +363,5 @@ For next time:
 <p class="footnote"><a href="#ftnref2" id="ftn2">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref2"><em>~jump back~</em></a></p>
 
 </div>
+
+*[back to top](#top)
