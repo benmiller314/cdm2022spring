@@ -4,7 +4,7 @@ Over the course of the semester, you will complete four projects – three solo 
 
 ## Soundscape Narrative
 
-For the first project, you will arrange layers of sound to project a sense of place, and of things happening in that place. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
+For the first project, you will arrange layers of sound to project a sense of place, and of things happening in that place. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.) See the [assignment prompt](https://github.com/benmiller314/soundscape{{site.course.slugterm}}) for more details.
 
 *(h/t to Kelsey Cameron for this assignment.)*
 
