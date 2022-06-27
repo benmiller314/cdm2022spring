@@ -4,7 +4,7 @@ Over the course of the semester, you will complete four projects – three solo 
 
 ## Soundscape Narrative
 
-For the first project, you will arrange layers of sound to project a sense of place, and of things happening in that place. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.) See the [assignment prompt](https://github.com/benmiller314/soundscape{{site.course.slugterm}}) for more details.
+For the first project, you will arrange layers of sound to project a sense of place, and of things happening in that place. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.) See the [assignment prompt](https://github.com/benmiller314/soundscape{{site.course.slugterm}}#readme) for more details.
 
 *(h/t to Kelsey Cameron for this assignment.)*
 
@@ -13,12 +13,12 @@ For the first project, you will arrange layers of sound to project a sense of pl
 
 The second project asks you to make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, inviting someone inside, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.
 
-We'll talk more about possible constraints in class.
+We'll talk more about possible constraints in class. See the [assignment prompt](https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#readme) for more details.
 
 
 ## Website Portfolio
 
-For your third project, you will build a responsive website using basic html and css files (as opposed to a site manager like WordPress or Wix), along with any media assets you wish to embed. One relatively straightforward option for this unit is to stage and present the materials you produced earlier in the term; depending on your needs and interests, however, you can also develop this into a more sustainable and public-facing platform from which to manage your online identities.
+For your third project, you will build a responsive website using basic html and css files (as opposed to a site manager like WordPress or Wix), along with any media assets you wish to embed. One relatively straightforward option for this unit is to stage and present the materials you produced earlier in the term; depending on your needs and interests, however, you can also develop this into a more sustainable and public-facing platform from which to manage your online identities. See the [assignment prompt](https://github.com/benmiller314/webs{{site.course.slugterm}}#readme) for more details.
 
 
 ## Consolidation / Integration
